@@ -1,9 +1,9 @@
-# Tema 1 — Test de Autoevaluacion
+# Tema 1 — Test de Autoevaluación
 
-> **Titulo**: La Constitucion Espanola (I): Estructura y contenido. Derechos y deberes fundamentales. Su garantia y suspension.
-> **Formato**: 150 preguntas tipo test A/B/C (formato oficial oposicion) + 20 preguntas en formato pedagogico con explicacion y referencia al articulado.
-> **Nivel**: C1 — Tecnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Version**: 1.0 — Pendiente validacion
+> **Título**: La Constitución Española (I): Estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión.
+> **Formato**: 150 preguntas tipo test A/B/C (formato oficial oposición) + 20 preguntas en formato pedagógico con explicación y referencia al articulado.
+> **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
+> **Versión**: 1.0 — Pendiente validación
 > **Fecha**: 2026-04-23
 > **Fuentes**: ver `tema-1-fuentes.md`
 
@@ -12,11 +12,11 @@
 ## Instrucciones
 
 - Cada pregunta tiene **3 opciones** (a, b, c). Solo una es correcta.
-- Penalizacion en examen real: respuesta incorrecta descuenta **1/3** del valor de una correcta.
+- Penalización en examen real: respuesta incorrecta descuenta **1/3** del valor de una correcta.
 - Tiempo orientativo: **1 minuto por pregunta**.
 - **Preguntas 1-90**: banco validado aportado por el cliente (Tier 2). Referencia de formato y estilo.
-- **Preguntas 91-150**: nuevas, redactadas siguiendo identico patron.
-- **Seccion pedagogica (20 preguntas)**: seleccion representativa con explicacion razonada y referencia al articulo. Para uso de estudio, no para simulacro cronometrado.
+- **Preguntas 91-150**: nuevas, redactadas siguiendo idéntico patrón.
+- **Sección pedagógica (20 preguntas)**: selección representativa con explicación razonada y referencia al artículo. Para uso de estudio, no para simulacro cronometrado.
 
 ---
 
@@ -24,343 +24,343 @@
 
 ### Bloque 1 — Principios generales y valores superiores
 
-1. De acuerdo con la Constitucion Espanola, Espana se constituye en:a) Un Estado social y democratico de derecho.b) Un Estado democratico de caracter federal.c) Un Estado liberal con separacion de poderes.
+1. De acuerdo con la Constitución Española, España se constituye en:a) Un Estado social y democrático de derecho.b) Un Estado democrático de carácter federal.c) Un Estado liberal con separacion de poderes.
 
-2. De conformidad con la Constitucion Espanola, la soberania nacional:a) Reside en las Cortes Generales.b) Reside en el pueblo espanol.c) Reside en el Rey.
+2. De conformidad con la Constitución Española, la soberanía nacional:a) Reside en las Cortes Generales.b) Reside en el pueblo español.c) Reside en el Rey.
 
-3. Segun la Constitucion Espanola, la forma politica del Estado espanol es:a) Republica parlamentaria.b) Monarquia constitucional.c) Monarquia parlamentaria.
+3. Según la Constitución Española, la forma política del Estado español es:a) Republica parlamentaria.b) Monarquía constitucional.c) Monarquía parlamentaria.
 
-4. De acuerdo con el articulo 1 de la Constitucion Espanola, son valores superiores del ordenamiento juridico:a) Libertad, justicia, igualdad y pluralismo politico.b) Libertad, igualdad y legalidad.c) Justicia, igualdad y seguridad juridica.
+4. De acuerdo con el artículo 1 de la Constitución Española, son valores superiores del ordenamiento jurídico:a) Libertad, justicia, igualdad y pluralismo político.b) Libertad, igualdad y legalidad.c) Justicia, igualdad y seguridad jurídica.
 
-5. De conformidad con la Constitucion Espanola, el principio de legalidad implica:a) La actuacion discrecional de los poderes publicos.b) La sujecion de todos a la Constitucion y al resto del ordenamiento juridico.c) La supremacia del poder ejecutivo.
+5. De conformidad con la Constitución Española, el principio de legalidad implica:a) La actuación discrecional de los poderes públicos.b) La sujecion de todos a la Constitución y al resto del ordenamiento jurídico.c) La supremacía del poder ejecutivo.
 
-### Bloque 2 — Derechos fundamentales y libertades publicas (arts. 14-29)
+### Bloque 2 — Derechos fundamentales y libertades públicas (arts. 14-29)
 
-6. De acuerdo con la Constitucion Espanola, la igualdad ante la ley implica que:a) No podra prevalecer discriminacion alguna por razon de nacimiento, raza, sexo, religion, opinion o cualquier otra condicion o circunstancia personal o social.b) Solo se garantiza en el ambito judicial.c) Puede limitarse por reglamento.
+6. De acuerdo con la Constitución Española, la igualdad ante la ley implica que:a) No podrá prevalecer discriminación alguna por razon de nacimiento, raza, sexo, religion, opinión o cualquier otra condición o circunstancia personal o social.b) Solo se garantiza en el ámbito judicial.c) Puede limitarse por reglamento.
 
-7. De conformidad con el articulo 15 de la Constitucion Espanola:a) Se reconoce el derecho a la vida y a la integridad fisica y moral.b) Se reconoce unicamente la integridad fisica.c) Puede establecerse la pena de muerte mediante ley.
+7. De conformidad con el artículo 15 de la Constitución Española:a) Se reconoce el derecho a la vida y a la integridad fisica y moral.b) Se reconoce únicamente la integridad fisica.c) Puede establecerse la pena de muerte mediante ley.
 
-8. Segun la Constitucion Espanola, la libertad ideologica, religiosa y de culto:a) Esta sujeta a autorizacion administrativa.b) Se garantiza sin mas limitacion que la necesaria para el mantenimiento del orden publico protegido por la ley.c) Solo se reconoce a los ciudadanos espanoles.
+8. Según la Constitución Española, la libertad ideológica, religiosa y de culto:a) Esta sujeta a autorización administrativa.b) Se garantiza sin mas limitación que la necesaria para el mantenimiento del orden público protegido por la ley.c) Solo se reconoce a los ciudadanos españoles.
 
-9. De acuerdo con el articulo 17 de la Constitucion Espanola, la libertad personal:a) Puede ser limitada por decision administrativa.b) Solo puede limitarse en los casos y en la forma previstos por la ley.c) No admite limitaciones.
+9. De acuerdo con el artículo 17 de la Constitución Española, la libertad personal:a) Puede ser limitada por decisión administrativa.b) Solo puede limitarse en los casos y en la forma previstos por la ley.c) No admite limitaciones.
 
-10. De conformidad con la Constitucion Espanola, la inviolabilidad del domicilio:a) Puede ser vulnerada por la Administracion sin autorizacion judicial.b) Solo podra hacerse con consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.c) Es un principio rector de la politica social y economica.
+10. De conformidad con la Constitución Española, la inviolabilidad del domicilio:a) Puede ser vulnerada por la Administración sin autorización judicial.b) Solo podrá hacerse con consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.c) Es un principio rector de la política social y económica.
 
-11. De acuerdo con lo establecido en el articulo 20 de la Constitucion Espanola, la libertad de expresion comprende:a) Exclusivamente el derecho a expresar opiniones por escrito.b) El derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproduccion.c) El derecho a difundir libremente informacion sin limite alguno.
+11. De acuerdo con lo establecido en el artículo 20 de la Constitución Española, la libertad de expresión comprende:a) Exclusivamente el derecho a expresar opiniones por escrito.b) El derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.c) El derecho a difundir libremente información sin limite alguno.
 
-12. Segun la Constitucion Espanola, el derecho de reunion pacifica y sin armas:a) Requerira autorizacion previa en toda concentracion en lugar de transito publico.b) No necesitara autorizacion previa, si bien en los casos de reuniones en lugares de transito publico y manifestaciones se dara comunicacion previa a la autoridad.c) Podra prohibirse sin motivacion cuando la autoridad lo considere conveniente.
+12. Según la Constitución Española, el derecho de reunión pacifica y sin armas:a) Requerira autorización previa en toda concentración en lugar de transito público.b) No necesitara autorización previa, si bien en los casos de reuniones en lugares de transito público y manifestaciones se dará comunicación previa a la autoridad.c) Podrá prohibirse sin motivación cuando la autoridad lo considere conveniente.
 
-13. De conformidad con la Constitucion Espanola, el derecho de asociacion:a) Incluye la libertad de creacion de asociaciones sin autorizacion previa.b) Exige autorizacion administrativa previa, si bien no judicial.c) Solo puede ejercerse para fines politicos y sindicales.
+13. De conformidad con la Constitución Española, el derecho de asociación:a) Incluye la libertad de creación de asociaciones sin autorización previa.b) Exige autorización administrativa previa, si bien no judicial.c) Solo puede ejercerse para fines políticos y sindicales.
 
-14. Segun la Constitucion Espanola, el derecho a la educacion:a) Se configura como principio rector de la politica social y economica.b) Se reconoce en el articulo 27, garantizandose la libertad de ensenanza.c) Solo comprende la ensenanza obligatoria impartida por los poderes publicos.
+14. Según la Constitución Española, el derecho a la educación:a) Se configura como principio rector de la política social y económica.b) Se reconoce en el artículo 27, garantizandose la libertad de enseñanza.c) Solo comprende la enseñanza obligatoria impartida por los poderes públicos.
 
-15. De conformidad con la Constitucion Espanola, el derecho de huelga:a) Se reconoce exclusivamente a los trabajadores del sector privado.b) Se reconoce a los trabajadores para la defensa de sus intereses, regulandose por ley el ejercicio de este derecho.c) Solo podra ejercerse previa autorizacion administrativa.
+15. De conformidad con la Constitución Española, el derecho de huelga:a) Se reconoce exclusivamente a los trabajadores del sector privado.b) Se reconoce a los trabajadores para la defensa de sus intereses, regulandose por ley el ejercicio de este derecho.c) Solo podrá ejercerse previa autorización administrativa.
 
-### Bloque 3 — Principios rectores de la politica social y economica
+### Bloque 3 — Principios rectores de la política social y económica
 
-16. De acuerdo con la Constitucion Espanola, la proteccion social, economica y juridica de la familia:a) Constituye un derecho fundamental por lo que cualquier ciudadano podra recabar su tutela ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad.b) Constituye uno de los principios rectores de la politica social y economica, cuya proteccion corresponde asegurar a los poderes publicos.c) Podra ser objeto de recurso de amparo ante el Tribunal Constitucional en los mismos terminos que los derechos reconocidos en los articulos 14 a 29.
+16. De acuerdo con la Constitución Española, la protección social, económica y jurídica de la familia:a) Constituye un derecho fundamental por lo que cualquier ciudadano podrá recabar su tutela ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad.b) Constituye uno de los principios rectores de la política social y económica, cuya protección corresponde asegurar a los poderes públicos.c) Podrá ser objeto de recurso de amparo ante el Tribunal Constitucional en los mismos términos que los derechos reconocidos en los artículos 14 a 29.
 
-17. De conformidad con lo establecido en la Constitucion Espanola, los poderes publicos aseguraran la proteccion integral de los hijos:a) Iguales estos ante la ley con independencia de su filiacion, y de las madres, cualquiera que sea su estado civil.b) Siempre que tengan nacionalidad espanola y residan legalmente en territorio nacional.c) Exclusivamente cuando se trate de hijos matrimoniales, en los terminos que establezca la ley.
+17. De conformidad con lo establecido en la Constitución Española, los poderes públicos aseguraran la protección integral de los hijos:a) Iguales estos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil.b) Siempre que tengan nacionalidad española y residan legalmente en territorio nacional.c) Exclusivamente cuando se trate de hijos matrimoniales, en los términos que establezca la ley.
 
-18. Segun dispone la Constitucion Espanola, el derecho a la proteccion de la salud:a) Forma parte de los derechos fundamentales y libertades publicas de la Seccion 1.ª del Capitulo II del Titulo I.b) Se reconoce en el marco de los principios rectores de la politica social y economica, correspondiendo a los poderes publicos organizar y tutelar la salud publica.c) Solo podra hacerse efectivo a traves del recurso de amparo ante el Tribunal Constitucional.
+18. Según dispone la Constitución Española, el derecho a la protección de la salud:a) Forma parte de los derechos fundamentales y libertades públicas de la Sección 1.ª del Capítulo II del Título I.b) Se reconoce en el marco de los principios rectores de la política social y económica, correspondiendo a los poderes públicos organizar y tutelar la salud pública.c) Solo podrá hacerse efectivo a través del recurso de amparo ante el Tribunal Constitucional.
 
-19. De acuerdo con lo establecido en la Constitucion Espanola, el derecho a disfrutar de una vivienda digna y adecuada:a) Tiene la consideracion de derecho fundamental de aplicacion directa e inmediata ante la jurisdiccion ordinaria.b) Se reconoce como principio rector de la politica social y economica, debiendo los poderes publicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.c) Solo podra ser desarrollado mediante ley organica por afectar al contenido esencial de los derechos fundamentales.
+19. De acuerdo con lo establecido en la Constitución Española, el derecho a disfrutar de una vivienda digna y adecuada:a) Tiene la consideración de derecho fundamental de aplicación directa e inmediata ante la jurisdicción ordinaria.b) Se reconoce como principio rector de la política social y económica, debiendo los poderes públicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.c) Solo podrá ser desarrollado mediante ley orgánica por afectar al contenido esencial de los derechos fundamentales.
 
-20. De conformidad con el articulo 53 de la Constitucion Espanola, el reconocimiento, el respeto y la proteccion de los principios reconocidos en el Capitulo III:a) Informaran la legislacion positiva, la practica judicial y la actuacion de los poderes publicos.b) Seran directamente exigibles ante los tribunales ordinarios mediante procedimiento preferente y sumario.c) Podran ser tutelados mediante recurso de amparo ante el Tribunal Constitucional.
+20. De conformidad con el artículo 53 de la Constitución Española, el reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo III:a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.b) Serán directamente exigibles ante los tribunales ordinarios mediante procedimiento preferente y sumario.c) Podrán ser tutelados mediante recurso de amparo ante el Tribunal Constitucional.
 
-21. Segun la Constitucion Espanola, el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona:a) Se configura como derecho fundamental susceptible de recurso de amparo.b) Se reconoce junto con el deber de conservarlo, en el marco de los principios rectores de la politica social y economica.c) Tiene caracter exclusivamente programatico y no vincula a los poderes publicos.
+21. Según la Constitución Española, el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona:a) Se configura como derecho fundamental susceptible de recurso de amparo.b) Se reconoce junto con el deber de conservarlo, en el marco de los principios rectores de la política social y económica.c) Tiene carácter exclusivamente programatico y no vincula a los poderes públicos.
 
-22. De acuerdo con la Constitucion Espanola, los poderes publicos promoveran las condiciones favorables para:a) El progreso social y economico y para una distribucion de la renta regional y personal mas equitativa, en el marco de una politica de estabilidad economica.b) La igualdad exclusivamente formal entre los ciudadanos, con independencia de las circunstancias sociales y economicas.c) La planificacion centralizada de todos los sectores productivos de la economia.
+22. De acuerdo con la Constitución Española, los poderes públicos promoverán las condiciones favorables para:a) El progreso social y económico y para una distribución de la renta regional y personal mas equitativa, en el marco de una política de estabilidad económica.b) La igualdad exclusivamente formal entre los ciudadanos, con independencia de las circunstancias sociales y económicas.c) La planificacion centralizada de todos los sectores productivos de la economía.
 
-23. De conformidad con lo establecido en la Constitucion Espanola, los principios rectores de la politica social y economica:a) Carecen de toda eficacia juridica hasta su desarrollo reglamentario.b) Solo podran ser alegados ante la jurisdiccion ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.c) Tienen la misma proteccion que los derechos fundamentales reconocidos en la Seccion 1.ª del Capitulo II del Titulo I.
+23. De conformidad con lo establecido en la Constitución Española, los principios rectores de la política social y económica:a) Carecen de toda eficacia jurídica hasta su desarrollo reglamentario.b) Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.c) Tienen la misma protección que los derechos fundamentales reconocidos en la Sección 1.ª del Capítulo II del Título I.
 
-24. Segun la Constitucion Espanola, los poderes publicos mantendran un regimen publico de Seguridad Social para:a) Todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.b) Los trabajadores por cuenta ajena exclusivamente, en los terminos fijados reglamentariamente.c) Los ciudadanos espanoles, con exclusion de los extranjeros cualquiera que sea su situacion administrativa.
+24. Según la Constitución Española, los poderes públicos mantendran un régimen público de Seguridad Social para:a) Todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo.b) Los trabajadores por cuenta ajena exclusivamente, en los términos fijados reglamentariamente.c) Los ciudadanos españoles, con exclusion de los extranjeros cualquiera que sea su situación administrativa.
 
-25. De conformidad con la Constitucion Espanola, los poderes publicos garantizaran, mediante pensiones adecuadas y periodicamente actualizadas:a) La suficiencia economica durante la tercera edad.b) La igualdad retributiva entre todos los pensionistas, con independencia de su situacion.c) La percepcion de una pension identica para todos los ciudadanos al alcanzar la jubilacion.
+25. De conformidad con la Constitución Española, los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas:a) La suficiencia económica durante la tercera edad.b) La igualdad retributiva entre todos los pensionistas, con independencia de su situación.c) La percepcion de una pension idéntica para todos los ciudadanos al alcanzar la jubilación.
 
-### Bloque 4 — Suspension de derechos
+### Bloque 4 — Suspensión de derechos
 
-26. De conformidad con lo establecido en el articulo 55 de la Constitucion Espanola, podra ser suspendido cuando se acuerde la declaracion del estado de excepcion o de sitio en los terminos previstos en la Constitucion:a) El derecho a la educacion.b) El derecho a elegir libremente su residencia y a circular por el territorio nacional.c) El derecho a contraer matrimonio con plena igualdad juridica.
+26. De conformidad con lo establecido en el artículo 55 de la Constitución Española, podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio en los términos previstos en la Constitución:a) El derecho a la educación.b) El derecho a elegir libremente su residencia y a circular por el territorio nacional.c) El derecho a contraer matrimonio con plena igualdad jurídica.
 
-27. Segun la Constitucion Espanola, la suspension de determinados derechos y libertades en los estados de excepcion o sitio podra afectar, entre otros, al derecho:a) A la libertad y seguridad.b) A la igualdad ante la ley.c) A la objecion de conciencia.
+27. Según la Constitución Española, la suspensión de determinados derechos y libertades en los estados de excepción o sitio podrá afectar, entre otros, al derecho:a) A la libertad y seguridad.b) A la igualdad ante la ley.c) A la objeción de conciencia.
 
-28. De acuerdo con la Constitucion Espanola, podra ser suspendido en los estados excepcionales previstos en la misma:a) El derecho a la inviolabilidad del domicilio.b) El derecho a la produccion y creacion literaria, artistica, cientifica y tecnica en todo caso.c) El derecho a la tutela judicial efectiva.
+28. De acuerdo con la Constitución Española, podrá ser suspendido en los estados excepcionales previstos en la misma:a) El derecho a la inviolabilidad del domicilio.b) El derecho a la producción y creación literaria, artística, científica y técnica en todo caso.c) El derecho a la tutela judicial efectiva.
 
-29. De conformidad con el articulo 55 de la Constitucion Espanola, la suspension individual de derechos podra acordarse:a) Respecto de cualquier persona sometida a investigacion penal, en los casos y con la extension que determine el juez.b) En relacion con las investigaciones correspondientes a la actuacion de bandas armadas o elementos terroristas, en los terminos previstos en la ley.c) Exclusivamente mediante acuerdo del Gobierno, sin necesidad de control judicial posterior.
+29. De conformidad con el artículo 55 de la Constitución Española, la suspensión individual de derechos podrá acordarse:a) Respecto de cualquier persona sometida a investigación penal, en los casos y con la extensión que determine el juez.b) En relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, en los términos previstos en la ley.c) Exclusivamente mediante acuerdo del Gobierno, sin necesidad de control judicial posterior.
 
-30. Segun la Constitucion Espanola, en caso de suspension individual de derechos:a) Quedan excluidos en todo caso el control parlamentario y judicial.b) La utilizacion injustificada o abusiva de las facultades reconocidas en la ley producira responsabilidad penal, como violacion de los derechos y libertades reconocidos por las leyes.c) No sera necesaria cobertura legal expresa al tratarse de una medida excepcional.
+30. Según la Constitución Española, en caso de suspensión individual de derechos:a) Quedan excluidos en todo caso el control parlamentario y judicial.b) La utilizacion injustificada o abusiva de las facultades reconocidas en la ley producira responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.c) No será necesaria cobertura legal expresa al tratarse de una medida excepcional.
 
-### Bloque 5 — Estructura de la Constitucion
+### Bloque 5 — Estructura de la Constitución
 
-31. De acuerdo con la Constitucion Espanola, el texto constitucional se estructura en:a) Un preambulo, un titulo preliminar y diez titulos, ademas de disposiciones adicionales, transitorias, derogatoria y final.b) Un preambulo y nueve titulos, ademas de disposiciones transitorias y finales.c) Un preambulo, un titulo preliminar y once titulos, sin disposiciones adicionales.
+31. De acuerdo con la Constitución Española, el texto constitucional se estructura en:a) Un preámbulo, un título preliminar y diez títulos, además de disposiciones adicionales, transitorias, derogatoria y final.b) Un preámbulo y nueve títulos, además de disposiciones transitorias y finales.c) Un preámbulo, un título preliminar y once títulos, sin disposiciones adicionales.
 
-32. De conformidad con la Constitucion Espanola, el Titulo I comprende:a) Los articulos 10 a 55.b) Los articulos 11 a 55.c) Los articulos 10 a 54.
+32. De conformidad con la Constitución Española, el Título I comprende:a) Los artículos 10 a 55.b) Los artículos 11 a 55.c) Los artículos 10 a 54.
 
-33. Segun la estructura de la Constitucion Espanola, el Capitulo II del Titulo I se divide en:a) Dos secciones: de los derechos fundamentales y de las libertades publicas, y de los derechos y deberes de los ciudadanos.b) Tres secciones: de los espanoles y extranjeros, de los principios rectores y de las garantias constitucionales.c) Dos secciones: de los derechos fundamentales y de los principios rectores de la politica social y economica.
+33. Según la estructura de la Constitución Española, el Capítulo II del Título I se divide en:a) Dos secciones: de los derechos fundamentales y de las libertades públicas, y de los derechos y deberes de los ciudadanos.b) Tres secciones: de los españoles y extranjeros, de los principios rectores y de las garantías constitucionales.c) Dos secciones: de los derechos fundamentales y de los principios rectores de la política social y económica.
 
-34. De acuerdo con la Constitucion Espanola, el Capitulo IV del Titulo I regula:a) La suspension de los derechos y libertades.b) Las garantias de las libertades y derechos fundamentales.c) Los principios rectores de la politica social y economica.
+34. De acuerdo con la Constitución Española, el Capítulo IV del Título I regula:a) La suspensión de los derechos y libertades.b) Las garantías de las libertades y derechos fundamentales.c) Los principios rectores de la política social y económica.
 
-35. De conformidad con la Constitucion Espanola, el Capitulo V del Titulo I regula:a) La suspension de los derechos y libertades.b) Las garantias de las libertades y derechos fundamentales.c) La organizacion territorial del Estado.
+35. De conformidad con la Constitución Española, el Capítulo V del Título I regula:a) La suspensión de los derechos y libertades.b) Las garantías de las libertades y derechos fundamentales.c) La organización territorial del Estado.
 
-36. Segun la Constitucion Espanola, el Titulo II se refiere a:a) Las Cortes Generales.b) La Corona.c) El Gobierno y la Administracion.
+36. Según la Constitución Española, el Título II se refiere a:a) Las Cortes Generales.b) La Corona.c) El Gobierno y la Administración.
 
-37. De acuerdo con la Constitucion Espanola, el Titulo III regula:a) Las Cortes Generales.b) El Poder Judicial.c) Las relaciones entre el Gobierno y las Cortes Generales.
+37. De acuerdo con la Constitución Española, el Título III regula:a) Las Cortes Generales.b) El Poder Judicial.c) Las relaciones entre el Gobierno y las Cortes Generales.
 
-38. De conformidad con la Constitucion Espanola, el Titulo VIII regula:a) La Economia y Hacienda.b) La Organizacion Territorial del Estado.c) El Tribunal Constitucional.
+38. De conformidad con la Constitución Española, el Título VIII regula:a) La Economía y Hacienda.b) La Organización Territorial del Estado.c) El Tribunal Constitucional.
 
-39. Segun la Constitucion Espanola, el Titulo IX regula:a) La reforma constitucional.b) El Tribunal Constitucional.c) Las Comunidades Autonomas.
+39. Según la Constitución Española, el Título IX regula:a) La reforma constitucional.b) El Tribunal Constitucional.c) Las Comunidades Autónomas.
 
-40. De acuerdo con la Constitucion Espanola, el Titulo X regula:a) La reforma constitucional.b) El Poder Judicial.c) Las relaciones entre el Gobierno y las Cortes Generales.
+40. De acuerdo con la Constitución Española, el Título X regula:a) La reforma constitucional.b) El Poder Judicial.c) Las relaciones entre el Gobierno y las Cortes Generales.
 
-### Bloque 6 — Organizacion del Estado y principios generales
+### Bloque 6 — Organización del Estado y principios generales
 
-41. En el capitulo primero del Titulo VIII de la Constitucion Espanola, se establece como uno de los principios generales de la Organizacion Territorial del Estado:a) El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autonomas que se constituyan. Todas estas entidades gozan de autonomia para la gestion de sus respectivos intereses.b) No podran existir en ningun caso diferencias entre los Estatutos de las distintas Comunidades Autonomas.c) Los derechos y obligaciones de los espanoles en cualquier parte del territorio del Estado vendran establecidos en su caso en los Estatutos de las distintas Comunidades Autonomas.
+41. En el capítulo primero del Título VIII de la Constitución Española, se establece como uno de los principios generales de la Organización Territorial del Estado:a) El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestion de sus respectivos intereses.b) No podrán existir en ningún caso diferencias entre los Estatutos de las distintas Comunidades Autónomas.c) Los derechos y obligaciones de los españoles en cualquier parte del territorio del Estado vendrán establecidos en su caso en los Estatutos de las distintas Comunidades Autónomas.
 
-42. De conformidad con la Constitucion Espanola, las diferencias entre los Estatutos de las distintas Comunidades Autonomas:a) No podran implicar, en ningun caso, privilegios economicos o sociales.b) Determinaran necesariamente diferencias en los derechos y obligaciones de los espanoles segun su territorio de residencia.c) Solo podran afectar a materias tributarias y de organizacion administrativa.
+42. De conformidad con la Constitución Española, las diferencias entre los Estatutos de las distintas Comunidades Autónomas:a) No podrán implicar, en ningún caso, privilegios económicos o sociales.b) Determinaran necesariamente diferencias en los derechos y obligaciones de los españoles según su territorio de residencia.c) Solo podrán afectar a materias tributarias y de organización administrativa.
 
-43. Segun la Constitucion Espanola, ningun espanol podra ser privado de sus derechos:a) En cualquier parte del territorio del Estado.b) En el territorio de su Comunidad Autonoma de residencia.c) En el territorio del Estado por razon de su origen o vecindad.
+43. Según la Constitución Española, ningún español podrá ser privado de sus derechos:a) En cualquier parte del territorio del Estado.b) En el territorio de su Comunidad Autonoma de residencia.c) En el territorio del Estado por razon de su origen o vecindad.
 
-44. De acuerdo con la Constitucion Espanola, las Cortes Generales representan:a) Al Gobierno de la Nacion.b) Al pueblo espanol.c) A las Comunidades Autonomas en igualdad de representacion.
+44. De acuerdo con la Constitución Española, las Cortes Generales representan:a) Al Gobierno de la Nación.b) Al pueblo español.c) A las Comunidades Autónomas en igualdad de representación.
 
-45. Segun la Constitucion Espanola, las Cortes Generales estan formadas por:a) El Congreso de los Diputados, el Senado y el Gobierno.b) El Congreso de los Diputados y el Senado.c) El Congreso, el Senado y la Corona.
+45. Según la Constitución Española, las Cortes Generales están formadas por:a) El Congreso de los Diputados, el Senado y el Gobierno.b) El Congreso de los Diputados y el Senado.c) El Congreso, el Senado y la Corona.
 
 ### Bloque 7 — Reforma constitucional
 
-46. De conformidad con la Constitucion Espanola, los proyectos de reforma constitucional deberan ser aprobados:a) Por mayoria de tres quintos de cada una de las Camaras, en el procedimiento ordinario.b) Por mayoria simple del Congreso de los Diputados y mayoria absoluta del Senado.c) Por mayoria absoluta de ambas Camaras en todo caso.
+46. De conformidad con la Constitución Española, los proyectos de reforma constitucional deberán ser aprobados:a) Por mayoría de tres quintos de cada una de las Cámaras, en el procedimiento ordinario.b) Por mayoría simple del Congreso de los Diputados y mayoría absoluta del Senado.c) Por mayoría absoluta de ambas Cámaras en todo caso.
 
-47. Segun la Constitucion Espanola, si no hubiera acuerdo entre ambas Camaras en el procedimiento ordinario de reforma:a) Quedara definitivamente rechazada la reforma constitucional.b) Se intentara obtenerlo mediante la creacion de una Comision de composicion paritaria de Diputados y Senadores.c) Correspondera al Gobierno decidir el texto definitivo de la reforma.
+47. Según la Constitución Española, si no hubiera acuerdo entre ambas Cámaras en el procedimiento ordinario de reforma:a) Quedara definitivamente rechazada la reforma constitucional.b) Se intentara obtenerlo mediante la creación de una Comisión de composición paritaria de Diputados y Senadores.c) Correspondera al Gobierno decidir el texto definitivo de la reforma.
 
-48. De conformidad con la Constitucion Espanola, aprobada la reforma por las Cortes Generales, sera sometida a referendum para su ratificacion cuando asi lo soliciten:a) Una decima parte de los miembros de cualquiera de las Camaras.b) Una quinta parte de los miembros del Congreso de los Diputados.c) El Presidente del Gobierno, en todo caso.
+48. De conformidad con la Constitución Española, aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten:a) Una decima parte de los miembros de cualquiera de las Cámaras.b) Una quinta parte de los miembros del Congreso de los Diputados.c) El Presidente del Gobierno, en todo caso.
 
-49. Segun la Constitucion Espanola, se utilizara el procedimiento agravado de reforma cuando se proponga:a) La revision total de la Constitucion o una parcial que afecte al Titulo Preliminar, al Capitulo segundo, Seccion primera, del Titulo I, o al Titulo II.b) Cualquier modificacion de los principios rectores de la politica social y economica.c) Cualquier reforma del Titulo VIII relativa a la organizacion territorial.
+49. Según la Constitución Española, se utilizara el procedimiento agravado de reforma cuando se proponga:a) La revisión total de la Constitución o una parcial que afecte al Título Preliminar, al Capítulo segundo, Sección primera, del Título I, o al Título II.b) Cualquier modificación de los principios rectores de la política social y económica.c) Cualquier reforma del Título VIII relativa a la organización territorial.
 
-50. De acuerdo con la Constitucion Espanola, el procedimiento agravado exige:a) Aprobacion del principio por mayoria de dos tercios de cada Camara y disolucion inmediata de las Cortes.b) Aprobacion por mayoria absoluta de ambas Camaras y referendum facultativo.c) Aprobacion por mayoria simple del Congreso, mayoria absoluta del Senado y ratificacion por ley organica.
+50. De acuerdo con la Constitución Española, el procedimiento agravado exige:a) Aprobación del principio por mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes.b) Aprobación por mayoría absoluta de ambas Cámaras y referéndum facultativo.c) Aprobación por mayoría simple del Congreso, mayoría absoluta del Senado y ratificación por ley orgánica.
 
-51. De conformidad con la Constitucion Espanola, las nuevas Camaras elegidas tras la disolucion en el procedimiento agravado deberan:a) Aprobar nuevamente la decision y estudiar el nuevo texto constitucional, que debera ser aprobado por mayoria de dos tercios de ambas Camaras.b) Ratificar el texto por mayoria absoluta de cada Camara.c) Limitarse a convocar referendum sin necesidad de nueva votacion.
+51. De conformidad con la Constitución Española, las nuevas Cámaras elegidas tras la disolución en el procedimiento agravado deberán:a) Aprobar nuevamente la decisión y estudiar el nuevo texto constitucional, que deberá ser aprobado por mayoría de dos tercios de ambas Cámaras.b) Ratificar el texto por mayoría absoluta de cada Cámara.c) Limitarse a convocar referéndum sin necesidad de nueva votación.
 
-52. Segun la Constitucion Espanola, aprobada la reforma por las nuevas Camaras en el procedimiento agravado:a) El texto reformado debera ser sometido a referendum para su ratificacion.b) El referendum sera potestativo.c) La reforma entrara automaticamente en vigor tras su publicacion.
+52. Según la Constitución Española, aprobada la reforma por las nuevas Cámaras en el procedimiento agravado:a) El texto reformado deberá ser sometido a referéndum para su ratificación.b) El referéndum será potestativo.c) La reforma entrara automáticamente en vigor tras su publicación.
 
-### Bloque 8 — Reformas constitucionales historicas
+### Bloque 8 — Reformas constitucionales históricas
 
-53. La reforma constitucional de 1992 tuvo por objeto:a) Introducir el principio de estabilidad presupuestaria en el articulo 135.b) Adaptar la Constitucion a las exigencias derivadas del Tratado de Maastricht, modificando el articulo 13.2.c) Sustituir en el articulo 49 la terminologia relativa a las personas con discapacidad.
+53. La reforma constitucional de 1992 tuvo por objeto:a) Introducir el principio de estabilidad presupuestaria en el artículo 135.b) Adaptar la Constitución a las exigencias derivadas del Tratado de Maastricht, modificando el artículo 13.2.c) Sustituir en el artículo 49 la terminología relativa a las personas con discapacidad.
 
-54. La reforma constitucional de 2011 modifico:a) El articulo 13.2, en relacion con el derecho de sufragio de ciudadanos de la Union Europea en elecciones municipales.b) El articulo 135, introduciendo el principio de estabilidad presupuestaria.c) El articulo 49, en materia de derechos de las personas con discapacidad.
+54. La reforma constitucional de 2011 modifico:a) El artículo 13.2, en relación con el derecho de sufragio de ciudadanos de la Unión Europea en elecciones municipales.b) El artículo 135, introduciendo el principio de estabilidad presupuestaria.c) El artículo 49, en materia de derechos de las personas con discapacidad.
 
-55. La reforma constitucional de 2024 afecto al articulo:a) 49.b) 135.c) 13.2.
+55. La reforma constitucional de 2024 afectó al artículo:a) 49.b) 135.c) 13.2.
 
-56. De acuerdo con el contenido de la reforma constitucional de 2024:a) Se establecio la prioridad absoluta del pago de la deuda publica frente a otros gastos.b) Se sustituyo la terminologia anterior por la expresion "personas con discapacidad".c) Se reconocio el derecho de sufragio pasivo a los ciudadanos de la Union Europea en elecciones municipales.
+56. De acuerdo con el contenido de la reforma constitucional de 2024:a) Se estableció la prioridad absoluta del pago de la deuda pública frente a otros gastos.b) Se sustituyó la terminología anterior por la expresión "personas con discapacidad".c) Se reconocio el derecho de sufragio pasivo a los ciudadanos de la Unión Europea en elecciones municipales.
 
 57. De conformidad con las reformas constitucionales producidas hasta la fecha:a) Todas ellas han seguido el procedimiento agravado de reforma.b) Todas ellas han seguido el procedimiento ordinario de reforma.c) Unas han seguido el procedimiento ordinario y otras el agravado.
 
-### Bloque 9 — Caracteristicas de la Constitucion
+### Bloque 9 — Características de la Constitución
 
-58. De acuerdo con la doctrina constitucional mas extendida y con las caracteristicas del texto de 1978, la Constitucion Espanola es:a) Flexible, por permitir su reforma mediante mayoria simple.b) Rigida, al exigir para su reforma procedimientos complejos y mayorias cualificadas.c) Irreformable en sus aspectos esenciales.
+58. De acuerdo con la doctrina constitucional mas extendida y con las características del texto de 1978, la Constitución Española es:a) Flexible, por permitir su reforma mediante mayoría simple.b) Rígida, al exigir para su reforma procedimientos complejos y mayorías cualificadas.c) Irreformable en sus aspectos esenciales.
 
-59. La Constitucion Espanola de 1978 puede calificarse como:a) Constitucion pactada o de consenso.b) Constitucion impuesta por el poder ejecutivo.c) Constitucion otorgada por la Corona.
+59. La Constitución Española de 1978 puede calificarse como:a) Constitución pactada o de consenso.b) Constitución impuesta por el poder ejecutivo.c) Constitución otorgada por la Corona.
 
-60. De conformidad con sus rasgos formales, la Constitucion Espanola es una Constitucion:a) Oral y consuetudinaria.b) Escrita y codificada.c) Fragmentaria y no sistematizada.
+60. De conformidad con sus rasgos formales, la Constitución Española es una Constitución:a) Oral y consuetudinaria.b) Escrita y codificada.c) Fragmentaria y no sistematizada.
 
-61. La Constitucion Espanola se considera extensa porque:a) Contiene 169 articulos, ademas de disposiciones adicionales, transitorias, derogatoria y final.b) Regula exclusivamente los principios fundamentales del Estado sin desarrollo organico.c) Se limita a establecer los grandes principios, remitiendo el resto al legislador.
+61. La Constitución Española se considera extensa porque:a) Contiene 169 artículos, además de disposiciones adicionales, transitorias, derogatoria y final.b) Regula exclusivamente los principios fundamentales del Estado sin desarrollo orgánico.c) Se limita a establecer los grandes principios, remitiendo el resto al legislador.
 
-62. La Constitucion Espanola puede calificarse como derivada:a) Porque no recibio influencia alguna de otros textos constitucionales.b) Porque recibio multiples influencias en su redaccion.c) Porque deriva directamente de normas reglamentarias anteriores.
+62. La Constitución Española puede calificarse como derivada:a) Porque no recibió influencia alguna de otros textos constitucionales.b) Porque recibió multiples influencias en su redacción.c) Porque deriva directamente de normas reglamentarias anteriores.
 
-63. De acuerdo con su origen, la Constitucion Espanola de 1978 es:a) De origen popular, al haber sido elaborada por representantes del pueblo y ratificada en referendum.b) De origen exclusivamente parlamentario, sin participacion popular directa.c) De origen real, por haber sido sancionada por el Rey.
+63. De acuerdo con su origen, la Constitución Española de 1978 es:a) De origen popular, al haber sido elaborada por representantes del pueblo y ratificada en referéndum.b) De origen exclusivamente parlamentario, sin participación popular directa.c) De origen real, por haber sido sancionada por el Rey.
 
-64. De conformidad con sus efectos juridicos, la Constitucion Espanola es de aplicacion:a) Directa e inmediata.b) Diferida hasta su desarrollo legal.c) Meramente programatica.
+64. De conformidad con sus efectos jurídicos, la Constitución Española es de aplicación:a) Directa e inmediata.b) Diferida hasta su desarrollo legal.c) Meramente programatica.
 
-65. Puede afirmarse que la Constitucion Espanola presenta en algunos aspectos formulas abiertas o voluntariamente ambiguas:a) Porque carece de valor normativo.b) Porque deja margen para la interpretacion constitucional en determinadas materias.c) Porque remite siempre al reglamento para completar su contenido.
+65. Puede afirmarse que la Constitución Española presenta en algunos aspectos fórmulas abiertas o voluntariamente ambiguas:a) Porque carece de valor normativo.b) Porque deja margen para la interpretación constitucional en determinadas materias.c) Porque remite siempre al reglamento para completar su contenido.
 
 ### Bloque 10 — Preguntas de nivel alto
 
-66. De conformidad con la Constitucion Espanola, los derechos y libertades reconocidos en los articulos 14 a 29 podran ser tutelados, en su caso:a) Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional.b) Exclusivamente mediante recurso de amparo ante el Tribunal Constitucional.c) Solo mediante recurso contencioso-administrativo ante la jurisdiccion ordinaria.
+66. De conformidad con la Constitución Española, los derechos y libertades reconocidos en los artículos 14 a 29 podrán ser tutelados, en su caso:a) Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional.b) Exclusivamente mediante recurso de amparo ante el Tribunal Constitucional.c) Solo mediante recurso contencioso-administrativo ante la jurisdicción ordinaria.
 
-67. De acuerdo con la Constitucion Espanola, el ejercicio de los derechos y libertades del Capitulo II del Titulo I:a) Solo podra regularse por ley, que en todo caso debera respetar su contenido esencial.b) Podra regularse por reglamento siempre que exista habilitacion legal previa.c) Corresponde exclusivamente a la jurisprudencia constitucional.
+67. De acuerdo con la Constitución Española, el ejercicio de los derechos y libertades del Capítulo II del Título I:a) Solo podrá regularse por ley, que en todo caso deberá respetar su contenido esencial.b) Podrá regularse por reglamento siempre que exista habilitación legal previa.c) Corresponde exclusivamente a la jurisprudencia constitucional.
 
-68. Segun la Constitucion Espanola, el derecho a la libertad de expresion reconocido en el articulo 20 comprende:a) Exclusivamente el derecho a expresar opiniones por escrito.b) El derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproduccion.c) El derecho a difundir libremente informacion sin limite alguno.
+68. Según la Constitución Española, el derecho a la libertad de expresión reconocido en el artículo 20 comprende:a) Exclusivamente el derecho a expresar opiniones por escrito.b) El derecho a expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.c) El derecho a difundir libremente información sin limite alguno.
 
-69. De conformidad con la Constitucion Espanola, el derecho de asociacion:a) Incluye la libertad de creacion de asociaciones sin autorizacion previa.b) Exige autorizacion administrativa previa, si bien no judicial.c) Solo puede ejercerse para fines politicos y sindicales.
+69. De conformidad con la Constitución Española, el derecho de asociación:a) Incluye la libertad de creación de asociaciones sin autorización previa.b) Exige autorización administrativa previa, si bien no judicial.c) Solo puede ejercerse para fines políticos y sindicales.
 
-70. Segun la Constitucion Espanola, el derecho de reunion pacifica y sin armas:a) Requerira autorizacion previa en toda concentracion en lugar de transito publico.b) No necesitara autorizacion previa, si bien en los casos de reuniones en lugares de transito publico y manifestaciones se dara comunicacion previa a la autoridad.c) Podra prohibirse sin motivacion cuando la autoridad lo considere conveniente.
+70. Según la Constitución Española, el derecho de reunión pacifica y sin armas:a) Requerira autorización previa en toda concentración en lugar de transito público.b) No necesitara autorización previa, si bien en los casos de reuniones en lugares de transito público y manifestaciones se dará comunicación previa a la autoridad.c) Podrá prohibirse sin motivación cuando la autoridad lo considere conveniente.
 
-71. De conformidad con la Constitucion Espanola, el derecho a la educacion:a) Se configura como principio rector de la politica social y economica.b) Se reconoce en el articulo 27, garantizandose la libertad de ensenanza.c) Solo comprende la ensenanza obligatoria impartida por los poderes publicos.
+71. De conformidad con la Constitución Española, el derecho a la educación:a) Se configura como principio rector de la política social y económica.b) Se reconoce en el artículo 27, garantizandose la libertad de enseñanza.c) Solo comprende la enseñanza obligatoria impartida por los poderes públicos.
 
-72. Segun la Constitucion Espanola, el derecho y deber de defender a Espana:a) Se regula en el articulo 30.b) Se regula en el articulo 31.c) Se integra en los principios rectores del Capitulo III del Titulo I.
+72. Según la Constitución Española, el derecho y deber de defender a España:a) Se regula en el artículo 30.b) Se regula en el artículo 31.c) Se integra en los principios rectores del Capítulo III del Título I.
 
-73. De acuerdo con la Constitucion Espanola, todos contribuiran al sostenimiento de los gastos publicos:a) De acuerdo con un sistema tributario inspirado en los principios de igualdad y progresividad que, en ningun caso, tendra alcance confiscatorio.b) Segun establezca libremente el Gobierno en la Ley de Presupuestos de cada ejercicio.c) En proporcion identica para todos los ciudadanos, con independencia de su capacidad economica.
+73. De acuerdo con la Constitución Española, todos contribuirán al sostenimiento de los gastos públicos:a) De acuerdo con un sistema tributario inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.b) Según establezca libremente el Gobierno en la Ley de Presupuestos de cada ejercicio.c) En proporcion idéntica para todos los ciudadanos, con independencia de su capacidad económica.
 
-74. De conformidad con la Constitucion Espanola, el derecho al trabajo y a la libre eleccion de profesion u oficio se reconoce en:a) El articulo 35.b) El articulo 30.c) El articulo 43.
+74. De conformidad con la Constitución Española, el derecho al trabajo y a la libre elección de profesion u oficio se reconoce en:a) El artículo 35.b) El artículo 30.c) El artículo 43.
 
-75. Segun la Constitucion Espanola, la objecion de conciencia:a) Se reconoce expresamente en relacion con el servicio militar en el articulo 30.b) Se regula como derecho fundamental en el articulo 16.c) Solo puede alegarse en materia sanitaria.
+75. Según la Constitución Española, la objeción de conciencia:a) Se reconoce expresamente en relación con el servicio militar en el artículo 30.b) Se regula como derecho fundamental en el artículo 16.c) Solo puede alegarse en materia sanitaria.
 
-76. De acuerdo con la Constitucion Espanola, el pueblo espanol:a) Ejerce la soberania unicamente a traves de las Cortes Generales.b) Es titular de la soberania nacional, de la que emanan los poderes del Estado.c) Participa en la soberania junto con la Corona y el Gobierno.
+76. De acuerdo con la Constitución Española, el pueblo español:a) Ejerce la soberanía únicamente a través de las Cortes Generales.b) Es titular de la soberanía nacional, de la que emanan los poderes del Estado.c) Participa en la soberanía junto con la Corona y el Gobierno.
 
-77. De conformidad con la Constitucion Espanola, la forma politica del Estado espanol es:a) La monarquia constitucional.b) La monarquia parlamentaria.c) La republica social y democratica.
+77. De conformidad con la Constitución Española, la forma política del Estado español es:a) La monarquía constitucional.b) La monarquía parlamentaria.c) La republica social y democrática.
 
-78. Segun la Constitucion Espanola, la justicia:a) Emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial.b) Emana de la soberania popular y se administra por el Tribunal Constitucional.c) Emana del Rey y se administra por los jueces bajo la direccion del Gobierno.
+78. Según la Constitución Española, la justicia:a) Emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial.b) Emana de la soberanía popular y se administra por el Tribunal Constitucional.c) Emana del Rey y se administra por los jueces bajo la dirección del Gobierno.
 
-79. De acuerdo con la Constitucion Espanola, el Tribunal Constitucional:a) Forma parte del Poder Judicial.b) Se regula en el Titulo IX de la Constitucion.c) Depende organicamente del Consejo General del Poder Judicial.
+79. De acuerdo con la Constitución Española, el Tribunal Constitucional:a) Forma parte del Poder Judicial.b) Se regula en el Título IX de la Constitución.c) Depende orgánicamente del Consejo General del Poder Judicial.
 
-80. De conformidad con la Constitucion Espanola, el Poder Judicial se regula en el Titulo:a) V.b) VI.c) IX.
+80. De conformidad con la Constitución Española, el Poder Judicial se regula en el Título:a) V.b) VI.c) IX.
 
-81. Segun la Constitucion Espanola, la economia y hacienda se regulan en el Titulo:a) VII.b) VIII.c) VI.
+81. Según la Constitución Española, la economía y hacienda se regulan en el Título:a) VII.b) VIII.c) VI.
 
-82. De acuerdo con la Constitucion Espanola, la organizacion territorial del Estado se regula en el Titulo:a) VII.b) VIII.c) IX.
+82. De acuerdo con la Constitución Española, la organización territorial del Estado se regula en el Título:a) VII.b) VIII.c) IX.
 
-83. De conformidad con la Constitucion Espanola, el Titulo VIII se divide en:a) Principios generales, Administracion local y Comunidades Autonomas.b) Municipios, provincias y regiones.c) Organizacion basica, entidades locales y regimen autonomico.
+83. De conformidad con la Constitución Española, el Título VIII se divide en:a) Principios generales, Administración local y Comunidades Autónomas.b) Municipios, provincias y regiones.c) Organización básica, entidades locales y régimen autonomico.
 
-84. Segun la Constitucion Espanola, las Comunidades Autonomas podran asumir competencias dentro del marco fijado en:a) El articulo 148, sin perjuicio de lo dispuesto en el articulo 149.b) El articulo 147 exclusivamente.c) El articulo 150 con caracter unico y excluyente.
+84. Según la Constitución Española, las Comunidades Autónomas podrán asumir competencias dentro del marco fijado en:a) El artículo 148, sin perjuicio de lo dispuesto en el artículo 149.b) El artículo 147 exclusivamente.c) El artículo 150 con carácter único y excluyente.
 
-85. De acuerdo con la Constitucion Espanola, el Estado podra transferir o delegar en las Comunidades Autonomas facultades correspondientes a materia de titularidad estatal:a) Mediante ley organica.b) Mediante reglamento aprobado por el Gobierno.c) Mediante acuerdo bilateral sin necesidad de norma con rango de ley.
+85. De acuerdo con la Constitución Española, el Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materia de titularidad estatal:a) Mediante ley orgánica.b) Mediante reglamento aprobado por el Gobierno.c) Mediante acuerdo bilateral sin necesidad de norma con rango de ley.
 
-86. De conformidad con la Constitucion Espanola, las Cortes Generales, por motivos de interes nacional, podran:a) Autorizar la constitucion de una comunidad autonoma cuando su ambito territorial no supere el de una provincia y no reuna las condiciones del articulo 143.1.b) Autorizar la federacion de Comunidades Autonomas.c) Aprobar por decreto-ley un Estatuto de autonomia para territorios no integrados en la organizacion provincial.
+86. De conformidad con la Constitución Española, las Cortes Generales, por motivos de interés nacional, podrán:a) Autorizar la constitución de una comunidad autonoma cuando su ámbito territorial no supere el de una provincia y no reuna las condiciones del artículo 143.1.b) Autorizar la federación de Comunidades Autónomas.c) Aprobar por decreto-ley un Estatuto de autonomía para territorios no integrados en la organización provincial.
 
-87. Segun la Constitucion Espanola, las Comunidades Autonomas:a) Podran federarse entre si mediante acuerdo aprobado por sus respectivos Parlamentos.b) No podran federarse en ningun caso.c) Solo podran federarse previa autorizacion del Senado.
+87. Según la Constitución Española, las Comunidades Autónomas:a) Podrán federarse entre si mediante acuerdo aprobado por sus respectivos Parlamentos.b) No podrán federarse en ningún caso.c) Solo podrán federarse previa autorización del Senado.
 
-88. De acuerdo con la Constitucion Espanola, el Estado social y democratico de derecho propugna como valores superiores del ordenamiento juridico:a) La libertad, la justicia, la igualdad y el pluralismo politico.b) La libertad, la seguridad y la unidad territorial.c) La justicia, la legalidad y la eficacia administrativa.
+88. De acuerdo con la Constitución Española, el Estado social y democrático de derecho propugna como valores superiores del ordenamiento jurídico:a) La libertad, la justicia, la igualdad y el pluralismo político.b) La libertad, la seguridad y la unidad territorial.c) La justicia, la legalidad y la eficacia administrativa.
 
-89. De conformidad con la Constitucion Espanola, los ciudadanos y los poderes publicos:a) Estan sujetos a la Constitucion y al resto del ordenamiento juridico.b) Estan sujetos exclusivamente a la Constitucion, pero no al resto del ordenamiento juridico.c) Solo quedan vinculados por la ley cuando esta desarrolle expresamente un precepto constitucional.
+89. De conformidad con la Constitución Española, los ciudadanos y los poderes públicos:a) Están sujetos a la Constitución y al resto del ordenamiento jurídico.b) Están sujetos exclusivamente a la Constitución, pero no al resto del ordenamiento jurídico.c) Solo quedan vinculados por la ley cuando esta desarrolle expresamente un precepto constitucional.
 
-90. Segun la Constitucion Espanola, esta constituye:a) La norma suprema del ordenamiento juridico, fundamento de validez del resto de las normas.b) Una ley organica de especial relevancia institucional.c) Una norma programatica cuya eficacia depende siempre del desarrollo legislativo posterior.
+90. Según la Constitución Española, esta constituye:a) La norma suprema del ordenamiento jurídico, fundamento de validez del resto de las normas.b) Una ley orgánica de especial relevancia institucional.c) Una norma programatica cuya eficacia depende siempre del desarrollo legislativo posterior.
 
 ### Bloque 11 — Fechas y promulgacion (nuevas)
 
-91. De conformidad con los datos de aprobacion de la Constitucion Espanola de 1978, fue ratificada por el pueblo espanol en referendum el:a) 31 de octubre de 1978.b) 6 de diciembre de 1978.c) 29 de diciembre de 1978.
+91. De conformidad con los datos de aprobación de la Constitución Española de 1978, fue ratificada por el pueblo español en referéndum el:a) 31 de octubre de 1978.b) 6 de diciembre de 1978.c) 29 de diciembre de 1978.
 
-92. Segun la Constitucion Espanola, la sancion y promulgacion del texto constitucional por S.M. el Rey tuvo lugar:a) El 31 de octubre de 1978.b) El 27 de diciembre de 1978.c) El 6 de diciembre de 1978.
+92. Según la Constitución Española, la sanción y promulgacion del texto constitucional por S.M. el Rey tuvo lugar:a) El 31 de octubre de 1978.b) El 27 de diciembre de 1978.c) El 6 de diciembre de 1978.
 
-93. De acuerdo con los datos oficiales, la Constitucion Espanola fue publicada en el Boletin Oficial del Estado:a) El 29 de diciembre de 1978, entrando en vigor el mismo dia de su publicacion.b) El 1 de enero de 1979, tras un periodo de vacatio legis.c) El 27 de diciembre de 1978, fecha de su sancion por el Rey.
+93. De acuerdo con los datos oficiales, la Constitución Española fue publicada en el Boletin Oficial del Estado:a) El 29 de diciembre de 1978, entrando en vigor el mismo día de su publicación.b) El 1 de enero de 1979, tras un periodo de vacatio legis.c) El 27 de diciembre de 1978, fecha de su sanción por el Rey.
 
-94. De conformidad con la Constitucion Espanola, fue aprobada por las Cortes Generales en sesiones plenarias del Congreso de los Diputados y del Senado celebradas:a) El 31 de octubre de 1978.b) El 27 de diciembre de 1978.c) El 6 de diciembre de 1978.
+94. De conformidad con la Constitución Española, fue aprobada por las Cortes Generales en sesiones plenarias del Congreso de los Diputados y del Senado celebradas:a) El 31 de octubre de 1978.b) El 27 de diciembre de 1978.c) El 6 de diciembre de 1978.
 
-95. Segun la Constitucion Espanola, el numero total de articulos del texto constitucional es:a) 169.b) 170.c) 168.
+95. Según la Constitución Española, el número total de artículos del texto constitucional es:a) 169.b) 170.c) 168.
 
-### Bloque 12 — Titulo Preliminar y valores (nuevas)
+### Bloque 12 — Título Preliminar y valores (nuevas)
 
-96. De acuerdo con el articulo 2 de la Constitucion Espanola, esta se fundamenta en:a) La indisoluble unidad de la Nacion espanola, patria comun e indivisible de todos los espanoles, y reconoce y garantiza el derecho a la autonomia de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.b) El derecho a la autodeterminacion de las nacionalidades historicas.c) La soberania compartida entre el Estado y las Comunidades Autonomas.
+96. De acuerdo con el artículo 2 de la Constitución Española, esta se fundamenta en:a) La indisoluble unidad de la Nación española, patria comun e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.b) El derecho a la autodeterminación de las nacionalidades históricas.c) La soberanía compartida entre el Estado y las Comunidades Autónomas.
 
-97. De conformidad con el articulo 3 de la Constitucion Espanola, el castellano:a) Es la lengua espanola oficial del Estado, y todos los espanoles tienen el deber de conocerla y el derecho a usarla.b) Es una lengua cooficial junto a las demas lenguas espanolas.c) Solo es oficial en los territorios donde no exista otra lengua propia.
+97. De conformidad con el artículo 3 de la Constitución Española, el castellano:a) Es la lengua española oficial del Estado, y todos los españoles tienen el deber de conocerla y el derecho a usarla.b) Es una lengua cooficial junto a las demás lenguas españolas.c) Solo es oficial en los territorios donde no exista otra lengua propia.
 
-98. Segun la Constitucion Espanola, los partidos politicos:a) Tienen personalidad juridica publica y dependen organicamente del Estado.b) Expresan el pluralismo politico, concurren a la formacion y manifestacion de la voluntad popular y son instrumento fundamental para la participacion politica.c) Solo podran operar con autorizacion expresa del Ministerio del Interior.
+98. Según la Constitución Española, los partidos políticos:a) Tienen personalidad jurídica pública y dependen orgánicamente del Estado.b) Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.c) Solo podrán operar con autorización expresa del Ministerio del Interior.
 
-99. De acuerdo con la Constitucion Espanola, la bandera de Espana:a) Esta formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.b) Esta formada por tres franjas verticales de igual anchura.c) Puede ser modificada mediante ley ordinaria.
+99. De acuerdo con la Constitución Española, la bandera de España:a) Esta formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.b) Esta formada por tres franjas verticales de igual anchura.c) Puede ser modificada mediante ley ordinaria.
 
-100. De conformidad con la Constitucion Espanola, la capital del Estado:a) Es la villa de Madrid.b) Se determinara mediante ley organica.c) Se establece por acuerdo de las Cortes Generales cada cuatro anos.
+100. De conformidad con la Constitución Española, la capital del Estado:a) Es la villa de Madrid.b) Se determinara mediante ley orgánica.c) Se establece por acuerdo de las Cortes Generales cada cuatro años.
 
 ### Bloque 13 — Derechos fundamentales (nuevas)
 
-101. De acuerdo con el articulo 15 de la Constitucion Espanola, queda abolida la pena de muerte:a) Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.b) En todo caso, sin excepcion alguna, incluido el tiempo de guerra.c) Unicamente respecto a los delitos comunes cometidos en tiempos de paz.
+101. De acuerdo con el artículo 15 de la Constitución Española, queda abolida la pena de muerte:a) Salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.b) En todo caso, sin excepción alguna, incluido el tiempo de guerra.c) Únicamente respecto a los delitos comunes cometidos en tiempos de paz.
 
-102. Segun el articulo 16 de la Constitucion Espanola, ninguna confesion:a) Tendra caracter estatal.b) Podra disfrutar de personalidad juridica.c) Podra impartir ensenanza religiosa en centros publicos.
+102. Según el artículo 16 de la Constitución Española, ninguna confesion:a) Tendra carácter estatal.b) Podrá disfrutar de personalidad jurídica.c) Podrá impartir enseñanza religiosa en centros públicos.
 
-103. De conformidad con el articulo 18 de la Constitucion Espanola, el secreto de las comunicaciones:a) Sera inviolable, especialmente de las postales, telegraficas y telefonicas, salvo resolucion judicial.b) Se garantiza salvo autorizacion administrativa del superior jerarquico.c) Solo protege las comunicaciones realizadas en territorio nacional.
+103. De conformidad con el artículo 18 de la Constitución Española, el secreto de las comunicaciones:a) Será inviolable, especialmente de las postales, telegraficas y telefonicas, salvo resolución judicial.b) Se garantiza salvo autorización administrativa del superior jerarquico.c) Solo protege las comunicaciones realizadas en territorio nacional.
 
-104. De acuerdo con el articulo 23 de la Constitucion Espanola, los ciudadanos tienen derecho:a) A participar en los asuntos publicos directamente o por medio de representantes, libremente elegidos en elecciones periodicas por sufragio universal.b) Exclusivamente a votar en elecciones generales.c) A participar en referendos cuando asi lo decida el Gobierno.
+104. De acuerdo con el artículo 23 de la Constitución Española, los ciudadanos tienen derecho:a) A participar en los asuntos públicos directamente o por medio de representantes, libremente elegidos en elecciones periodicas por sufragio universal.b) Exclusivamente a votar en elecciones generales.c) A participar en referendos cuando así lo decida el Gobierno.
 
-105. De conformidad con el articulo 24 de la Constitucion Espanola, toda persona tiene derecho:a) A obtener la tutela efectiva de jueces y tribunales en el ejercicio de sus derechos e intereses legitimos, sin que en ningun caso pueda producirse indefension.b) A la defensa gratuita en todo procedimiento, con independencia de su capacidad economica.c) A resolver sus controversias exclusivamente por medios alternativos al judicial.
+105. De conformidad con el artículo 24 de la Constitución Española, toda persona tiene derecho:a) A obtener la tutela efectiva de jueces y tribunales en el ejercicio de sus derechos e intereses legitimos, sin que en ningún caso pueda producirse indefension.b) A la defensa gratuita en todo procedimiento, con independencia de su capacidad económica.c) A resolver sus controversias exclusivamente por medios alternativos al judicial.
 
-106. Segun el articulo 25 de la Constitucion Espanola, nadie puede ser condenado o sancionado:a) Por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infraccion administrativa, segun la legislacion vigente en aquel momento.b) Sin sentencia firme, aunque se haya aplicado la legislacion vigente en el momento del hecho.c) Por infracciones administrativas en ningun caso.
+106. Según el artículo 25 de la Constitución Española, nadie puede ser condenado o sancionado:a) Por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento.b) Sin sentencia firme, aunque se haya aplicado la legislación vigente en el momento del hecho.c) Por infracciones administrativas en ningún caso.
 
-107. De acuerdo con el articulo 28.1 de la Constitucion Espanola, la libertad de sindicacion:a) Se reconoce, pudiendo la ley limitar o exceptuar su ejercicio a las Fuerzas o Institutos armados o a los demas Cuerpos sometidos a disciplina militar.b) Es absoluta y no admite limitaciones.c) No se reconoce a los funcionarios publicos.
+107. De acuerdo con el artículo 28.1 de la Constitución Española, la libertad de sindicacion:a) Se reconoce, pudiendo la ley limitar o exceptuar su ejercicio a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar.b) Es absoluta y no admite limitaciones.c) No se reconoce a los funcionarios públicos.
 
-108. De conformidad con el articulo 29 de la Constitucion Espanola, el derecho de peticion:a) Se reconoce a todos los espanoles, individual y colectivamente, por escrito, en la forma y con los efectos que determine la ley.b) Solo podra ejercerse ante el Gobierno.c) Requiere autorizacion previa de la autoridad competente.
+108. De conformidad con el artículo 29 de la Constitución Española, el derecho de petición:a) Se reconoce a todos los españoles, individual y colectivamente, por escrito, en la forma y con los efectos que determine la ley.b) Solo podrá ejercerse ante el Gobierno.c) Requiere autorización previa de la autoridad competente.
 
-109. Segun el articulo 19 de la Constitucion Espanola, los espanoles tienen derecho:a) A elegir libremente su residencia y a circular por el territorio nacional, asi como a entrar y salir libremente de Espana en los terminos que la ley establezca.b) A entrar y salir de Espana solo con autorizacion administrativa.c) A circular unicamente en el interior de su Comunidad Autonoma.
+109. Según el artículo 19 de la Constitución Española, los españoles tienen derecho:a) A elegir libremente su residencia y a circular por el territorio nacional, así como a entrar y salir libremente de España en los términos que la ley establezca.b) A entrar y salir de España solo con autorización administrativa.c) A circular únicamente en el interior de su Comunidad Autonoma.
 
-110. De acuerdo con el articulo 26 de la Constitucion Espanola:a) Se prohiben los Tribunales de Honor en el ambito de la Administracion civil y de las organizaciones profesionales.b) Los Tribunales de Honor solo podran funcionar en el ambito militar.c) Los Tribunales de Honor se reconocen con caracter general.
+110. De acuerdo con el artículo 26 de la Constitución Española:a) Se prohiben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.b) Los Tribunales de Honor solo podrán funcionar en el ámbito militar.c) Los Tribunales de Honor se reconocen con carácter general.
 
-### Bloque 14 — Garantias y tutela (nuevas)
+### Bloque 14 — Garantías y tutela (nuevas)
 
-111. De conformidad con el articulo 53.1 de la Constitucion Espanola, los derechos y libertades del Capitulo II:a) Vinculan a todos los poderes publicos.b) Vinculan exclusivamente a la Administracion General del Estado.c) Vinculan solo a la jurisdiccion ordinaria.
+111. De conformidad con el artículo 53.1 de la Constitución Española, los derechos y libertades del Capítulo II:a) Vinculan a todos los poderes públicos.b) Vinculan exclusivamente a la Administración General del Estado.c) Vinculan solo a la jurisdicción ordinaria.
 
-112. Segun el articulo 54 de la Constitucion Espanola, el Defensor del Pueblo:a) Es el alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos comprendidos en el Titulo I.b) Es un organo dependiente del Gobierno.c) Es el interprete supremo de la Constitucion.
+112. Según el artículo 54 de la Constitución Española, el Defensor del Pueblo:a) Es el alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos comprendidos en el Título I.b) Es un órgano dependiente del Gobierno.c) Es el intérprete supremo de la Constitución.
 
-113. De acuerdo con la Constitucion Espanola, el desarrollo de los derechos fundamentales y de las libertades publicas del Capitulo II, Seccion 1.ª, del Titulo I se efectuara:a) Mediante ley organica.b) Mediante ley ordinaria.c) Mediante decreto-ley.
+113. De acuerdo con la Constitución Española, el desarrollo de los derechos fundamentales y de las libertades públicas del Capítulo II, Sección 1.ª, del Título I se efectuara:a) Mediante ley orgánica.b) Mediante ley ordinaria.c) Mediante decreto-ley.
 
-114. De conformidad con la Constitucion Espanola, cualquier ciudadano podra recabar la tutela de las libertades y derechos reconocidos en el articulo 14 y en la Seccion 1.ª del Capitulo II ante los tribunales ordinarios:a) Por un procedimiento basado en los principios de preferencia y sumariedad.b) Por el procedimiento ordinario contencioso-administrativo.c) Exclusivamente mediante recurso de amparo constitucional.
+114. De conformidad con la Constitución Española, cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y en la Sección 1.ª del Capítulo II ante los tribunales ordinarios:a) Por un procedimiento basado en los principios de preferencia y sumariedad.b) Por el procedimiento ordinario contencioso-administrativo.c) Exclusivamente mediante recurso de amparo constitucional.
 
-115. Segun la Constitucion Espanola, el recurso de amparo ante el Tribunal Constitucional podra interponerse:a) En defensa de los derechos del articulo 14, los de la Seccion 1.ª del Capitulo II y la objecion de conciencia del articulo 30.b) En defensa de cualquier precepto constitucional.c) Exclusivamente en defensa de los principios rectores del Capitulo III.
+115. Según la Constitución Española, el recurso de amparo ante el Tribunal Constitucional podrá interponerse:a) En defensa de los derechos del artículo 14, los de la Sección 1.ª del Capítulo II y la objeción de conciencia del artículo 30.b) En defensa de cualquier precepto constitucional.c) Exclusivamente en defensa de los principios rectores del Capítulo III.
 
 ### Bloque 15 — Reforma y procedimientos (nuevas)
 
-116. De acuerdo con el articulo 166 de la Constitucion Espanola, la iniciativa de reforma constitucional:a) Se ejercera en los terminos previstos en los apartados 1 y 2 del articulo 87, excluyendose la iniciativa popular.b) Corresponde en exclusiva al Gobierno y al Rey.c) Puede ser ejercida por un millon de ciudadanos mediante iniciativa popular.
+116. De acuerdo con el artículo 166 de la Constitución Española, la iniciativa de reforma constitucional:a) Se ejercera en los términos previstos en los apartados 1 y 2 del artículo 87, excluyendose la iniciativa popular.b) Corresponde en exclusiva al Gobierno y al Rey.c) Puede ser ejercida por un millon de ciudadanos mediante iniciativa popular.
 
-117. De conformidad con el articulo 169 de la Constitucion Espanola, no podra iniciarse la reforma constitucional:a) En tiempo de guerra ni durante la vigencia de los estados de alarma, excepcion o sitio.b) Durante los tres primeros anos de cada legislatura.c) Cuando las Cortes Generales esten disueltas por cualquier motivo.
+117. De conformidad con el artículo 169 de la Constitución Española, no podrá iniciarse la reforma constitucional:a) En tiempo de guerra ni durante la vigencia de los estados de alarma, excepción o sitio.b) Durante los tres primeros años de cada legislatura.c) Cuando las Cortes Generales esten disueltas por cualquier motivo.
 
-118. Segun la Constitucion Espanola, en el procedimiento ordinario de reforma, si no hubiese acuerdo tras la actuacion de la Comision Mixta y el texto ha obtenido mayoria absoluta del Senado:a) El Congreso podra aprobar la reforma por mayoria de dos tercios.b) La reforma quedara definitivamente rechazada.c) El Rey decidira por decreto la aprobacion o rechazo del texto.
+118. Según la Constitución Española, en el procedimiento ordinario de reforma, si no hubiese acuerdo tras la actuación de la Comisión Mixta y el texto ha obtenido mayoría absoluta del Senado:a) El Congreso podrá aprobar la reforma por mayoría de dos tercios.b) La reforma quedará definitivamente rechazada.c) El Rey decidira por decreto la aprobación o rechazo del texto.
 
-119. De acuerdo con la Constitucion Espanola, el referendum en el procedimiento ordinario de reforma sera convocado:a) Siempre que lo soliciten, dentro de los quince dias siguientes a la aprobacion, una decima parte de los miembros de cualquiera de las Camaras.b) De forma obligatoria en todo caso.c) Solo si lo solicita el Presidente del Gobierno.
+119. De acuerdo con la Constitución Española, el referéndum en el procedimiento ordinario de reforma será convocado:a) Siempre que lo soliciten, dentro de los quince días siguientes a la aprobación, una decima parte de los miembros de cualquiera de las Cámaras.b) De forma obligatoria en todo caso.c) Solo si lo solicita el Presidente del Gobierno.
 
-120. De conformidad con la Constitucion Espanola, el procedimiento agravado de reforma se aplica cuando la reforma afecte:a) Al Titulo Preliminar, al Capitulo II Seccion 1.ª del Titulo I o al Titulo II.b) Al Titulo VIII relativo a la organizacion territorial.c) A cualquier precepto del Titulo I.
+120. De conformidad con la Constitución Española, el procedimiento agravado de reforma se aplica cuando la reforma afecte:a) Al Título Preliminar, al Capítulo II Sección 1.ª del Título I o al Título II.b) Al Título VIII relativo a la organización territorial.c) A cualquier precepto del Título I.
 
-### Bloque 16 — Estados de emergencia y suspension (nuevas)
+### Bloque 16 — Estados de emergencia y suspensión (nuevas)
 
-121. Segun la Constitucion Espanola, en el estado de alarma:a) No cabe suspender ningun derecho fundamental, solo limitarlos en la medida estrictamente necesaria.b) Pueden suspenderse los derechos del articulo 55 en los mismos terminos que en el estado de excepcion.c) Se suspenden automaticamente todas las garantias constitucionales.
+121. Según la Constitución Española, en el estado de alarma:a) No cabe suspender ningún derecho fundamental, solo limitarlos en la medida estrictamente necesaria.b) Pueden suspenderse los derechos del artículo 55 en los mismos términos que en el estado de excepción.c) Se suspenden automáticamente todas las garantías constitucionales.
 
-122. De acuerdo con la Constitucion Espanola, la declaracion del estado de excepcion y de sitio se regulan en el articulo:a) 116 de la Constitucion Espanola.b) 55 de la Constitucion Espanola.c) 86 de la Constitucion Espanola.
+122. De acuerdo con la Constitución Española, la declaración del estado de excepción y de sitio se regulan en el artículo:a) 116 de la Constitución Española.b) 55 de la Constitución Española.c) 86 de la Constitución Española.
 
-123. De conformidad con el articulo 55.2 de la Constitucion Espanola, la suspension individual de derechos:a) Requiere la necesaria intervencion judicial y el adecuado control parlamentario.b) Corresponde en exclusiva al Gobierno sin control parlamentario.c) No requiere cobertura legal expresa.
+123. De conformidad con el artículo 55.2 de la Constitución Española, la suspensión individual de derechos:a) Requiere la necesaria intervención judicial y el adecuado control parlamentario.b) Corresponde en exclusiva al Gobierno sin control parlamentario.c) No requiere cobertura legal expresa.
 
-124. Segun la Constitucion Espanola, la utilizacion injustificada o abusiva de las facultades reconocidas en el articulo 55.2:a) Producira responsabilidad penal, como violacion de los derechos y libertades reconocidos por las leyes.b) Solo dara lugar a responsabilidad disciplinaria.c) Carece de consecuencias juridicas al tratarse de medidas excepcionales.
+124. Según la Constitución Española, la utilizacion injustificada o abusiva de las facultades reconocidas en el artículo 55.2:a) Producira responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.b) Solo dará lugar a responsabilidad disciplinaria.c) Carece de consecuencias jurídicas al tratarse de medidas excepcionales.
 
-125. De acuerdo con la Constitucion Espanola, podra suspenderse en los estados de excepcion y sitio el derecho reconocido en el articulo:a) 19 CE, relativo a la libertad de residencia y circulacion.b) 14 CE, relativo a la igualdad ante la ley.c) 24 CE, relativo a la tutela judicial efectiva.
+125. De acuerdo con la Constitución Española, podrá suspenderse en los estados de excepción y sitio el derecho reconocido en el artículo:a) 19 CE, relativo a la libertad de residencia y circulación.b) 14 CE, relativo a la igualdad ante la ley.c) 24 CE, relativo a la tutela judicial efectiva.
 
-### Bloque 17 — Jerarquia normativa y ordenamiento (nuevas)
+### Bloque 17 — Jerarquía normativa y ordenamiento (nuevas)
 
-126. De conformidad con el articulo 9.1 de la Constitucion Espanola:a) Los ciudadanos y los poderes publicos estan sujetos a la Constitucion y al resto del ordenamiento juridico.b) Solo los poderes publicos quedan vinculados por la Constitucion.c) Los ciudadanos quedan vinculados unicamente por las leyes que conozcan expresamente.
+126. De conformidad con el artículo 9.1 de la Constitución Española:a) Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.b) Solo los poderes públicos quedan vinculados por la Constitución.c) Los ciudadanos quedan vinculados únicamente por las leyes que conozcan expresamente.
 
-127. Segun el articulo 9.3 de la Constitucion Espanola, se garantiza:a) El principio de legalidad, la jerarquia normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad juridica, la responsabilidad y la interdiccion de la arbitrariedad de los poderes publicos.b) Unicamente la jerarquia normativa y la publicidad de las normas.c) La retroactividad de todas las normas sancionadoras.
+127. Según el artículo 9.3 de la Constitución Española, se garantiza:a) El principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.b) Únicamente la jerarquía normativa y la publicidad de las normas.c) La retroactividad de todas las normas sancionadoras.
 
-128. De acuerdo con el articulo 96.1 de la Constitucion Espanola, los tratados internacionales validamente celebrados:a) Una vez publicados oficialmente en Espana, formaran parte del ordenamiento interno.b) Requieren siempre ley organica para incorporarse al ordenamiento.c) No tienen efecto interno hasta su transposicion por reglamento.
+128. De acuerdo con el artículo 96.1 de la Constitución Española, los tratados internacionales válidamente celebrados:a) Una vez publicados oficialmente en España, formaran parte del ordenamiento interno.b) Requieren siempre ley orgánica para incorporarse al ordenamiento.c) No tienen efecto interno hasta su transposicion por reglamento.
 
-129. De conformidad con la Constitucion Espanola, las materias relativas al desarrollo de los derechos fundamentales y de las libertades publicas se regulan mediante:a) Ley organica.b) Ley ordinaria.c) Real decreto-ley.
+129. De conformidad con la Constitución Española, las materias relativas al desarrollo de los derechos fundamentales y de las libertades públicas se regulan mediante:a) Ley orgánica.b) Ley ordinaria.c) Real decreto-ley.
 
-130. Segun la Constitucion Espanola, las disposiciones legislativas provisionales adoptadas por el Gobierno en caso de extraordinaria y urgente necesidad:a) Tomaran la forma de Decretos-leyes y no podran afectar al ordenamiento de las instituciones basicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Titulo I, al regimen de las Comunidades Autonomas ni al Derecho electoral general.b) Podran regular cualquier materia, incluidos los derechos fundamentales.c) Solo podran aprobarse previa autorizacion del Senado.
+130. Según la Constitución Española, las disposiciones legislativas provisionales adoptadas por el Gobierno en caso de extraordinaria y urgente necesidad:a) Tomaran la forma de Decretos-leyes y no podrán afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general.b) Podrán regular cualquier materia, incluidos los derechos fundamentales.c) Solo podrán aprobarse previa autorización del Senado.
 
-### Bloque 18 — Titulos organicos y organos del Estado (nuevas)
+### Bloque 18 — Títulos orgánicos y órganos del Estado (nuevas)
 
-131. De acuerdo con la Constitucion Espanola, la forma politica del Estado se define en el articulo:a) 1.3 de la Constitucion Espanola.b) 56 de la Constitucion Espanola.c) 97 de la Constitucion Espanola.
+131. De acuerdo con la Constitución Española, la forma política del Estado se define en el artículo:a) 1.3 de la Constitución Española.b) 56 de la Constitución Española.c) 97 de la Constitución Española.
 
-132. De conformidad con el articulo 56 de la Constitucion Espanola, el Rey es:a) El Jefe del Estado, simbolo de su unidad y permanencia.b) El Jefe del Gobierno de la Nacion.c) El Presidente del Consejo General del Poder Judicial.
+132. De conformidad con el artículo 56 de la Constitución Española, el Rey es:a) El Jefe del Estado, símbolo de su unidad y permanencia.b) El Jefe del Gobierno de la Nación.c) El Presidente del Consejo General del Poder Judicial.
 
-133. Segun la Constitucion Espanola, las Cortes Generales ejercen:a) La potestad legislativa del Estado, aprueban sus Presupuestos, controlan la accion del Gobierno y tienen las demas competencias que les atribuya la Constitucion.b) La potestad reglamentaria en toda su extension.c) La potestad judicial en materia constitucional.
+133. Según la Constitución Española, las Cortes Generales ejercen:a) La potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuya la Constitución.b) La potestad reglamentaria en toda su extensión.c) La potestad judicial en materia constitucional.
 
-134. De acuerdo con la Constitucion Espanola, el Gobierno dirige la politica interior y exterior, la Administracion civil y militar y la defensa del Estado, ejerciendo:a) La funcion ejecutiva y la potestad reglamentaria de acuerdo con la Constitucion y las leyes.b) La potestad legislativa en su totalidad.c) La potestad jurisdiccional en las materias que le reserva la ley.
+134. De acuerdo con la Constitución Española, el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, ejerciendo:a) La función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.b) La potestad legislativa en su totalidad.c) La potestad jurisdiccional en las materias que le reserva la ley.
 
-135. De conformidad con la Constitucion Espanola, el Poder Judicial emana del pueblo y se administra en nombre del Rey por:a) Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos unicamente al imperio de la ley.b) El Tribunal Constitucional y el Defensor del Pueblo.c) Los funcionarios del cuerpo de letrados del Consejo General del Poder Judicial.
+135. De conformidad con la Constitución Española, el Poder Judicial emana del pueblo y se administra en nombre del Rey por:a) Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.b) El Tribunal Constitucional y el Defensor del Pueblo.c) Los funcionarios del cuerpo de letrados del Consejo General del Poder Judicial.
 
-### Bloque 19 — Organizacion territorial y CCAA (nuevas)
+### Bloque 19 — Organización territorial y CCAA (nuevas)
 
-136. Segun la Constitucion Espanola, los municipios gozan:a) De autonomia para la gestion de sus respectivos intereses.b) De soberania propia en sus materias.c) De potestad legislativa en materias locales.
+136. Según la Constitución Española, los municipios gozan:a) De autonomía para la gestion de sus respectivos intereses.b) De soberanía propia en sus materias.c) De potestad legislativa en materias locales.
 
-137. De acuerdo con el articulo 141 de la Constitucion Espanola, la provincia:a) Es una entidad local con personalidad juridica propia, determinada por la agrupacion de municipios y division territorial para el cumplimiento de las actividades del Estado.b) Es una mera division territorial sin personalidad juridica.c) No forma parte de la organizacion territorial del Estado.
+137. De acuerdo con el artículo 141 de la Constitución Española, la provincia:a) Es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y division territorial para el cumplimiento de las actividades del Estado.b) Es una mera division territorial sin personalidad jurídica.c) No forma parte de la organización territorial del Estado.
 
-138. De conformidad con la Constitucion Espanola, el Gobierno y administracion autonoma de las provincias se encomendara a:a) Diputaciones u otras Corporaciones de caracter representativo.b) Las Delegaciones del Gobierno.c) Los ayuntamientos de la capital de provincia.
+138. De conformidad con la Constitución Española, el Gobierno y administración autonoma de las provincias se encomendara a:a) Diputaciones u otras Corporaciones de carácter representativo.b) Las Delegaciones del Gobierno.c) Los ayuntamientos de la capital de provincia.
 
-139. Segun el articulo 143.1 de la Constitucion Espanola, podran acceder a su autogobierno y constituirse en Comunidades Autonomas:a) Las provincias limitrofes con caracteristicas historicas, culturales y economicas comunes, los territorios insulares y las provincias con entidad regional historica.b) Cualquier provincia por decision unilateral de su Diputacion.c) Los municipios con mas de 500.000 habitantes.
+139. Según el artículo 143.1 de la Constitución Española, podrán acceder a su autogobierno y constituirse en Comunidades Autónomas:a) Las provincias limitrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica.b) Cualquier provincia por decisión unilateral de su Diputación.c) Los municipios con mas de 500.000 habitantes.
 
-140. De acuerdo con la Constitucion Espanola, los Estatutos de Autonomia son:a) La norma institucional basica de cada Comunidad Autonoma, que el Estado reconoce y ampara como parte integrante de su ordenamiento juridico.b) Reglamentos de desarrollo de la legislacion estatal.c) Normas de rango inferior a la ley ordinaria estatal.
+140. De acuerdo con la Constitución Española, los Estatutos de Autonomía son:a) La norma institucional básica de cada Comunidad Autonoma, que el Estado reconoce y ampara como parte integrante de su ordenamiento jurídico.b) Reglamentos de desarrollo de la legislación estatal.c) Normas de rango inferior a la ley ordinaria estatal.
 
 ### Bloque 20 — Transversales y casos integrados (nuevas)
 
-141. De conformidad con la Constitucion Espanola, la reforma del articulo 49 en 2024 se aprobo siguiendo:a) El procedimiento ordinario de reforma.b) El procedimiento agravado con referendum obligatorio.c) Un procedimiento especial ad hoc.
+141. De conformidad con la Constitución Española, la reforma del artículo 49 en 2024 se aprobó siguiendo:a) El procedimiento ordinario de reforma.b) El procedimiento agravado con referéndum obligatorio.c) Un procedimiento especial ad hoc.
 
-142. Segun la Constitucion Espanola, la mencion literal introducida por la reforma de 2024 en el articulo 49 se refiere a:a) Las personas con discapacidad.b) La estabilidad presupuestaria.c) El sufragio de ciudadanos UE.
+142. Según la Constitución Española, la mención literal introducida por la reforma de 2024 en el artículo 49 se refiere a:a) Las personas con discapacidad.b) La estabilidad presupuestaria.c) El sufragio de ciudadanos UE.
 
-143. De acuerdo con la Constitucion Espanola, el articulo 135 establece:a) Que el Estado y las Comunidades Autonomas no podran incurrir en un deficit estructural que supere los margenes establecidos por la Union Europea.b) La prohibicion absoluta de endeudamiento publico.c) La prioridad del gasto social frente al pago de la deuda.
+143. De acuerdo con la Constitución Española, el artículo 135 establece:a) Que el Estado y las Comunidades Autónomas no podrán incurrir en un deficit estructural que supere los margenes establecidos por la Unión Europea.b) La prohibicion absoluta de endeudamiento público.c) La prioridad del gasto social frente al pago de la deuda.
 
-144. De conformidad con la Constitucion Espanola, la reforma de 1992 permitio que ciudadanos de otros Estados miembros de la Union Europea pudieran ser:a) Electores y elegibles en las elecciones municipales.b) Electores y elegibles en cualquier eleccion general.c) Solo electores, pero no elegibles.
+144. De conformidad con la Constitución Española, la reforma de 1992 permitio que ciudadanos de otros Estados miembros de la Unión Europea pudieran ser:a) Electores y elegibles en las elecciones municipales.b) Electores y elegibles en cualquier elección general.c) Solo electores, pero no elegibles.
 
-145. Segun la Constitucion Espanola, la funcion interpretativa del Preambulo:a) Carece de valor normativo directo, pero orienta la interpretacion del articulado.b) Tiene rango de ley organica.c) Permite invocar el Preambulo directamente como fundamento de un recurso de amparo.
+145. Según la Constitución Española, la función interpretativa del Preámbulo:a) Carece de valor normativo directo, pero orienta la interpretación del articulado.b) Tiene rango de ley orgánica.c) Permite invocar el Preámbulo directamente como fundamento de un recurso de amparo.
 
-146. De acuerdo con la Constitucion Espanola, la soberania popular se expresa a traves de:a) Representantes elegidos en sufragio universal, libre, igual, directo y secreto, sin perjuicio de los mecanismos de democracia directa.b) Exclusivamente la eleccion del Rey.c) La consulta directa en referendum obligatorio a cualquier decision legislativa.
+146. De acuerdo con la Constitución Española, la soberanía popular se expresa a través de:a) Representantes elegidos en sufragio universal, libre, igual, directo y secreto, sin perjuicio de los mecanismos de democracia directa.b) Exclusivamente la elección del Rey.c) La consulta directa en referéndum obligatorio a cualquier decisión legislativa.
 
-147. De conformidad con la Constitucion Espanola, la mayoria exigida para la aprobacion de una reforma constitucional por el procedimiento ordinario es:a) Tres quintos de cada Camara, con posibilidad de fallback de dos tercios del Congreso si el Senado aprobo por mayoria absoluta y no hubo acuerdo.b) Mayoria absoluta de cada Camara.c) Mayoria simple de las Cortes Generales reunidas en sesion conjunta.
+147. De conformidad con la Constitución Española, la mayoría exigida para la aprobación de una reforma constitucional por el procedimiento ordinario es:a) Tres quintos de cada Cámara, con posibilidad de fallback de dos tercios del Congreso si el Senado aprobó por mayoría absoluta y no hubo acuerdo.b) Mayoría absoluta de cada Cámara.c) Mayoría simple de las Cortes Generales reunidas en sesion conjunta.
 
-148. Segun la Constitucion Espanola, durante la vigencia del estado de alarma:a) Los derechos fundamentales podran limitarse pero no suspenderse.b) Los derechos fundamentales se suspenden en los mismos terminos que en el estado de excepcion.c) El Congreso pierde su capacidad de control sobre el Gobierno.
+148. Según la Constitución Española, durante la vigencia del estado de alarma:a) Los derechos fundamentales podrán limitarse pero no suspenderse.b) Los derechos fundamentales se suspenden en los mismos términos que en el estado de excepción.c) El Congreso pierde su capacidad de control sobre el Gobierno.
 
-149. De acuerdo con la Constitucion Espanola, corresponde al Tribunal Constitucional conocer:a) Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley, del recurso de amparo por violacion de los derechos y libertades referidos en el articulo 53.2 y de los conflictos de competencia entre el Estado y las Comunidades Autonomas.b) De los recursos de casacion en materia civil y penal.c) De los conflictos laborales que afecten a la Administracion.
+149. De acuerdo con la Constitución Española, corresponde al Tribunal Constitucional conocer:a) Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley, del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53.2 y de los conflictos de competencia entre el Estado y las Comunidades Autónomas.b) De los recursos de casación en materia civil y penal.c) De los conflictos laborales que afecten a la Administración.
 
-150. De conformidad con la Constitucion Espanola, el conjunto de los principios rectores del Capitulo III del Titulo I:a) Informan la legislacion positiva, la practica judicial y la actuacion de los poderes publicos, pudiendo ser alegados ante la jurisdiccion ordinaria solo de acuerdo con lo que dispongan las leyes que los desarrollen.b) Tienen la misma proteccion que los derechos fundamentales de la Seccion 1.ª del Capitulo II.c) Carecen de valor normativo al tratarse de meras declaraciones politicas.
+150. De conformidad con la Constitución Española, el conjunto de los principios rectores del Capítulo III del Título I:a) Informan la legislación positiva, la práctica judicial y la actuación de los poderes públicos, pudiendo ser alegados ante la jurisdicción ordinaria solo de acuerdo con lo que dispongan las leyes que los desarrollen.b) Tienen la misma protección que los derechos fundamentales de la Sección 1.ª del Capítulo II.c) Carecen de valor normativo al tratarse de meras declaraciones políticas.
 
 ---
 
@@ -389,44 +389,44 @@
 
 ---
 
-## SECCION PEDAGOGICA — 20 preguntas con explicacion y referencia
+## SECCION PEDAGOGICA — 20 preguntas con explicación y referencia
 
-> Seleccion representativa del banco para estudio con razonamiento. Ideal para identificar por que la opcion correcta lo es.
+> Selección representativa del banco para estudio con razonamiento. Ideal para identificar por que la opción correcta lo es.
 
 ### Pregunta P1 — Valores superiores del ordenamiento
 
-**De acuerdo con el articulo 1 de la Constitucion Espanola, son valores superiores del ordenamiento juridico:**
+**De acuerdo con el artículo 1 de la Constitución Española, son valores superiores del ordenamiento jurídico:**
 
-a) Libertad, justicia, igualdad y pluralismo politico.
+a) Libertad, justicia, igualdad y pluralismo político.
 b) Libertad, igualdad y legalidad.
-c) Justicia, igualdad y seguridad juridica.
+c) Justicia, igualdad y seguridad jurídica.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Libertad, justicia, igualdad y pluralismo politico.**
+**Correcta: a) Libertad, justicia, igualdad y pluralismo político.**
 
-El articulo 1.1 CE proclama cuatro valores superiores: **libertad, justicia, igualdad y pluralismo politico**. La "seguridad juridica" es un principio del articulo 9.3 CE, no un valor superior del articulo 1.
+El artículo 1.1 CE proclama cuatro valores superiores: **libertad, justicia, igualdad y pluralismo político**. La "seguridad jurídica" es un principio del artículo 9.3 CE, no un valor superior del artículo 1.
 
 *Referencia: `[CE, art. 1.1]` — `tema-1-contenido.md § 1.2`*
 </details>
 
 ---
 
-### Pregunta P2 — Forma politica del Estado
+### Pregunta P2 — Forma política del Estado
 
-**Segun la Constitucion Espanola, la forma politica del Estado espanol es:**
+**Según la Constitución Española, la forma política del Estado español es:**
 
 a) Republica parlamentaria.
-b) Monarquia constitucional.
-c) Monarquia parlamentaria.
+b) Monarquía constitucional.
+c) Monarquía parlamentaria.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: c) Monarquia parlamentaria.**
+**Correcta: c) Monarquía parlamentaria.**
 
-El articulo 1.3 CE define la forma politica como **monarquia parlamentaria**. La diferencia con la "monarquia constitucional" es sustancial: en la parlamentaria, el Rey reina pero no gobierna; la legitimidad politica reside en las Cortes.
+El artículo 1.3 CE define la forma política como **monarquía parlamentaria**. La diferencia con la "monarquía constitucional" es sustancial: en la parlamentaria, el Rey reina pero no gobierna; la legitimidad política reside en las Cortes.
 
 *Referencia: `[CE, art. 1.3]` — `tema-1-contenido.md § 1.2`*
 </details>
@@ -435,78 +435,78 @@ El articulo 1.3 CE define la forma politica como **monarquia parlamentaria**. La
 
 ### Pregunta P3 — Inviolabilidad del domicilio
 
-**De conformidad con la Constitucion Espanola, la inviolabilidad del domicilio:**
+**De conformidad con la Constitución Española, la inviolabilidad del domicilio:**
 
-a) Puede ser vulnerada por la Administracion sin autorizacion judicial.
-b) Solo podra hacerse con consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.
-c) Es un principio rector de la politica social y economica.
+a) Puede ser vulnerada por la Administración sin autorización judicial.
+b) Solo podrá hacerse con consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.
+c) Es un principio rector de la política social y económica.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) Solo podra hacerse con consentimiento del titular o resolucion judicial, salvo en caso de flagrante delito.**
+**Correcta: b) Solo podrá hacerse con consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.**
 
-El articulo 18.2 CE establece exactamente esta regla. Son **tres supuestos** de entrada licita: (1) consentimiento del titular, (2) resolucion judicial, (3) flagrante delito. Cualquier otra entrada es vulneradora del derecho.
+El artículo 18.2 CE establece exactamente esta regla. Son **tres supuestos** de entrada licita: (1) consentimiento del titular, (2) resolución judicial, (3) flagrante delito. Cualquier otra entrada es vulneradora del derecho.
 
 *Referencia: `[CE, art. 18.2]` — `tema-1-contenido.md § 5.2`*
 </details>
 
 ---
 
-### Pregunta P4 — Reunion y comunicacion previa
+### Pregunta P4 — Reunión y comunicación previa
 
-**Segun la Constitucion Espanola, el derecho de reunion pacifica y sin armas:**
+**Según la Constitución Española, el derecho de reunión pacifica y sin armas:**
 
-a) Requerira autorizacion previa en toda concentracion en lugar de transito publico.
-b) No necesitara autorizacion previa, si bien en los casos de reuniones en lugares de transito publico y manifestaciones se dara comunicacion previa a la autoridad.
-c) Podra prohibirse sin motivacion cuando la autoridad lo considere conveniente.
+a) Requerira autorización previa en toda concentración en lugar de transito público.
+b) No necesitara autorización previa, si bien en los casos de reuniones en lugares de transito público y manifestaciones se dará comunicación previa a la autoridad.
+c) Podrá prohibirse sin motivación cuando la autoridad lo considere conveniente.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) No necesitara autorizacion previa, si bien en los casos de reuniones en lugares de transito publico y manifestaciones se dara comunicacion previa a la autoridad.**
+**Correcta: b) No necesitara autorización previa, si bien en los casos de reuniones en lugares de transito público y manifestaciones se dará comunicación previa a la autoridad.**
 
-Clave: **comunicacion previa ≠ autorizacion previa**. La autoridad solo puede prohibir cuando existan razones fundadas de alteracion del orden publico con peligro para personas o bienes.
+Clave: **comunicación previa ≠ autorización previa**. La autoridad solo puede prohibir cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes.
 
 *Referencia: `[CE, art. 21]` — `tema-1-contenido.md § 5.2`*
 </details>
 
 ---
 
-### Pregunta P5 — Asociacion sin autorizacion
+### Pregunta P5 — Asociación sin autorización
 
-**De conformidad con la Constitucion Espanola, el derecho de asociacion:**
+**De conformidad con la Constitución Española, el derecho de asociación:**
 
-a) Incluye la libertad de creacion de asociaciones sin autorizacion previa.
-b) Exige autorizacion administrativa previa, si bien no judicial.
-c) Solo puede ejercerse para fines politicos y sindicales.
+a) Incluye la libertad de creación de asociaciones sin autorización previa.
+b) Exige autorización administrativa previa, si bien no judicial.
+c) Solo puede ejercerse para fines políticos y sindicales.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Incluye la libertad de creacion de asociaciones sin autorizacion previa.**
+**Correcta: a) Incluye la libertad de creación de asociaciones sin autorización previa.**
 
-El articulo 22 CE reconoce el derecho de asociacion sin autorizacion previa. Las asociaciones se inscriben en un registro publico, pero la inscripcion tiene efectos de publicidad, no de constitucion.
+El artículo 22 CE reconoce el derecho de asociación sin autorización previa. Las asociaciones se inscriben en un registro público, pero la inscripción tiene efectos de publicidad, no de constitución.
 
 *Referencia: `[CE, art. 22]` — `tema-1-contenido.md § 5.2`*
 </details>
 
 ---
 
-### Pregunta P6 — Proteccion de la salud
+### Pregunta P6 — Protección de la salud
 
-**Segun dispone la Constitucion Espanola, el derecho a la proteccion de la salud:**
+**Según dispone la Constitución Española, el derecho a la protección de la salud:**
 
-a) Forma parte de los derechos fundamentales y libertades publicas de la Seccion 1.ª del Capitulo II del Titulo I.
-b) Se reconoce en el marco de los principios rectores de la politica social y economica, correspondiendo a los poderes publicos organizar y tutelar la salud publica.
-c) Solo podra hacerse efectivo a traves del recurso de amparo ante el Tribunal Constitucional.
+a) Forma parte de los derechos fundamentales y libertades públicas de la Sección 1.ª del Capítulo II del Título I.
+b) Se reconoce en el marco de los principios rectores de la política social y económica, correspondiendo a los poderes públicos organizar y tutelar la salud pública.
+c) Solo podrá hacerse efectivo a través del recurso de amparo ante el Tribunal Constitucional.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) Se reconoce en el marco de los principios rectores de la politica social y economica, correspondiendo a los poderes publicos organizar y tutelar la salud publica.**
+**Correcta: b) Se reconoce en el marco de los principios rectores de la política social y económica, correspondiendo a los poderes públicos organizar y tutelar la salud pública.**
 
-El articulo 43 CE esta en el **Capitulo III** (principios rectores). **No cabe amparo sobre principios rectores** (art. 53.3). Su eficacia depende de las leyes de desarrollo que los concreten.
+El artículo 43 CE esta en el **Capítulo III** (principios rectores). **No cabe amparo sobre principios rectores** (art. 53.3). Su eficacia depende de las leyes de desarrollo que los concreten.
 
 *Referencia: `[CE, art. 43]` + `[CE, art. 53.3]` — `tema-1-contenido.md § 5.4`*
 </details>
@@ -515,18 +515,18 @@ El articulo 43 CE esta en el **Capitulo III** (principios rectores). **No cabe a
 
 ### Pregunta P7 — Vivienda digna
 
-**De acuerdo con lo establecido en la Constitucion Espanola, el derecho a disfrutar de una vivienda digna y adecuada:**
+**De acuerdo con lo establecido en la Constitución Española, el derecho a disfrutar de una vivienda digna y adecuada:**
 
-a) Tiene la consideracion de derecho fundamental de aplicacion directa e inmediata ante la jurisdiccion ordinaria.
-b) Se reconoce como principio rector de la politica social y economica, debiendo los poderes publicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.
-c) Solo podra ser desarrollado mediante ley organica por afectar al contenido esencial de los derechos fundamentales.
+a) Tiene la consideración de derecho fundamental de aplicación directa e inmediata ante la jurisdicción ordinaria.
+b) Se reconoce como principio rector de la política social y económica, debiendo los poderes públicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.
+c) Solo podrá ser desarrollado mediante ley orgánica por afectar al contenido esencial de los derechos fundamentales.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) Se reconoce como principio rector de la politica social y economica, debiendo los poderes publicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.**
+**Correcta: b) Se reconoce como principio rector de la política social y económica, debiendo los poderes públicos promover las condiciones necesarias y establecer las normas pertinentes para hacerlo efectivo.**
 
-El articulo 47 CE es un **principio rector** (Capitulo III). **No genera un derecho subjetivo directamente exigible** de obtener una vivienda. Los poderes publicos deben promover las condiciones y regular el uso del suelo.
+El artículo 47 CE es un **principio rector** (Capítulo III). **No genera un derecho subjetivo directamente exigible** de obtener una vivienda. Los poderes públicos deben promover las condiciones y regular el uso del suelo.
 
 *Referencia: `[CE, art. 47]` — `tema-1-contenido.md § 5.4`*
 </details>
@@ -535,58 +535,58 @@ El articulo 47 CE es un **principio rector** (Capitulo III). **No genera un dere
 
 ### Pregunta P8 — Principios rectores y eficacia
 
-**De conformidad con el articulo 53 de la Constitucion Espanola, el reconocimiento, el respeto y la proteccion de los principios reconocidos en el Capitulo III:**
+**De conformidad con el artículo 53 de la Constitución Española, el reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo III:**
 
-a) Informaran la legislacion positiva, la practica judicial y la actuacion de los poderes publicos.
-b) Seran directamente exigibles ante los tribunales ordinarios mediante procedimiento preferente y sumario.
-c) Podran ser tutelados mediante recurso de amparo ante el Tribunal Constitucional.
+a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.
+b) Serán directamente exigibles ante los tribunales ordinarios mediante procedimiento preferente y sumario.
+c) Podrán ser tutelados mediante recurso de amparo ante el Tribunal Constitucional.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Informaran la legislacion positiva, la practica judicial y la actuacion de los poderes publicos.**
+**Correcta: a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.**
 
-El articulo 53.3 CE utiliza exactamente el verbo **"informaran"**. Los principios rectores **solo podran ser alegados ante la jurisdiccion ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen**.
+El artículo 53.3 CE utiliza exactamente el verbo **"informarán"**. Los principios rectores **solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen**.
 
 *Referencia: `[CE, art. 53.3]` — `tema-1-contenido.md § 9.3`*
 </details>
 
 ---
 
-### Pregunta P9 — Suspension colectiva
+### Pregunta P9 — Suspensión colectiva
 
-**De conformidad con lo establecido en el articulo 55 de la Constitucion Espanola, podra ser suspendido cuando se acuerde la declaracion del estado de excepcion o de sitio:**
+**De conformidad con lo establecido en el artículo 55 de la Constitución Española, podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio:**
 
-a) El derecho a la educacion.
+a) El derecho a la educación.
 b) El derecho a elegir libremente su residencia y a circular por el territorio nacional.
-c) El derecho a contraer matrimonio con plena igualdad juridica.
+c) El derecho a contraer matrimonio con plena igualdad jurídica.
 
 <details>
 <summary>Respuesta</summary>
 
 **Correcta: b) El derecho a elegir libremente su residencia y a circular por el territorio nacional.**
 
-El articulo 19 CE esta en la lista del art. 55.1. **Nemotecnico: 17, 18.2, 18.3, 19, 20, 21, 28.2, 37.2**. La educacion (art. 27) y el matrimonio (art. 32) NO son suspendibles.
+El artículo 19 CE esta en la lista del art. 55.1. **Nemotécnico: 17, 18.2, 18.3, 19, 20, 21, 28.2, 37.2**. La educación (art. 27) y el matrimonio (art. 32) NO son suspendibles.
 
 *Referencia: `[CE, art. 55.1]` — `tema-1-contenido.md § 5.6`*
 </details>
 
 ---
 
-### Pregunta P10 — Suspension individual
+### Pregunta P10 — Suspensión individual
 
-**De conformidad con el articulo 55 de la Constitucion Espanola, la suspension individual de derechos podra acordarse:**
+**De conformidad con el artículo 55 de la Constitución Española, la suspensión individual de derechos podrá acordarse:**
 
-a) Respecto de cualquier persona sometida a investigacion penal, en los casos y con la extension que determine el juez.
-b) En relacion con las investigaciones correspondientes a la actuacion de bandas armadas o elementos terroristas, en los terminos previstos en la ley.
+a) Respecto de cualquier persona sometida a investigación penal, en los casos y con la extensión que determine el juez.
+b) En relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, en los términos previstos en la ley.
 c) Exclusivamente mediante acuerdo del Gobierno, sin necesidad de control judicial posterior.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) En relacion con las investigaciones correspondientes a la actuacion de bandas armadas o elementos terroristas, en los terminos previstos en la ley.**
+**Correcta: b) En relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, en los términos previstos en la ley.**
 
-El art. 55.2 CE **tipifica el supuesto**: solo bandas armadas o terrorismo. Requiere ley organica + intervencion judicial + control parlamentario. El uso abusivo genera responsabilidad penal.
+El art. 55.2 CE **tipifica el supuesto**: solo bandas armadas o terrorismo. Requiere ley orgánica + intervención judicial + control parlamentario. El uso abusivo genera responsabilidad penal.
 
 *Referencia: `[CE, art. 55.2]` — `tema-1-contenido.md § 5.6.2`*
 </details>
@@ -595,38 +595,38 @@ El art. 55.2 CE **tipifica el supuesto**: solo bandas armadas o terrorismo. Requ
 
 ### Pregunta P11 — Estructura del texto
 
-**De acuerdo con la Constitucion Espanola, el texto constitucional se estructura en:**
+**De acuerdo con la Constitución Española, el texto constitucional se estructura en:**
 
-a) Un preambulo, un titulo preliminar y diez titulos, ademas de disposiciones adicionales, transitorias, derogatoria y final.
-b) Un preambulo y nueve titulos, ademas de disposiciones transitorias y finales.
-c) Un preambulo, un titulo preliminar y once titulos, sin disposiciones adicionales.
+a) Un preámbulo, un título preliminar y diez títulos, además de disposiciones adicionales, transitorias, derogatoria y final.
+b) Un preámbulo y nueve títulos, además de disposiciones transitorias y finales.
+c) Un preámbulo, un título preliminar y once títulos, sin disposiciones adicionales.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Un preambulo, un titulo preliminar y diez titulos, ademas de disposiciones adicionales, transitorias, derogatoria y final.**
+**Correcta: a) Un preámbulo, un título preliminar y diez títulos, además de disposiciones adicionales, transitorias, derogatoria y final.**
 
-Memoriza: **Preambulo + Titulo Preliminar + 10 Titulos numerados + 4 DDAA + 9 DDTT + 1 DD + 1 DF**. Total 169 articulos.
+Memoriza: **Preámbulo + Título Preliminar + 10 Títulos numerados + 4 DDAA + 9 DDTT + 1 DD + 1 DF**. Total 169 artículos.
 
 *Referencia: `[CE-1978]` — `tema-1-contenido.md § 3`*
 </details>
 
 ---
 
-### Pregunta P12 — Capitulo II del Titulo I
+### Pregunta P12 — Capítulo II del Título I
 
-**Segun la estructura de la Constitucion Espanola, el Capitulo II del Titulo I se divide en:**
+**Según la estructura de la Constitución Española, el Capítulo II del Título I se divide en:**
 
-a) Dos secciones: de los derechos fundamentales y de las libertades publicas, y de los derechos y deberes de los ciudadanos.
-b) Tres secciones: de los espanoles y extranjeros, de los principios rectores y de las garantias constitucionales.
-c) Dos secciones: de los derechos fundamentales y de los principios rectores de la politica social y economica.
+a) Dos secciones: de los derechos fundamentales y de las libertades públicas, y de los derechos y deberes de los ciudadanos.
+b) Tres secciones: de los españoles y extranjeros, de los principios rectores y de las garantías constitucionales.
+c) Dos secciones: de los derechos fundamentales y de los principios rectores de la política social y económica.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Dos secciones: de los derechos fundamentales y de las libertades publicas, y de los derechos y deberes de los ciudadanos.**
+**Correcta: a) Dos secciones: de los derechos fundamentales y de las libertades públicas, y de los derechos y deberes de los ciudadanos.**
 
-El Capitulo II (arts. 14-38) se parte en: **Sec. 1.ª (arts. 14-29)** derechos fundamentales y libertades publicas + **Sec. 2.ª (arts. 30-38)** derechos y deberes de los ciudadanos. El regimen de proteccion difiere entre ambas.
+El Capítulo II (arts. 14-38) se parte en: **Sec. 1.ª (arts. 14-29)** derechos fundamentales y libertades públicas + **Sec. 2.ª (arts. 30-38)** derechos y deberes de los ciudadanos. El régimen de protección difiere entre ambas.
 
 *Referencia: `[CE, Titulo I, Cap. II]` — `tema-1-contenido.md § 3.2`*
 </details>
@@ -635,18 +635,18 @@ El Capitulo II (arts. 14-38) se parte en: **Sec. 1.ª (arts. 14-29)** derechos f
 
 ### Pregunta P13 — Procedimiento ordinario de reforma
 
-**De conformidad con la Constitucion Espanola, los proyectos de reforma constitucional deberan ser aprobados:**
+**De conformidad con la Constitución Española, los proyectos de reforma constitucional deberán ser aprobados:**
 
-a) Por mayoria de tres quintos de cada una de las Camaras, en el procedimiento ordinario.
-b) Por mayoria simple del Congreso de los Diputados y mayoria absoluta del Senado.
-c) Por mayoria absoluta de ambas Camaras en todo caso.
+a) Por mayoría de tres quintos de cada una de las Cámaras, en el procedimiento ordinario.
+b) Por mayoría simple del Congreso de los Diputados y mayoría absoluta del Senado.
+c) Por mayoría absoluta de ambas Cámaras en todo caso.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Por mayoria de tres quintos de cada una de las Camaras, en el procedimiento ordinario.**
+**Correcta: a) Por mayoría de tres quintos de cada una de las Cámaras, en el procedimiento ordinario.**
 
-El **art. 167 CE**: mayoria de 3/5 en cada Camara. Si no hay acuerdo, Comision Mixta. Si aun asi no se aprueba y el Senado obtuvo mayoria absoluta, el Congreso puede aprobar por 2/3.
+El **art. 167 CE**: mayoría de 3/5 en cada Cámara. Si no hay acuerdo, Comisión Mixta. Si aun así no se aprueba y el Senado obtuvo mayoría absoluta, el Congreso puede aprobar por 2/3.
 
 *Referencia: `[CE, art. 167]` — `tema-1-contenido.md § 7.2`*
 </details>
@@ -655,18 +655,18 @@ El **art. 167 CE**: mayoria de 3/5 en cada Camara. Si no hay acuerdo, Comision M
 
 ### Pregunta P14 — Procedimiento agravado
 
-**De acuerdo con la Constitucion Espanola, el procedimiento agravado exige:**
+**De acuerdo con la Constitución Española, el procedimiento agravado exige:**
 
-a) Aprobacion del principio por mayoria de dos tercios de cada Camara y disolucion inmediata de las Cortes.
-b) Aprobacion por mayoria absoluta de ambas Camaras y referendum facultativo.
-c) Aprobacion por mayoria simple del Congreso, mayoria absoluta del Senado y ratificacion por ley organica.
+a) Aprobación del principio por mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes.
+b) Aprobación por mayoría absoluta de ambas Cámaras y referéndum facultativo.
+c) Aprobación por mayoría simple del Congreso, mayoría absoluta del Senado y ratificación por ley orgánica.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) Aprobacion del principio por mayoria de dos tercios de cada Camara y disolucion inmediata de las Cortes.**
+**Correcta: a) Aprobación del principio por mayoría de dos tercios de cada Cámara y disolución inmediata de las Cortes.**
 
-**Art. 168 CE**: supone 2/3 + disolucion de Cortes + ratificacion nuevas Camaras (2/3) + referendum OBLIGATORIO. Es el itinerario mas exigente del ordenamiento.
+**Art. 168 CE**: supone 2/3 + disolución de Cortes + ratificación nuevas Cámaras (2/3) + referéndum OBLIGATORIO. Es el itinerario mas exigente del ordenamiento.
 
 *Referencia: `[CE, art. 168]` — `tema-1-contenido.md § 7.3`*
 </details>
@@ -677,14 +677,14 @@ c) Aprobacion por mayoria simple del Congreso, mayoria absoluta del Senado y rat
 
 **La reforma constitucional de 1992 tuvo por objeto:**
 
-a) Introducir el principio de estabilidad presupuestaria en el articulo 135.
-b) Adaptar la Constitucion a las exigencias derivadas del Tratado de Maastricht, modificando el articulo 13.2.
-c) Sustituir en el articulo 49 la terminologia relativa a las personas con discapacidad.
+a) Introducir el principio de estabilidad presupuestaria en el artículo 135.
+b) Adaptar la Constitución a las exigencias derivadas del Tratado de Maastricht, modificando el artículo 13.2.
+c) Sustituir en el artículo 49 la terminología relativa a las personas con discapacidad.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) Adaptar la Constitucion a las exigencias derivadas del Tratado de Maastricht, modificando el articulo 13.2.**
+**Correcta: b) Adaptar la Constitución a las exigencias derivadas del Tratado de Maastricht, modificando el artículo 13.2.**
 
 1992 = UE: los ciudadanos UE son electores y elegibles en elecciones municipales. 2011 = art. 135 estabilidad. 2024 = art. 49 personas con discapacidad.
 
@@ -697,16 +697,16 @@ c) Sustituir en el articulo 49 la terminologia relativa a las personas con disca
 
 **La reforma constitucional de 2011 modifico:**
 
-a) El articulo 13.2, en relacion con el derecho de sufragio de ciudadanos de la Union Europea en elecciones municipales.
-b) El articulo 135, introduciendo el principio de estabilidad presupuestaria.
-c) El articulo 49, en materia de derechos de las personas con discapacidad.
+a) El artículo 13.2, en relación con el derecho de sufragio de ciudadanos de la Unión Europea en elecciones municipales.
+b) El artículo 135, introduciendo el principio de estabilidad presupuestaria.
+c) El artículo 49, en materia de derechos de las personas con discapacidad.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) El articulo 135, introduciendo el principio de estabilidad presupuestaria.**
+**Correcta: b) El artículo 135, introduciendo el principio de estabilidad presupuestaria.**
 
-2011 = art. 135. Contenido: estabilidad presupuestaria, limite al deficit estructural (margenes UE) y **prioridad absoluta del pago de la deuda publica** frente a otros gastos.
+2011 = art. 135. Contenido: estabilidad presupuestaria, limite al deficit estructural (margenes UE) y **prioridad absoluta del pago de la deuda pública** frente a otros gastos.
 
 *Referencia: `[REF-2011]` — `tema-1-contenido.md § 8.2`*
 </details>
@@ -715,7 +715,7 @@ c) El articulo 49, en materia de derechos de las personas con discapacidad.
 
 ### Pregunta P17 — Reforma 2024
 
-**La reforma constitucional de 2024 afecto al articulo:**
+**La reforma constitucional de 2024 afectó al artículo:**
 
 a) 49.
 b) 135.
@@ -726,27 +726,27 @@ c) 13.2.
 
 **Correcta: a) 49.**
 
-La reforma de 2024 modifico el articulo 49 sustituyendo "disminuidos" por **"personas con discapacidad"** y asegurando su plena participacion en la vida politica y publica.
+La reforma de 2024 modifico el artículo 49 sustituyendo "disminuidos" por **"personas con discapacidad"** y asegurando su plena participación en la vida política y pública.
 
 *Referencia: `[REF-2024]` — `tema-1-contenido.md § 8.3`*
 </details>
 
 ---
 
-### Pregunta P18 — Caracteristicas de la Constitucion
+### Pregunta P18 — Características de la Constitución
 
-**De acuerdo con la doctrina constitucional mas extendida y con las caracteristicas del texto de 1978, la Constitucion Espanola es:**
+**De acuerdo con la doctrina constitucional mas extendida y con las características del texto de 1978, la Constitución Española es:**
 
-a) Flexible, por permitir su reforma mediante mayoria simple.
-b) Rigida, al exigir para su reforma procedimientos complejos y mayorias cualificadas.
+a) Flexible, por permitir su reforma mediante mayoría simple.
+b) Rígida, al exigir para su reforma procedimientos complejos y mayorías cualificadas.
 c) Irreformable en sus aspectos esenciales.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: b) Rigida, al exigir para su reforma procedimientos complejos y mayorias cualificadas.**
+**Correcta: b) Rígida, al exigir para su reforma procedimientos complejos y mayorías cualificadas.**
 
-"Rigida" significa que su reforma requiere procedimientos agravados. No es "irreformable": el articulo 168 preve incluso la revision total, aunque con exigencias maximas.
+"Rígida" significa que su reforma requiere procedimientos agravados. No es "irreformable": el artículo 168 preve incluso la revisión total, aunque con exigencias máximas.
 
 *Referencia: `[CE, arts. 167-168]` — `tema-1-contenido.md § 1.1`*
 </details>
@@ -755,38 +755,38 @@ c) Irreformable en sus aspectos esenciales.
 
 ### Pregunta P19 — Tutela preferente y sumaria
 
-**De conformidad con la Constitucion Espanola, los derechos y libertades reconocidos en los articulos 14 a 29 podran ser tutelados, en su caso:**
+**De conformidad con la Constitución Española, los derechos y libertades reconocidos en los artículos 14 a 29 podrán ser tutelados, en su caso:**
 
 a) Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional.
 b) Exclusivamente mediante recurso de amparo ante el Tribunal Constitucional.
-c) Solo mediante recurso contencioso-administrativo ante la jurisdiccion ordinaria.
+c) Solo mediante recurso contencioso-administrativo ante la jurisdicción ordinaria.
 
 <details>
 <summary>Respuesta</summary>
 
 **Correcta: a) Ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional.**
 
-El **art. 53.2 CE** establece **doble via**: primero la jurisdiccion ordinaria (preferencia y sumariedad) y despues, una vez agotada, el amparo ante el TC. El amparo se extiende tambien a la objecion de conciencia del art. 30.
+El **art. 53.2 CE** establece **doble vía**: primero la jurisdicción ordinaria (preferencia y sumariedad) y después, una vez agotada, el amparo ante el TC. El amparo se extiende también a la objeción de conciencia del art. 30.
 
 *Referencia: `[CE, art. 53.2]` — `tema-1-contenido.md § 9.2`*
 </details>
 
 ---
 
-### Pregunta P20 — Supremacia constitucional
+### Pregunta P20 — Supremacía constitucional
 
-**Segun la Constitucion Espanola, esta constituye:**
+**Según la Constitución Española, esta constituye:**
 
-a) La norma suprema del ordenamiento juridico, fundamento de validez del resto de las normas.
-b) Una ley organica de especial relevancia institucional.
+a) La norma suprema del ordenamiento jurídico, fundamento de validez del resto de las normas.
+b) Una ley orgánica de especial relevancia institucional.
 c) Una norma programatica cuya eficacia depende siempre del desarrollo legislativo posterior.
 
 <details>
 <summary>Respuesta</summary>
 
-**Correcta: a) La norma suprema del ordenamiento juridico, fundamento de validez del resto de las normas.**
+**Correcta: a) La norma suprema del ordenamiento jurídico, fundamento de validez del resto de las normas.**
 
-La CE es **norma suprema** y **directamente aplicable**. El Tribunal Constitucional es su **interprete supremo** (art. 161 CE). Todas las normas inferiores deben ajustarse a ella.
+La CE es **norma suprema** y **directamente aplicable**. El Tribunal Constitucional es su **intérprete supremo** (art. 161 CE). Todas las normas inferiores deben ajustarse a ella.
 
 *Referencia: `[CE, art. 9.1 y 161]` — `tema-1-contenido.md § 11*`
 </details>

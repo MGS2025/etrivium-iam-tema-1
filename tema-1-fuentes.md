@@ -13,7 +13,7 @@
 
 A diferencia de los temas técnicos (11-40), los temas del bloque administrativo trabajan con **corpus cerrado**: el texto literal de la Constitución Española publicado en el BOE y sus reformas.
 
-- **No se busca doctrina externa ni bibliografia académica** para el contenido del tema.
+- **No se busca doctrina externa ni bibliografía académica** para el contenido del tema.
 - Las citas se expresan como referencias a **artículos** (`[CE, art. 14]`) o al **BOE oficial de cada reforma**.
 - El material complementario aportado por el cliente (TEMA 1.docx + banco de preguntas + casos prácticos) actúa como fuente validada por María/Ana para consolidar redacción y estilo.
 - El pliego oficial `2026 TIC C1 ParteTeorica.pdf` y `2026 TIC C1 PartePractica.pdf` delimita el alcance y formato de la prueba.
@@ -24,10 +24,10 @@ A diferencia de los temas técnicos (11-40), los temas del bloque administrativo
 
 | Ref | Título | Publicación | Uso |
 |---|---|---|---|
-| [CE-1978] | Constitución Española | BOE num. 311 de 29/12/1978 · ref. BOE-A-1978-31229 | Texto literal referenciado por artículos |
-| [REF-1992] | Reforma del artículo 13.2 CE | BOE num. 207 de 28/08/1992 | Integración UE — sufragio activo/pasivo UE en elecciones municipales |
-| [REF-2011] | Reforma del artículo 135 CE | BOE num. 233 de 27/09/2011 | Estabilidad presupuestaria — prioridad pago deuda pública |
-| [REF-2024] | Reforma del artículo 49 CE | BOE num. 42 de 16/02/2024 | "personas con discapacidad" sustituye "disminuidos" |
+| [CE-1978] | Constitución Española | BOE núm. 311 de 29/12/1978 · ref. BOE-A-1978-31229 | Texto literal referenciado por artículos |
+| [REF-1992] | Reforma del artículo 13.2 CE | BOE núm. 207 de 28/08/1992 | Integración UE — sufragio activo/pasivo UE en elecciones municipales |
+| [REF-2011] | Reforma del artículo 135 CE | BOE núm. 233 de 27/09/2011 | Estabilidad presupuestaria — prioridad pago deuda pública |
+| [REF-2024] | Reforma del artículo 49 CE | BOE núm. 42 de 16/02/2024 | "personas con discapacidad" sustituye "disminuidos" |
 | [LO-7-1980] | Ley Orgánica 7/1980 de Libertad Religiosa | BOE de 24/07/1980 | Desarrollo del art. 16 CE |
 | [LO-6-1984] | Ley Orgánica 6/1984 reguladora del Hábeas Corpus | BOE de 26/05/1984 | Desarrollo del art. 17.4 CE |
 | [LO-3-2018] | LO 3/2018 de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD) | BOE de 06/12/2018 | Desarrollo del art. 18.4 CE |
@@ -88,9 +88,9 @@ A diferencia de los temas técnicos (11-40), los temas del bloque administrativo
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca texto constitucional va acompanada de `[CE, art. X]`.
+1. Toda afirmación que reproduzca texto constitucional va acompañada de `[CE, art. X]`.
 2. Las tres reformas se identifican siempre con año + número de artículo afectado.
-3. Los datos memoristicos (fechas, número de artículos, mayorias exigidas) se marcan con el callout `[DATO CLAVE EXAMEN]`.
+3. Los datos memorísticos (fechas, número de artículos, mayorías exigidas) se marcan con el callout `[DATO CLAVE EXAMEN]`.
 4. Las diferencias entre "derechos fundamentales" (arts. 14-29), "derechos y deberes" (arts. 30-38) y "principios rectores" (arts. 39-52) se recuerdan en `[REFERENCIA CRUZADA]` cada vez que aparecen.
 5. Los ejemplos aplicados al contexto del Ayuntamiento de Madrid se marcan con `[EJEMPLO AYTO MADRID]`.
 
@@ -98,7 +98,7 @@ A diferencia de los temas técnicos (11-40), los temas del bloque administrativo
 
 ## Trazabilidad fuente → contenido → pregunta
 
-Cada pregunta del banco y cada cuestion de los casos prácticos debe poder reconducirse a:
+Cada pregunta del banco y cada cuestión de los casos prácticos debe poder reconducirse a:
 
 1. Un artículo concreto de la CE (Tier 1), o
 2. Una reforma identificada (Tier 1), o

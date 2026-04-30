@@ -8,7 +8,7 @@
 
 **Estado**: pendiente de validación por María y Ana.
 
-**Motivo**: feedback tras revisión de María/Ana de la v1.0 — falta profundidad en la parte de derechos y deberes fundamentales, su garantía y suspensión. Hay que pedir más profundidad en los contenidos para que el material aprueble en una sola iteración.
+**Motivo**: feedback tras revisión de María/Ana de la v1.0 — falta profundidad en la parte de derechos y deberes fundamentales, su garantía y suspensión. Hay que pedir más profundidad en los contenidos para que el material apruebe en una sola iteración.
 
 ### Resumen de cambios v2.0
 
@@ -30,18 +30,18 @@
   - Reserva de ley orgánica del art. 81 cuando aplica.
   - Ley(es) de desarrollo concreta(s).
   - Doctrina del Tribunal Constitucional más relevante (STC con número y materia).
-- Cobertura completa de los 16 artículos: 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29. **Antes faltaban completamente** los arts. 23, 25 (interno), 26, y la mayoria solo tenían una frase.
+- Cobertura completa de los 16 artículos: 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29. **Antes faltaban completamente** los arts. 23, 25 (interno), 26, y la mayoría solo tenían una frase.
 - Añadido bloque dedicado al art. 18.4 (protección de datos) por su relevancia para el bloque técnico.
 
 **Sección 5.3 — Derechos y deberes de los ciudadanos (arts. 30-38)**:
 - Cada artículo (30, 31, 32, 33, 34, 35, 36, 37, 38) con redacción completa, apartados y desarrollo legislativo.
 - Añadido el caso de la **objeción de conciencia del art. 30.2** como única excepción fuera de los arts. 14-29 amparable ante el TC.
-- Anadidos enlaces a leyes de desarrollo: Código Civil, LET, Ley 50/2002 Fundaciones, RDL 2/2004 Haciendas Locales, etc.
+- Añadidos enlaces a leyes de desarrollo: Código Civil, LET, Ley 50/2002 Fundaciones, RDL 2/2004 Haciendas Locales, etc.
 
 **Sección 5.4 — Principios rectores (arts. 39-52)**:
 - Cada artículo (39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52) con redacción completa, apartados y leyes de desarrollo.
 - Doctrina constitucional sobre eficacia limitada (art. 53.3): mandato al legislador, criterio interpretativo, vinculación poderes públicos.
-- Nuevo callout EJEMPLO AYTO MADRID con materialización local de los principios (Red Bibliotecas, EMVS, Concejalia Familias, etc.).
+- Nuevo callout EJEMPLO AYTO MADRID con materialización local de los principios (Red Bibliotecas, EMVS, Concejalía Familias, etc.).
 - Reforma 2024 del art. 49 con texto literal nuevo y reforma original explicada.
 
 ### Fuentes añadidas en v2.0
@@ -64,11 +64,11 @@ Primera versión del piloto del Tema 1 siguiendo la plantilla validada del Tema 
 
 ### Decisiones estratégicas
 
-1. **Sin ampliación x2 del contenido**. A diferencia del Tema 11 (que crecio de 8K a 16K palabras), el Tema 1 se ciñe a la redacción del material aportado (`TEMA 1.docx`). Razón: las fuentes legislativas son cerradas y la ampliación con jurisprudencia o doctrina no aporta valor examinable para oposición C1.
-2. **Banco de 150 preguntas**: 90 aportadas y validadas por el cliente + 60 nuevas redactadas con identico patrón.
-3. **6 casos prácticos**: 3 aportados y validados por el cliente + 3 nuevos con escenarios distintos (identidad digital, elecciones municipales, emergencia climatica).
+1. **Sin ampliación x2 del contenido**. A diferencia del Tema 11 (que creció de 8K a 16K palabras), el Tema 1 se ciñe a la redacción del material aportado (`TEMA 1.docx`). Razón: las fuentes legislativas son cerradas y la ampliación con jurisprudencia o doctrina no aporta valor examinable para oposición C1.
+2. **Banco de 150 preguntas**: 90 aportadas y validadas por el cliente + 60 nuevas redactadas con idéntico patrón.
+3. **6 casos prácticos**: 3 aportados y validados por el cliente + 3 nuevos con escenarios distintos (identidad digital, elecciones municipales, emergencia climática).
 4. **12 diagramas SVG inline**: todos reescritos para contenido legislativo.
-5. **Formato de test hibrido (C)**: banco completo en formato examen + subset pedagogico con explicación.
+5. **Formato de test híbrido (C)**: banco completo en formato examen + subset pedagógico con explicación.
 
 ### Entregables generados
 
@@ -78,11 +78,11 @@ Primera versión del piloto del Tema 1 siguiendo la plantilla validada del Tema 
 | `tema-1-indice.md` | ~4 KB | Estructura del contenido + tablas comparativas + dependencias con otros temas |
 | `tema-1-contenido.md` | ~25 KB | Temario teórico (13 secciones) basado en `TEMA 1.docx` sin ampliación externa |
 | `tema-1-diagramas.md` | ~35 KB | 12 diagramas SVG inline (estructura, reforma, suspensión, garantías, jerarquía, territorial) |
-| `tema-1-test.md` | ~45 KB | 150 preguntas formato examen + 20 preguntas formato pedagogico con explicación |
+| `tema-1-test.md` | ~45 KB | 150 preguntas formato examen + 20 preguntas formato pedagógico con explicación |
 | `tema-1-caso-practico.md` | ~35 KB | 6 casos prácticos (72 preguntas en total) sobre Ayto Madrid |
 | `tema-1-validacion.md` | ~10 KB | Checklist de revisión para María + Ana + feedback abierto |
 | `tema-1-changelog.md` | este archivo | Registro de cambios |
-| `tema-1-piloto.html` | ~80 KB | HTML autosuficiente con 7 pestanas (índice, contenido, diagramas, test, casos, validación, fuentes) |
+| `tema-1-piloto.html` | ~80 KB | HTML autosuficiente con 7 pestañas (índice, contenido, diagramas, test, casos, validación, fuentes) |
 
 ### Diagramas incorporados (SVG inline)
 
@@ -90,21 +90,21 @@ Primera versión del piloto del Tema 1 siguiendo la plantilla validada del Tema 
 |---|---|---|
 | D1 | Características de la CE 1978 | § 1 |
 | D2 | Árbol de la estructura constitucional | § 3 |
-| D3 | Parte dogmatica vs parte orgánica | § 4 |
+| D3 | Parte dogmática vs parte orgánica | § 4 |
 | D4 | Procedimiento ordinario de reforma | § 7.2 |
 | D5 | Procedimiento agravado de reforma | § 7.3 |
 | D6 | Timeline de reformas (1992-2011-2024) | § 8 |
 | D7 | Suspensión de derechos (colectiva vs individual) | § 5.6 / § 10 |
 | D8 | Jerarquía normativa | § 11 |
-| D9 | Tipos de mayoria parlamentaria | § 7.3 |
+| D9 | Tipos de mayoría parlamentaria | § 7.3 |
 | D10 | Niveles de protección de los derechos | § 5.5 / § 9 |
 | D11 | Flujo del recurso de amparo | § 9.2 |
 | D12 | Organización territorial (Título VIII) | § 12 |
 
 ### Callouts reutilizables empleados
 
-- **[DATO CLAVE EXAMEN]** — información memoristica de alta frecuencia examinable.
-- **[CITA CONSTITUCIONAL]** — parafrasis cercana o literal de un precepto CE.
+- **[DATO CLAVE EXAMEN]** — información memorística de alta frecuencia examinable.
+- **[CITA CONSTITUCIONAL]** — paráfrasis cercana o literal de un precepto CE.
 - **[EJEMPLO AYTO MADRID]** — aplicación real al entorno municipal.
 - **[REFERENCIA CRUZADA]** — enlace a otro tema del temario.
 
@@ -120,8 +120,8 @@ Nota: el callout **[EJERCICIO RESUELTO]** utilizado en el Tema 11 se sustituye p
 ### Pendientes para v2 (si María/Ana lo solicitan)
 
 - Valorar si se incorpora jurisprudencia del Tribunal Constitucional (STC) como Tier 2.
-- Valorar si se amplia a más casos prácticos (más alla de los 6 actuales).
-- Valorar si se añaden más diagramas especificos (ej. derechos del detenido, formación del Gobierno, etc.).
+- Valorar si se amplía a más casos prácticos (más allá de los 6 actuales).
+- Valorar si se añaden más diagramas específicos (ej. derechos del detenido, formación del Gobierno, etc.).
 - Valorar si la paleta de diagramas se sustituye por branding del Ayto Madrid (#0055a0 ya aplicado) o se simplifica a neutra.
 - Integrar feedback explícito tras la revisión.
 
