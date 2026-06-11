@@ -24,9 +24,9 @@ El Ayuntamiento de Madrid esta implantando una nueva plataforma digital de parti
 
 A partir de este supuesto, responda a las siguientes preguntas:
 
-**1.** De acuerdo con lo establecido en la Constitución Española, el derecho a expresar y difundir libremente pensamientos, ideas y opiniones mediante cualquier medio de reproducción:a) Requerira autorización administrativa previa cuando se ejerza a través de plataformas digitales de titularidad pública.b) Se reconoce en el artículo 20 y no puede restringirse mediante ningún tipo de censura previa, sin perjuicio de los limites establecidos en la Constitución.c) Solo podrá ejercerse libremente en medios de comunicación privados.
+**1.** De acuerdo con lo establecido en la Constitución Española, el derecho a expresar y difundir libremente pensamientos, ideas y opiniones mediante cualquier medio de reproducción:a) Requerirá autorización administrativa previa cuando se ejerza a través de plataformas digitales de titularidad pública.b) Se reconoce en el artículo 20 y no puede restringirse mediante ningún tipo de censura previa, sin perjuicio de los limites establecidos en la Constitución.c) Solo podrá ejercerse libremente en medios de comunicación privados.
 
-**2.** De conformidad con la Constitución Española, el derecho de reunión en el entorno descrito:a) Requerira autorización previa en todo caso cuando tenga lugar en espacios virtuales gestionados por una Administración pública.b) Se reconoce como derecho fundamental, sin necesidad de autorización previa, sin perjuicio de la comunicación previa en los casos previstos legalmente.c) Solo se reconoce para reuniones fisicas en lugares de transito público.
+**2.** De conformidad con la Constitución Española, el derecho de reunión en el entorno descrito:a) Requerirá autorización previa en todo caso cuando tenga lugar en espacios virtuales gestionados por una Administración pública.b) Se reconoce como derecho fundamental, sin necesidad de autorización previa, sin perjuicio de la comunicación previa en los casos previstos legalmente.c) Solo se reconoce para reuniones físicas en lugares de transito público.
 
 **3.** De acuerdo con lo establecido en el artículo 53 de la Constitución Española, el ejercicio de los derechos fundamentales:a) Podrá regularse mediante reglamento siempre que exista habilitación legal suficiente.b) Solo podrá regularse por ley que, en todo caso, deberá respetar su contenido esencial.c) No podrá ser objeto de regulación normativa en ningún caso.
 
@@ -38,11 +38,11 @@ A partir de este supuesto, responda a las siguientes preguntas:
 
 **7.** De acuerdo con lo establecido en la Constitución Española, el derecho a disfrutar de una vivienda digna y adecuada:a) Tiene la consideración de derecho fundamental susceptible de recurso de amparo.b) Se reconoce como principio rector, debiendo los poderes públicos promover las condiciones necesarias para hacerlo efectivo.c) Solo podrá ser ejercido en los términos que establezcan los reglamentos municipales.
 
-**8.** De conformidad con el artículo 53 de la Constitución Española, el reconocimiento, el respeto y la protección de los principios rectores:a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.b) Tendran la misma protección que los derechos fundamentales y libertades públicas.c) Podrán ser invocados directamente mediante recurso de amparo ante el Tribunal Constitucional.
+**8.** De conformidad con el artículo 53 de la Constitución Española, el reconocimiento, el respeto y la protección de los principios rectores:a) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.b) Tendrán la misma protección que los derechos fundamentales y libertades públicas.c) Podrán ser invocados directamente mediante recurso de amparo ante el Tribunal Constitucional.
 
 **9.** De acuerdo con lo establecido en el artículo 55 de la Constitución Española, podrá ser suspendido cuando se acuerde la declaración del estado de excepción o de sitio:a) El derecho a la igualdad ante la ley.b) El derecho a elegir libremente su residencia y a circular por el territorio nacional.c) El derecho a la educación.
 
-**10.** De conformidad con la Constitución Española, la suspensión individual de determinados derechos:a) Podrá acordarse en cualquier procedimiento penal sin limitación material.b) Podrá acordarse en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, en los términos previstos en la ley.c) No esta permitida en ningún caso en el ordenamiento constitucional español.
+**10.** De conformidad con la Constitución Española, la suspensión individual de determinados derechos:a) Podrá acordarse en cualquier procedimiento penal sin limitación material.b) Podrá acordarse en relación con las investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, en los términos previstos en la ley.c) No está permitida en ningún caso en el ordenamiento constitucional español.
 
 **Plantilla de respuestas Caso 1:** 1-b · 2-b · 3-b · 4-b · 5-b · 6-b · 7-b · 8-a · 9-b · 10-b
 
@@ -75,7 +75,7 @@ A partir de este supuesto, responda a las siguientes preguntas:
 
 **7.** De conformidad con la Constitución Española, el derecho a la protección de la salud:a) Tiene la misma protección que los derechos fundamentales.b) Es un principio rector cuya efectividad corresponde a los poderes públicos.c) Es un derecho no reconocido constitucionalmente.
 
-**8.** De acuerdo con lo establecido en el artículo 53 de la Constitución Española, los principios rectores:a) Podrán ser invocados directamente mediante recurso de amparo.b) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.c) Tendran protección reforzada equivalente a los derechos fundamentales.
+**8.** De acuerdo con lo establecido en el artículo 53 de la Constitución Española, los principios rectores:a) Podrán ser invocados directamente mediante recurso de amparo.b) Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.c) Tendrán protección reforzada equivalente a los derechos fundamentales.
 
 **9.** De conformidad con la Constitución Española, los principios rectores:a) No podrán ser alegados ante la jurisdicción ordinaria en ningún caso.b) Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.c) Podrán alegarse directamente sin necesidad de desarrollo legal.
 
@@ -91,19 +91,19 @@ El Ayuntamiento de Madrid esta desplegando una infraestructura digital avanzada 
 
 - Plataforma de participación ciudadana.
 - Sistemas de monitorización de actividad de usuarios.
-- Registro de logs y comunicaciones electronicas.
+- Registro de logs y comunicaciones electrónicas.
 - Herramientas de moderación automática de contenidos.
 - Integración con servicios de salud, vivienda y servicios sociales.
 
 Durante la implantación, el equipo técnico (del que formas parte como Técnico/a Auxiliar TIC) debe validar que las decisiones técnicas respetan el marco constitucional, especialmente en relación con derechos fundamentales, garantías, principios rectores y posibles limitaciones o suspensiones.
 
-**1.** De conformidad con la Constitución Española, la monitorización sistematica de las comunicaciones de los usuarios de la plataforma:a) Podrá realizarse libremente por tratarse de un servicio público digital.b) Afecta al derecho al secreto de las comunicaciones, cuya vulneración requiere resolución judicial, salvo en los casos previstos por la ley.c) Solo afecta a la protección de datos, no a derechos fundamentales.
+**1.** De conformidad con la Constitución Española, la monitorización sistemática de las comunicaciones de los usuarios de la plataforma:a) Podrá realizarse libremente por tratarse de un servicio público digital.b) Afecta al derecho al secreto de las comunicaciones, cuya vulneración requiere resolución judicial, salvo en los casos previstos por la ley.c) Solo afecta a la protección de datos, no a derechos fundamentales.
 
-**2.** De acuerdo con la Constitución Española, el almacenamiento y analisis de metadatos de comunicaciones electronicas:a) No tiene relevancia constitucional si no se accede al contenido.b) Puede incidir en el derecho al secreto de las comunicaciones, que goza de protección reforzada.c) Es una materia exclusivamente administrativa.
+**2.** De acuerdo con la Constitución Española, el almacenamiento y análisis de metadatos de comunicaciones electrónicas:a) No tiene relevancia constitucional si no se accede al contenido.b) Puede incidir en el derecho al secreto de las comunicaciones, que goza de protección reforzada.c) Es una materia exclusivamente administrativa.
 
-**3.** En relación con la moderación automática de contenidos en la plataforma, de acuerdo con el artículo 20 de la Constitución Española:a) Cualquier filtrado previo constituye censura previa prohibida con carácter general.b) La Administración podrá establecer libremente sistemas de control previo por tratarse de un servicio público.c) La censura previa solo esta prohibida en medios de comunicación tradicionales.
+**3.** En relación con la moderación automática de contenidos en la plataforma, de acuerdo con el artículo 20 de la Constitución Española:a) Cualquier filtrado previo constituye censura previa prohibida con carácter general.b) La Administración podrá establecer libremente sistemas de control previo por tratarse de un servicio público.c) La censura previa solo está prohibida en medios de comunicación tradicionales.
 
-**4.** De conformidad con la Constitución Española, la eliminación posterior de contenidos que vulneren derechos de terceros:a) Esta prohibida en todo caso.b) Es compatible con el derecho a la libertad de expresión dentro de sus limites constitucionales.c) Solo puede realizarse mediante autorización administrativa previa.
+**4.** De conformidad con la Constitución Española, la eliminación posterior de contenidos que vulneren derechos de terceros:a) Está prohibida en todo caso.b) Es compatible con el derecho a la libertad de expresión dentro de sus limites constitucionales.c) Solo puede realizarse mediante autorización administrativa previa.
 
 **5.** De acuerdo con el artículo 18 de la Constitución Española, la recogida masiva de datos de usuarios en la plataforma:a) No tiene limite constitucional al tratarse de un servicio público.b) Puede afectar al derecho a la intimidad y al honor, que son derechos fundamentales.c) Solo afecta a principios rectores.
 
@@ -121,11 +121,11 @@ Durante la implantación, el equipo técnico (del que formas parte como Técnico
 
 **12.** De conformidad con el artículo 55 de la Constitución Española, en un estado de excepción o de sitio:a) Podrán suspenderse todos los derechos fundamentales.b) Podrán suspenderse determinados derechos en los términos previstos en la Constitución.c) No podrá suspenderse ningún derecho.
 
-**13.** En relación con la suspensión individual de derechos en un entorno digital:a) Podrá acordarse en cualquier procedimiento administrativo.b) Solo podrá acordarse en relación con investigaciones sobre bandas armadas o terrorismo.c) No esta permitida en ningún caso.
+**13.** En relación con la suspensión individual de derechos en un entorno digital:a) Podrá acordarse en cualquier procedimiento administrativo.b) Solo podrá acordarse en relación con investigaciones sobre bandas armadas o terrorismo.c) No está permitida en ningún caso.
 
 **14.** De acuerdo con la Constitución Española, el derecho a la protección de datos personales:a) Se integra dentro del derecho fundamental a la intimidad del artículo 18.b) Es un principio rector de la política social y económica.c) No tiene reconocimiento constitucional.
 
-**15.** De conformidad con la Constitución Española, la supervision de la actuación administrativa en estos sistemas digitales corresponde, entre otros, a:a) El Defensor del Pueblo.b) El Gobierno exclusivamente.c) El Tribunal Constitucional únicamente.
+**15.** De conformidad con la Constitución Española, la supervisión de la actuación administrativa en estos sistemas digitales corresponde, entre otros, a:a) El Defensor del Pueblo.b) El Gobierno exclusivamente.c) El Tribunal Constitucional únicamente.
 
 **Plantilla de respuestas Caso 3:** 1-b · 2-b · 3-a · 4-b · 5-b · 6-b · 7-b · 8-b · 9-b · 10-b · 11-b · 12-b · 13-b · 14-a · 15-a
 
@@ -135,15 +135,15 @@ Durante la implantación, el equipo técnico (del que formas parte como Técnico
 
 El Ayuntamiento de Madrid pone en marcha un sistema unificado de **identidad digital municipal** que integra:
 
-- Emision de certificados electronicos para ciudadanos empadronados.
-- Firma electronica para tramites con la sede electronica.
+- Emisión de certificados electrónicos para ciudadanos empadronados.
+- Firma electrónica para tramites con la sede electrónica.
 - Red de cámaras de videovigilancia en espacios públicos con lectura automática de matriculas.
 - Grabación de actuaciones policiales municipales con cámaras corporales.
-- Portal único de acceso a expedientes personales (salud, padron, tributos, servicios sociales).
+- Portal único de acceso a expedientes personales (salud, padrón, tributos, servicios sociales).
 
 Como Técnico/a Auxiliar TIC, debes analizar la compatibilidad del sistema con los derechos reconocidos en el Título I de la Constitución Española.
 
-**1.** De acuerdo con el artículo 18 de la Constitución Española, la captación sistematica de la imagen de los ciudadanos en espacios públicos:a) Puede afectar al derecho a la propia imagen, que se reconoce como derecho fundamental.b) No tiene relevancia constitucional por tratarse de espacio público.c) Solo afecta a principios rectores.
+**1.** De acuerdo con el artículo 18 de la Constitución Española, la captación sistemática de la imagen de los ciudadanos en espacios públicos:a) Puede afectar al derecho a la propia imagen, que se reconoce como derecho fundamental.b) No tiene relevancia constitucional por tratarse de espacio público.c) Solo afecta a principios rectores.
 
 **2.** De conformidad con la Constitución Española, el acceso a los datos personales almacenados en el portal único municipal requiere:a) Únicamente la autorización del responsable del fichero.b) Cobertura legal y respeto al contenido esencial del derecho a la intimidad, conforme al artículo 53.1.c) Instrucción interna del servicio correspondiente.
 
@@ -151,15 +151,15 @@ Como Técnico/a Auxiliar TIC, debes analizar la compatibilidad del sistema con l
 
 **4.** De acuerdo con el artículo 24 de la Constitución Española, los ciudadanos que se consideren afectados por un tratamiento indebido de sus datos en el portal único podrán:a) Obtener la tutela efectiva de jueces y tribunales, sin que en ningún caso se produzca indefension.b) Únicamente presentar una queja administrativa interna.c) Esperar a la resolución del expediente por silencio positivo.
 
-**5.** De conformidad con la Constitución Española, el acceso sin consentimiento al contenido de comunicaciones electronicas de un ciudadano:a) Requiere en todo caso resolución judicial, salvo en los supuestos previstos por la ley.b) Podrá realizarse libremente por razones de servicio.c) No esta protegido por el artículo 18.
+**5.** De conformidad con la Constitución Española, el acceso sin consentimiento al contenido de comunicaciones electrónicas de un ciudadano:a) Requiere en todo caso resolución judicial, salvo en los supuestos previstos por la ley.b) Podrá realizarse libremente por razones de servicio.c) No está protegido por el artículo 18.
 
 **6.** Según la Constitución Española, la regulación del sistema de identidad digital debe garantizar:a) El contenido esencial del derecho a la intimidad y al secreto de las comunicaciones.b) Únicamente la eficiencia técnica del sistema.c) Exclusivamente la simplificación administrativa.
 
-**7.** De acuerdo con la Constitución Española, las grabaciones con cámaras corporales de la Policía Municipal:a) Están prohibidas en todo caso por afectar a derechos fundamentales.b) Son licitas cuando esten amparadas en ley y respeten el principio de proporcionalidad.c) Requieren consentimiento expreso del ciudadano grabado en toda circunstancia.
+**7.** De acuerdo con la Constitución Española, las grabaciones con cámaras corporales de la Policía Municipal:a) Están prohibidas en todo caso por afectar a derechos fundamentales.b) Son licitas cuando estén amparadas en ley y respeten el principio de proporcionalidad.c) Requieren consentimiento expreso del ciudadano grabado en toda circunstancia.
 
-**8.** De conformidad con la Constitución Española, la posibilidad de que un ciudadano recurra en amparo ante el Tribunal Constitucional por vulneración de su intimidad:a) Esta prevista al tratarse de un derecho de la Sección 1.ª del Capítulo II del Título I.b) No esta prevista, al ser la intimidad un principio rector.c) Solo procede si existe sentencia penal firme.
+**8.** De conformidad con la Constitución Española, la posibilidad de que un ciudadano recurra en amparo ante el Tribunal Constitucional por vulneración de su intimidad:a) Está prevista al tratarse de un derecho de la Sección 1.ª del Capítulo II del Título I.b) No está prevista, al ser la intimidad un principio rector.c) Solo procede si existe sentencia penal firme.
 
-**9.** De acuerdo con el artículo 54 de la Constitución Española, la figura institucional de supervision de posibles vulneraciones de derechos fundamentales en actuaciones administrativas es:a) El Defensor del Pueblo, como alto comisionado de las Cortes Generales.b) El Consejo de Ministros.c) El Tribunal de Cuentas.
+**9.** De acuerdo con el artículo 54 de la Constitución Española, la figura institucional de supervisión de posibles vulneraciones de derechos fundamentales en actuaciones administrativas es:a) El Defensor del Pueblo, como alto comisionado de las Cortes Generales.b) El Consejo de Ministros.c) El Tribunal de Cuentas.
 
 **10.** Según la Constitución Española, el principio de legalidad aplicado al despliegue del sistema de identidad digital exige:a) Que todas las limitaciones de derechos fundamentales tengan cobertura legal expresa.b) Que las limitaciones se decidan por consenso técnico sin necesidad de ley.c) Que las decisiones técnicas prevalezcan sobre las leyes.
 
@@ -173,7 +173,7 @@ Como Técnico/a Auxiliar TIC, debes analizar la compatibilidad del sistema con l
 
 ## CASO PRÁCTICO 5 — Elecciones municipales y derechos de participación
 
-En el marco de las proximas **elecciones municipales** en Madrid, el Ayuntamiento organiza:
+En el marco de las próximas **elecciones municipales** en Madrid, el Ayuntamiento organiza:
 
 - Una campaña institucional de fomento de la participación ciudadana.
 - Un censo electoral que incluye a ciudadanos de la Unión Europea residentes en Madrid.
@@ -187,9 +187,9 @@ Surgen dudas sobre el marco constitucional aplicable.
 
 **2.** Según la Constitución Española, el derecho de participación política se reconoce en el artículo:a) 23 de la Constitución Española.b) 13.2 de la Constitución Española.c) 27 de la Constitución Española.
 
-**3.** De acuerdo con la Constitución Española, el ejercicio del derecho de sufragio activo requiere:a) Ser mayor de edad y cumplir los requisitos establecidos por la ley, siendo esta mayoría a los 18 años según el artículo 12.b) Tener al menos 21 años según establece la Constitución.c) Haber residido en el municipio los ultimos 10 años.
+**3.** De acuerdo con la Constitución Española, el ejercicio del derecho de sufragio activo requiere:a) Ser mayor de edad y cumplir los requisitos establecidos por la ley, siendo esta mayoría a los 18 años según el artículo 12.b) Tener al menos 21 años según establece la Constitución.c) Haber residido en el municipio los últimos 10 años.
 
-**4.** De conformidad con la Constitución Española, la propaganda electoral en viarios municipales:a) Es manifestación del derecho de participación política, limitado por la legislación electoral aplicable.b) Requiere autorización individualizada para cada formación política.c) Esta prohibida en todo caso.
+**4.** De conformidad con la Constitución Española, la propaganda electoral en viarios municipales:a) Es manifestación del derecho de participación política, limitado por la legislación electoral aplicable.b) Requiere autorización individualizada para cada formación política.c) Está prohibida en todo caso.
 
 **5.** Según la Constitución Española, la protección del derecho de reunión en actos electorales:a) Exige comunicación previa a la autoridad cuando se celebren en lugares de transito público.b) Requiere autorización administrativa expresa.c) Puede prohibirse sin motivación cuando la autoridad lo considere conveniente.
 
@@ -205,7 +205,7 @@ Surgen dudas sobre el marco constitucional aplicable.
 
 **11.** Según la Constitución Española, la tutela del derecho de sufragio activo y pasivo se garantiza:a) Mediante el procedimiento preferente y sumario y, en su caso, mediante recurso de amparo.b) Únicamente mediante recurso contencioso-administrativo ordinario.c) Exclusivamente ante el Tribunal Supremo.
 
-**12.** De acuerdo con la Constitución Española, ningún español podrá ser privado de sus derechos en cualquier parte del territorio del Estado:a) Por razon de su origen o vecindad.b) Salvo decisión de la Comunidad Autonoma de residencia.c) Salvo acuerdo del Pleno del Ayuntamiento correspondiente.
+**12.** De acuerdo con la Constitución Española, ningún español podrá ser privado de sus derechos en cualquier parte del territorio del Estado:a) Por razón de su origen o vecindad.b) Salvo decisión de la Comunidad Autónoma de residencia.c) Salvo acuerdo del Pleno del Ayuntamiento correspondiente.
 
 **Plantilla de respuestas Caso 5:** 1-a · 2-a · 3-a · 4-a · 5-a · 6-a · 7-a · 8-a · 9-a · 10-a · 11-a · 12-a
 

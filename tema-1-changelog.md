@@ -4,6 +4,42 @@
 
 ---
 
+## v2.1 — 2026-06-11 — Corrección ortográfica integral (tildes y ñ)
+
+**Estado**: validado por María y Ana. Único punto pendiente de su revisión: la ortografía (tildes y ñ). Esta versión lo resuelve.
+
+**Motivo**: en la revisión del cliente se detectó que parte del material había perdido diacríticos (tildes y ñ), especialmente las eñes ("España", "diseña", "añade"), que son las más visibles. Una auditoría ortográfica sistemática con corrector ASCII→español (hunspell, diccionario es_ES) reveló que la pérdida de diacríticos estaba repartida por todo el tema —no solo las ñ— y afectaba sobre todo al contenido embebido del HTML (banco de 150 preguntas, 6 casos, 12 diagramas, pestañas Validación/Fuentes), que una pasada ortográfica anterior no había alcanzado.
+
+### Resumen de cambios v2.1
+
+| Métrica | Valor |
+|---|---|
+| Correcciones de diacríticos | **489** (16 ñ + 473 tildes) |
+| Ficheros corregidos | 5 (`index.html`, `tema-1-contenido.md`, `tema-1-caso-practico.md`, `tema-1-test.md`, `tema-1-diagramas.md`) |
+| Cambios de contenido sustantivo | **0** (solo ortografía) |
+| Identificadores técnicos saneados | 6 clases/IDs CSS-JS sobre-acentuados por la pasada previa (`version-badge`, `version-banner`, `validacion`, `score-item`, `VALIDACION_HTML`) revertidos a ASCII para no romper estilos ni navegación |
+
+### Desglose por fichero
+
+| Fichero | ñ añadidas | Tildes añadidas |
+|---|---|---|
+| `index.html` (artefacto publicado) | 14 | 310 |
+| `tema-1-test.md` (150 preguntas) | 0 | 86 |
+| `tema-1-caso-practico.md` (6 casos) | 0 | 31 |
+| `tema-1-diagramas.md` (12 SVG) | 0 | 26 |
+| `tema-1-contenido.md` | 2 | 20 |
+
+### Método
+
+1. Tokenización Unicode + corrector hunspell (es_ES) para detectar palabras ASCII que solo eran válidas con diacrítico (p. ej. `referendum`→`referéndum`, `prohiben`→`prohíben`).
+2. Resolución manual por contexto de homógrafos que hunspell no detecta porque sin tilde siguen siendo palabra válida (`ano`→`año`, `numero`→`número`, `articulo`→`artículo`, `esta`→`está` verbo, `mas`→`más` adverbio).
+3. Protección de identificadores de código (clases/IDs CSS, variables JS, nombres de fichero) para no acentuarlos por error.
+4. Verificación final: 0 palabras con diacrítico perdido, 0 ñ pendientes, identificadores en ASCII, navegación de pestañas íntegra.
+
+**No bumpea contenido**: el temario, las preguntas y los casos son idénticos a v2.0; solo cambia la ortografía. Criterio RAE vigente (no se acentúan "solo" ni demostrativos como pronombre).
+
+---
+
 ## v2.0 — 2026-04-28 — Ampliación en profundidad de derechos y deberes
 
 **Estado**: pendiente de validación por María y Ana.

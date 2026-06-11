@@ -1,11 +1,11 @@
-# Tema 1 V1 — Piloto | ETRIVIUM IAM
+# Tema 1 v2.1 | ETRIVIUM IAM
 
 Piloto del **Tema 1** del temario oficial de la oposición **Técnico Auxiliar TIC C1** del Ayuntamiento de Madrid.
 
 > **Título oficial del tema**: La Constitución Española (I): Estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión.
 >
-> **Versión**: V1 — Pendiente validación
-> **Fecha**: 2026-04-23
+> **Versión**: v2.1 — Validado por María y Ana (corrección ortográfica integral · ver `informe-correcciones-v2.1.html`)
+> **Fecha**: 2026-06-11 (v2.1) · piloto inicial 2026-04-23
 
 ## Publicación
 

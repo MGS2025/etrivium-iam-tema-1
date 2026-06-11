@@ -24,7 +24,7 @@ Este tema incluye cuatro tipos de **cajas callout** para facilitar el estudio:
 
 > **[REFERENCIA CRUZADA]** Enlace conceptual a otros temas o a bloques distintos del propio Tema 1.
 
-Las citas a artículos de la Constitución se expresan como `[CE, art. X]` o `[CE, art. X.Y]`. Las reformas se identifican como `[REF-1992]`, `[REF-2011]` o `[REF-2024]`. El registro completo de fuentes esta en `tema-1-fuentes.md`.
+Las citas a artículos de la Constitución se expresan como `[CE, art. X]` o `[CE, art. X.Y]`. Las reformas se identifican como `[REF-1992]`, `[REF-2011]` o `[REF-2024]`. El registro completo de fuentes está en `tema-1-fuentes.md`.
 
 ---
 
@@ -40,10 +40,10 @@ La Constitución Española presenta, entre sus rasgos definitorios, los siguient
 - **Rígida**: su reforma requiere procedimientos complejos y mayorías cualificadas. En ciertos supuestos, la reforma exige además referéndum. [CE, art. 167-168]
 - **Ideológica**: proclama unos valores superiores del ordenamiento jurídico (libertad, justicia, igualdad y pluralismo político). [CE, art. 1.1]
 - **Derivada**: recibió múltiples influencias de otras constituciones europeas contemporáneas.
-- **Escrita y codificada**: un único texto sistematizado, a diferencia del modelo britanico.
+- **Escrita y codificada**: un único texto sistematizado, a diferencia del modelo británico.
 - **Extensa**: 169 artículos más disposiciones adicionales, transitorias, derogatoria y final.
 - **Aplicación directa e inmediata**: vincula a todos los poderes públicos y a los ciudadanos sin necesidad de desarrollo legal previo en la mayoría de sus preceptos.
-- **Abierta/ambigua en algunos aspectos**: deja fórmulas abiertas que amplian el margen de interpretación constitucional.
+- **Abierta/ambigua en algunos aspectos**: deja fórmulas abiertas que amplían el margen de interpretación constitucional.
 - **Origen popular**: elaborada por representantes del pueblo y ratificada en referéndum constitucional.
 - **Define un Estado democrático**, de régimen parlamentario clásico y forma política **monarquía parlamentaria**. [CE, art. 1.3]
 
@@ -240,7 +240,7 @@ Este bloque concentra los derechos de **máxima protección**. Su desarrollo se 
 
 #### Artículo 24 — Tutela judicial efectiva
 
-> *"Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legitimos, sin que, en ningún caso, pueda producirse indefensión."* [CE, art. 24.1]
+> *"Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión."* [CE, art. 24.1]
 
 - **24.2 Derechos en el proceso**: juez ordinario predeterminado por la ley, defensa y asistencia de letrado, ser informado de la acusación, proceso público sin dilaciones indebidas y con todas las garantías, utilizar los medios de prueba pertinentes, no declarar contra sí mismo, no confesarse culpable y **presunción de inocencia**.
 - **Secreto profesional** del artículo 24.2 (parentesco y secreto profesional como excepciones a la obligación de declarar).
@@ -255,7 +255,7 @@ Este bloque concentra los derechos de **máxima protección**. Su desarrollo se 
 
 #### Artículo 26 — Prohibición de Tribunales de Honor
 
-> *"Se prohiben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales."* [CE, art. 26]
+> *"Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales."* [CE, art. 26]
 
 - Subsiste su admisión excepcional en el ámbito militar (LO 13/1985, Código Penal Militar).
 
@@ -303,7 +303,7 @@ Segundo nivel de protección. Su desarrollo se hace por **ley ordinaria** que en
 
 > *"Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio."* [CE, art. 31.1]
 
-- **31.2** El gasto público realizara una asignación equitativa de los recursos públicos, y su programación y ejecución responderan a los criterios de **eficiencia y economía**.
+- **31.2** El gasto público realizara una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de **eficiencia y economía**.
 - **31.3** Solo podrán establecerse prestaciones personales o patrimoniales de carácter público **con arreglo a la ley** (reserva de ley tributaria).
 - **Principios constitucionales tributarios**: generalidad, capacidad económica, igualdad, progresividad, no confiscatoriedad, legalidad.
 - **Desarrollo**: Ley 58/2003 General Tributaria; Ley 47/2003 General Presupuestaria.
@@ -328,7 +328,7 @@ Segundo nivel de protección. Su desarrollo se hace por **ley ordinaria** que en
 
 > *"Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley."* [CE, art. 34.1]
 
-- **34.2** Regira también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22 (objeto licito y disolución solo por resolución judicial motivada).
+- **34.2** Regirá también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22 (objeto licito y disolución solo por resolución judicial motivada).
 - **Desarrollo**: Ley 50/2002 de Fundaciones.
 
 #### Artículo 35 — Derecho y deber del trabajo
@@ -348,7 +348,7 @@ Segundo nivel de protección. Su desarrollo se hace por **ley ordinaria** que en
 
 > *"La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios."* [CE, art. 37.1]
 
-- **37.2** Se reconoce el derecho de los trabajadores y empresarios a adoptar **medidas de conflicto colectivo**. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluira las garantías precisas para asegurar el funcionamiento de los **servicios esenciales** de la comunidad.
+- **37.2** Se reconoce el derecho de los trabajadores y empresarios a adoptar **medidas de conflicto colectivo**. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluirá las garantías precisas para asegurar el funcionamiento de los **servicios esenciales** de la comunidad.
 
 #### Artículo 38 — Libertad de empresa
 
@@ -366,14 +366,14 @@ Tercer nivel de protección: **no son derechos subjetivos directamente exigibles
 - La práctica judicial (sirven como criterio interpretativo).
 - La actuación de los poderes públicos.
 
-**Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.** No tienen eficacia directa y no son susceptibles de recurso de amparo. La doctrina constitucional los califica como **mandatos al legislador** y como **criterios hermeneuticos** del resto del ordenamiento.
+**Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.** No tienen eficacia directa y no son susceptibles de recurso de amparo. La doctrina constitucional los califica como **mandatos al legislador** y como **criterios hermenéuticos** del resto del ordenamiento.
 
 #### Artículo 39 — Protección de la familia y la infancia
 
 > *"Los poderes públicos aseguran la protección social, económica y jurídica de la familia."* [CE, art. 39.1]
 
 - **39.2** Protección integral de los hijos, iguales estos ante la ley con independencia de su filiación. Posibilidad de investigación de la paternidad.
-- **39.3** Deberes de asistencia de los padres a los hijos durante su minoria de edad y en los demás casos en que legalmente proceda.
+- **39.3** Deberes de asistencia de los padres a los hijos durante su minoría de edad y en los demás casos en que legalmente proceda.
 - **39.4** Los niños gozaran de la protección prevista en los acuerdos internacionales que velan por sus derechos (Convención ONU Derechos del Niño, 1989).
 - **Desarrollo**: Código Civil (filiación, patria potestad); LO 1/1996 de Protección Jurídica del Menor; LO 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia.
 
@@ -415,7 +415,7 @@ Tercer nivel de protección: **no son derechos subjetivos directamente exigibles
 
 > *"Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo."* [CE, art. 45.1]
 
-- **45.2** Los poderes públicos velaran por la utilización **racional** de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyandose en la indispensable solidaridad colectiva.
+- **45.2** Los poderes públicos velaran por la utilización **racional** de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
 - **45.3** Sanciones penales o administrativas y obligación de reparar el daño causado para quienes violen lo dispuesto en el apartado anterior.
 - **Doctrina TC**: STC 102/1995 sobre competencias ambientales.
 
@@ -427,7 +427,7 @@ Tercer nivel de protección: **no son derechos subjetivos directamente exigibles
 
 #### Artículo 47 — Vivienda
 
-> *"Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participara en las plusvalías que genere la acción urbanistica de los entes públicos."* [CE, art. 47]
+> *"Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participara en las plusvalías que genere la acción urbanística de los entes públicos."* [CE, art. 47]
 
 - **Desarrollo**: Ley 12/2023 por el Derecho a la Vivienda; Real Decreto Legislativo 7/2015 (Texto Refundido de la Ley del Suelo).
 
@@ -451,9 +451,9 @@ Tercer nivel de protección: **no son derechos subjetivos directamente exigibles
 
 #### Artículo 51 — Defensa de consumidores y usuarios
 
-> *"Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legitimos intereses económicos de los mismos."* [CE, art. 51.1]
+> *"Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos."* [CE, art. 51.1]
 
-- **51.2** Promoveran la **información y educación** de los consumidores y usuarios, fomentarán sus organizaciones y oiran a estas en las cuestiones que puedan afectarles.
+- **51.2** Promoverán la **información y educación** de los consumidores y usuarios, fomentarán sus organizaciones y oirán a estas en las cuestiones que puedan afectarles.
 - **51.3** En el marco de lo dispuesto por los apartados anteriores, la ley regulará el comercio interior y el régimen de autorización de productos comerciales.
 - **Desarrollo**: Real Decreto Legislativo 1/2007, Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios.
 
@@ -504,7 +504,7 @@ Una ley orgánica podrá determinar la forma y los casos en los que, de manera *
 - Inviolabilidad del domicilio (art. 18.2).
 - Secreto de las comunicaciones (art. 18.3).
 
-Todo ello en relación con las investigaciones correspondientes a la actuación de **bandas armadas o elementos terroristas**. La utilización injustificada o abusiva de estas facultades producira **responsabilidad penal**, como violación de los derechos y libertades reconocidos por las leyes. [CE, art. 55.2]
+Todo ello en relación con las investigaciones correspondientes a la actuación de **bandas armadas o elementos terroristas**. La utilización injustificada o abusiva de estas facultades producirá **responsabilidad penal**, como violación de los derechos y libertades reconocidos por las leyes. [CE, art. 55.2]
 
 > **[EJEMPLO AYTO MADRID]** Si la Policía Municipal de Madrid identifica en colaboración con cuerpos y fuerzas de seguridad del Estado indicios de actividad terrorista en un domicilio, el acceso al domicilio sin consentimiento del titular requiere **siempre resolución judicial** salvo flagrante delito. La suspensión individual del artículo 55.2 no habilita a la Administración local para practicar registros sin cobertura judicial.
 
@@ -512,9 +512,9 @@ Todo ello en relación con las investigaciones correspondientes a la actuación 
 
 ## 6. Títulos II a X — Parte orgánica (síntesis)
 
-La parte orgánica disena la arquitectura institucional del Estado. A los efectos del Tema 1, basta con ubicar correctamente cada materia:
+La parte orgánica diseña la arquitectura institucional del Estado. A los efectos del Tema 1, basta con ubicar correctamente cada materia:
 
-- **Título II — De la Corona** (arts. 56-65): regula la institución monarquica, las funciones del Rey como Jefe del Estado, la sucesión y la regencia.
+- **Título II — De la Corona** (arts. 56-65): regula la institución monárquica, las funciones del Rey como Jefe del Estado, la sucesión y la regencia.
 - **Título III — De las Cortes Generales** (arts. 66-96): Congreso de los Diputados y Senado. Elaboración de las leyes. Tratados internacionales.
 - **Título IV — Del Gobierno y de la Administración** (arts. 97-107): funciones del Gobierno, composición, responsabilidad, órganos consultivos.
 - **Título V — De las relaciones entre el Gobierno y las Cortes Generales** (arts. 108-116): control parlamentario, cuestión de confianza, moción de censura, estados de alarma, excepción y sitio (art. 116).
@@ -543,7 +543,7 @@ Se aplica a toda reforma parcial que **no afecte** a los núcleos duros del art�
 - Aprobación por mayoría de **tres quintos** de cada Cámara.
 - Si no hay acuerdo, se intenta mediante una **Comisión Mixta paritaria** Congreso-Senado, que presenta un texto que se somete de nuevo a ambas Cámaras.
 - Si aun así no se alcanza la aprobación mediante el procedimiento del apartado anterior y el texto ha obtenido la mayoría absoluta del Senado, el Congreso puede aprobar la reforma por **mayoría de dos tercios**.
-- **Referéndum facultativo**: se convoca si lo solicitan, dentro de los quince días siguientes a su aprobación, **una decima parte** de los miembros de cualquiera de las Cámaras.
+- **Referéndum facultativo**: se convoca si lo solicitan, dentro de los quince días siguientes a su aprobación, **una décima parte** de los miembros de cualquiera de las Cámaras.
 
 ### 7.3. Procedimiento agravado (art. 168)
 
@@ -577,7 +577,7 @@ Hasta la fecha, la Constitución Española ha sido reformada **tres veces**. Las
 
 - **Motivo**: adaptación al Tratado de la Unión Europea (Maastricht).
 - **Contenido**: modificación del artículo 13.2 para permitir que ciudadanos de otros Estados miembros de la UE puedan ser **electores y elegibles** en elecciones municipales.
-- **Procedimiento**: ordinario. Aprobada por las Cortes Generales. No requirio referéndum.
+- **Procedimiento**: ordinario. Aprobada por las Cortes Generales. No requirió referéndum.
 - [REF-1992]
 
 ### 8.2. Reforma de 2011 — Artículo 135
@@ -698,7 +698,7 @@ El Título VIII asienta tres principios generales relevantes para el Tema 1:
 
 ## 13. Esquema resumen
 
-**CONSTITUCION ESPANOLA 1978**
+**CONSTITUCIÓN ESPAÑOLA 1978**
 
 Datos clave (pregunta típica examen):
 - Aprobada: 31 octubre 1978

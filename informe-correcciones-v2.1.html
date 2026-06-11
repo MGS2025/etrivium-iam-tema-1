@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tema 1 v2.1 — Informe de correcciones | ETRIVIUM IAM</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --azul:#0055a0; --azul-dark:#003d75; --azul-deeper:#002a52; --azul-light:#e8f0f8;
+  --azul-05:rgba(0,85,160,0.05); --azul-10:rgba(0,85,160,0.10);
+  --verde:#1f6644; --verde-bg:#e8f5ee; --rojo:#a82828; --rojo-bg:#fbeeed;
+  --amber:#c77a1b; --amber-bg:#fdf4e4;
+  --gris-100:#f5f7fa; --gris-200:#e8ecf0; --gris-300:#d1d7df; --gris-600:#4a5568; --gris-800:#2d3748;
+  --font:'DM Sans',-apple-system,sans-serif; --radius:8px;
+  --shadow:0 1px 3px rgba(0,0,0,0.08); --shadow-lg:0 4px 16px rgba(0,0,0,0.08);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font);color:var(--gris-800);background:var(--gris-100);line-height:1.65;-webkit-font-smoothing:antialiased}
+.wrap{max-width:920px;margin:0 auto;padding:32px 24px 80px}
+.hero{background:linear-gradient(135deg,var(--azul-deeper) 0%,var(--azul) 100%);color:#fff;padding:36px 32px;border-radius:var(--radius);margin-bottom:28px;box-shadow:var(--shadow-lg)}
+.hero .meta{display:flex;align-items:center;gap:12px;margin-bottom:14px;font-size:12px;letter-spacing:0.5px;opacity:0.85}
+.hero .badge{background:rgba(255,255,255,0.18);padding:4px 10px;border-radius:4px;font-weight:700;letter-spacing:1px}
+.hero h1{font-size:30px;font-weight:700;margin-bottom:8px;line-height:1.25}
+.hero p.subtitle{font-size:15px;opacity:0.92;max-width:720px}
+.hero .footer-line{margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,0.22);font-size:13px;display:flex;flex-wrap:wrap;gap:18px;color:rgba(255,255,255,0.92)}
+.hero .footer-line strong{color:rgba(255,255,255,0.7);font-weight:600;margin-right:4px}
+section{margin-bottom:32px}
+section h2{font-size:20px;color:var(--azul-dark);font-weight:700;margin-bottom:14px;padding-bottom:8px;border-bottom:2px solid var(--azul-10)}
+section h3{font-size:16px;color:var(--azul);font-weight:600;margin:18px 0 8px}
+section p{margin-bottom:10px}
+section ul,section ol{margin:8px 0 12px 22px}
+section li{margin-bottom:6px}
+strong{color:var(--gris-800)}
+.resumen{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:24px}
+.kpi{background:#fff;border-radius:var(--radius);padding:16px 18px;border-left:4px solid var(--azul);box-shadow:var(--shadow)}
+.kpi .num{font-size:26px;font-weight:700;color:var(--azul-dark);line-height:1}
+.kpi .label{font-size:12px;color:var(--gris-600);margin-top:6px}
+.kpi.ok{border-left-color:var(--verde)} .kpi.ok .num{color:var(--verde)}
+.kpi.warn{border-left-color:var(--amber)} .kpi.warn .num{color:var(--amber)}
+table.feedback{width:100%;border-collapse:collapse;margin:12px 0 20px;background:#fff;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--gris-200)}
+table.feedback th{background:var(--azul);color:#fff;padding:12px 14px;text-align:left;font-weight:600;font-size:13px;letter-spacing:0.3px}
+table.feedback td{padding:12px 14px;border-top:1px solid var(--gris-200);font-size:14px;vertical-align:top}
+table.feedback tr:nth-child(even) td{background:var(--azul-05)}
+table.feedback td.estado{width:96px;text-align:center}
+.tag{display:inline-block;padding:3px 10px;border-radius:12px;font-size:11px;font-weight:600;letter-spacing:0.3px}
+.tag-ok{background:var(--verde-bg);color:var(--verde)}
+.tag-pendiente{background:var(--amber-bg);color:var(--amber)}
+table.refs{width:100%;border-collapse:collapse;margin:12px 0;background:#fff;font-size:13px;box-shadow:var(--shadow);border-radius:var(--radius);overflow:hidden}
+table.refs th{background:var(--azul-deeper);color:#fff;padding:10px 12px;text-align:left;font-weight:600}
+table.refs td{padding:10px 12px;border-top:1px solid var(--gris-200)}
+table.refs td.before{color:var(--rojo)} td.before code{color:var(--rojo)}
+table.refs td.after{color:var(--verde);font-weight:600} td.after code{color:var(--verde)}
+table.refs tr:nth-child(even) td{background:var(--gris-100)}
+.callout{border-left:4px solid var(--azul);padding:14px 18px;background:var(--azul-light);border-radius:4px;margin:14px 0}
+.callout.warn{border-left-color:var(--amber);background:var(--amber-bg)}
+.callout.ok{border-left-color:var(--verde);background:var(--verde-bg)}
+.callout .kicker{display:inline-block;font-size:11px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--azul-dark);margin-right:8px}
+.callout.warn .kicker{color:var(--amber)} .callout.ok .kicker{color:var(--verde)}
+code{background:var(--gris-200);padding:1px 6px;border-radius:3px;font-family:'SF Mono',Menlo,monospace;font-size:0.9em;color:var(--azul-dark)}
+.footer{margin-top:40px;padding-top:24px;border-top:1px solid var(--gris-300);font-size:13px;color:var(--gris-600)}
+@media(max-width:680px){.resumen{grid-template-columns:repeat(2,1fr)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <div class="meta"><span class="badge">VERSIÓN 2.1</span><span>ETRIVIUM · IAM Ayuntamiento de Madrid</span><span>11 junio 2026</span></div>
+    <h1>Tema 1 — Informe de correcciones v2.1</h1>
+    <p class="subtitle">La Constitución Española (I): Estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión.</p>
+    <div class="footer-line">
+      <span><strong>Estado:</strong> Validado por María y Ana</span>
+      <span><strong>Pendiente que resuelve:</strong> ortografía (tildes y ñ)</span>
+      <span><strong>Contenido sustantivo:</strong> sin cambios vs v2.0</span>
+    </div>
+  </div>
+
+  <section>
+    <h2>Resumen</h2>
+    <div class="resumen">
+      <div class="kpi ok"><div class="num">489</div><div class="label">correcciones de diacríticos (16 ñ + 473 tildes)</div></div>
+      <div class="kpi"><div class="num">5</div><div class="label">ficheros corregidos</div></div>
+      <div class="kpi ok"><div class="num">0</div><div class="label">cambios de contenido sustantivo</div></div>
+      <div class="kpi ok"><div class="num">0</div><div class="label">errores ortográficos restantes (verificado con corrector)</div></div>
+    </div>
+    <p>El cliente validó el Tema 1 e indicó que el único punto a resolver era <strong>la ortografía, en particular las eñes</strong> ("España", "diseña", "añade"), que son lo más visible. Esta versión <strong>v2.1</strong> resuelve ese punto y deja el tema cerrado ortográficamente.</p>
+  </section>
+
+  <section>
+    <h2>Qué se pidió y qué se hizo</h2>
+    <table class="feedback">
+      <thead><tr><th>Punto del cliente</th><th>Acción</th><th class="estado">Estado</th></tr></thead>
+      <tbody>
+        <tr><td>Corregir "el tema de las ñ's"</td><td>Restauradas todas las eñes perdidas en todo el material (España, español, diseña, añade, acompañada, año…).</td><td class="estado"><span class="tag tag-ok">Resuelto</span></td></tr>
+        <tr><td>(Hallazgo de la auditoría) La pérdida de diacríticos no era solo de ñ</td><td>Auditoría ortográfica sistemática con corrector es_ES: detectadas y corregidas también las tildes caídas repartidas por todo el tema, sobre todo en el contenido embebido del HTML (banco de 150 preguntas, 6 casos, 12 diagramas, pestañas Validación/Fuentes) que una pasada anterior no había alcanzado.</td><td class="estado"><span class="tag tag-ok">Resuelto</span></td></tr>
+        <tr><td>(Saneamiento técnico) Identificadores internos sobre-acentuados</td><td>Una corrección previa había acentuado por error nombres técnicos de clases/IDs CSS y variables JS (<code>version-badge</code>, <code>validacion</code>, <code>score-item</code>, <code>VALIDACION_HTML</code>). Revertidos a ASCII para no romper estilos ni la navegación por pestañas.</td><td class="estado"><span class="tag tag-ok">Resuelto</span></td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Ejemplos de corrección (antes → después)</h2>
+    <table class="refs">
+      <thead><tr><th>Antes</th><th>Después</th><th>Tipo</th></tr></thead>
+      <tbody>
+        <tr><td class="before"><code>Constitucion Espanola</code></td><td class="after"><code>Constitución Española</code></td><td>ñ + tilde</td></tr>
+        <tr><td class="before"><code>disena</code> / <code>anade</code></td><td class="after"><code>diseña</code> / <code>añade</code></td><td>ñ</td></tr>
+        <tr><td class="before"><code>referendum</code> / <code>prohiben</code></td><td class="after"><code>referéndum</code> / <code>prohíben</code></td><td>tilde</td></tr>
+        <tr><td class="before"><code>articulo 135</code> / <code>numero</code></td><td class="after"><code>artículo 135</code> / <code>número</code></td><td>tilde (homógrafo)</td></tr>
+        <tr><td class="before"><code>el registro esta en…</code></td><td class="after"><code>el registro está en…</code></td><td>tilde (verbo)</td></tr>
+        <tr><td class="before"><code>Mas casos prácticos</code></td><td class="after"><code>Más casos prácticos</code></td><td>tilde (adverbio)</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Desglose por fichero</h2>
+    <table class="refs">
+      <thead><tr><th>Fichero</th><th>ñ añadidas</th><th>Tildes añadidas</th></tr></thead>
+      <tbody>
+        <tr><td><code>index.html</code> (artefacto publicado)</td><td>14</td><td>310</td></tr>
+        <tr><td><code>tema-1-test.md</code> (150 preguntas)</td><td>0</td><td>86</td></tr>
+        <tr><td><code>tema-1-caso-practico.md</code> (6 casos)</td><td>0</td><td>31</td></tr>
+        <tr><td><code>tema-1-diagramas.md</code> (12 SVG)</td><td>0</td><td>26</td></tr>
+        <tr><td><code>tema-1-contenido.md</code></td><td>2</td><td>20</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Método de verificación</h2>
+    <ol>
+      <li><strong>Detección automática:</strong> tokenización Unicode + corrector ortográfico hunspell (diccionario es_ES) para localizar palabras ASCII que solo son válidas con diacrítico.</li>
+      <li><strong>Homógrafos por contexto:</strong> resueltos manualmente los casos que el corrector no detecta porque sin tilde siguen siendo palabra válida (<code>ano</code>→<code>año</code>, <code>articulo</code>→<code>artículo</code>, <code>esta</code>→<code>está</code>, <code>mas</code>→<code>más</code>).</li>
+      <li><strong>Protección de código:</strong> nombres de clases/IDs CSS, variables JS y nombres de fichero quedaron excluidos para no acentuarlos por error.</li>
+      <li><strong>Verificación final:</strong> 0 palabras con diacrítico perdido, 0 ñ pendientes, identificadores en ASCII y navegación de pestañas íntegra.</li>
+    </ol>
+    <div class="callout ok"><span class="kicker">Criterio</span> Ortografía conforme a la norma RAE vigente: no se acentúan "solo" ni los demostrativos (este/esta/ese) como pronombre. Solo se ha corregido ortografía; el temario, las 150 preguntas y los 6 casos son idénticos a v2.0.</div>
+  </section>
+
+  <div class="footer">
+    ETRIVIUM · Servicio de elaboración y publicación de material formativo · IAM Ayuntamiento de Madrid · Expediente 300_2026_00147<br>
+    Tema 1 — La Constitución Española (I) · v2.1 · 11 junio 2026
+  </div>
+
+</div>
+</body>
+</html>

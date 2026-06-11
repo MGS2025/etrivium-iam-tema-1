@@ -31,7 +31,7 @@
 ## D1 · Características de la Constitución Española
 
 **Sección**: § 1 — Introducción y características
-**Proposito**: Sintetizar las características definitorias de la CE 1978 en un mapa conceptual.
+**Propósito**: Sintetizar las características definitorias de la CE 1978 en un mapa conceptual.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" role="img" aria-label="Características de la Constitución Española de 1978">
@@ -53,7 +53,7 @@
   <line x1="340" y1="180" x2="550" y2="300" class="d1-link"/>
   <ellipse cx="340" cy="180" rx="75" ry="40" class="d1-center"/>
   <text x="340" y="175" class="d1-title">CE 1978</text>
-  <text x="340" y="195" class="d1-title" style="font-weight:400;font-size:11px">169 arts. + 10 Tit.</text>
+  <text x="340" y="195" class="d1-title" style="font-weight:400;font-size:11px">169 arts. + 10 Tít.</text>
   <rect x="60" y="40" width="140" height="40" rx="6" class="d1-node"/>
   <text x="130" y="58" class="d1-label">Pactada</text>
   <text x="130" y="72" class="d1-sub">consenso político</text>
@@ -86,7 +86,7 @@
 ## D2 · Árbol de la estructura constitucional
 
 **Sección**: § 3 — Estructura del texto
-**Proposito**: Visualizar la estructura completa de la CE: Preámbulo + Preliminar + 10 Títulos + Disposiciones.
+**Propósito**: Visualizar la estructura completa de la CE: Preámbulo + Preliminar + 10 Títulos + Disposiciones.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-label="Árbol de la estructura de la Constitución Española">
@@ -112,7 +112,7 @@
   <text x="80" y="106" class="d2-label">Preámbulo</text>
   <text x="80" y="122" class="d2-range">interpretativo</text>
   <rect x="150" y="90" width="120" height="40" rx="4" class="d2-dogm"/>
-  <text x="210" y="106" class="d2-label">Tit. Preliminar</text>
+  <text x="210" y="106" class="d2-label">Tít. Preliminar</text>
   <text x="210" y="122" class="d2-range">arts. 1-9</text>
   <rect x="450" y="90" width="120" height="40" rx="4" class="d2-dogm"/>
   <text x="510" y="106" class="d2-label">Título I</text>
@@ -122,31 +122,31 @@
   <text x="640" y="122" class="d2-range">4+9+1+1</text>
   <text x="40" y="155" class="d2-legend" style="font-weight:700">Parte orgánica — Títulos II a X</text>
   <rect x="20" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="60" y="180" class="d2-label">Tit. II</text>
+  <text x="60" y="180" class="d2-label">Tít. II</text>
   <text x="60" y="193" class="d2-range">56-65 Corona</text>
   <rect x="110" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="150" y="180" class="d2-label">Tit. III</text>
+  <text x="150" y="180" class="d2-label">Tít. III</text>
   <text x="150" y="193" class="d2-range">66-96 Cortes</text>
   <rect x="200" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="240" y="180" class="d2-label">Tit. IV</text>
+  <text x="240" y="180" class="d2-label">Tít. IV</text>
   <text x="240" y="193" class="d2-range">97-107 Gob.</text>
   <rect x="290" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="330" y="180" class="d2-label">Tit. V</text>
+  <text x="330" y="180" class="d2-label">Tít. V</text>
   <text x="330" y="193" class="d2-range">108-116 Rel.</text>
   <rect x="380" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="420" y="180" class="d2-label">Tit. VI</text>
+  <text x="420" y="180" class="d2-label">Tít. VI</text>
   <text x="420" y="193" class="d2-range">117-127 Judic.</text>
   <rect x="470" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="510" y="180" class="d2-label">Tit. VII</text>
+  <text x="510" y="180" class="d2-label">Tít. VII</text>
   <text x="510" y="193" class="d2-range">128-136 Econ.</text>
   <rect x="560" y="165" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="600" y="180" class="d2-label">Tit. VIII</text>
+  <text x="600" y="180" class="d2-label">Tít. VIII</text>
   <text x="600" y="193" class="d2-range">137-158 Terr.</text>
   <rect x="110" y="210" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="150" y="225" class="d2-label">Tit. IX</text>
+  <text x="150" y="225" class="d2-label">Tít. IX</text>
   <text x="150" y="238" class="d2-range">159-165 TC</text>
   <rect x="200" y="210" width="80" height="34" rx="4" class="d2-org"/>
-  <text x="240" y="225" class="d2-label">Tit. X</text>
+  <text x="240" y="225" class="d2-label">Tít. X</text>
   <text x="240" y="238" class="d2-range">166-169 Ref.</text>
   <text x="40" y="280" class="d2-legend" style="font-weight:700">Título I — Capítulos</text>
   <rect x="20" y="290" width="130" height="40" rx="4" class="d2-dogm"/>
@@ -178,7 +178,7 @@
 ## D3 · Parte dogmática vs parte orgánica
 
 **Sección**: § 4
-**Proposito**: Comparar ambos bloques en forma de tabla dual.
+**Propósito**: Comparar ambos bloques en forma de tabla dual.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 360" role="img" aria-label="Parte dogmática vs Parte orgánica de la CE">
@@ -229,7 +229,7 @@
 ## D4 · Procedimiento ordinario de reforma (art. 167)
 
 **Sección**: § 7.2
-**Proposito**: Flujo paso a paso del procedimiento ordinario de reforma constitucional.
+**Propósito**: Flujo paso a paso del procedimiento ordinario de reforma constitucional.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-label="Flujo del procedimiento ordinario de reforma constitucional">
@@ -288,7 +288,7 @@
 ## D5 · Procedimiento agravado de reforma (art. 168)
 
 **Sección**: § 7.3
-**Proposito**: Flujo del procedimiento agravado: revisión total o afectación de Preliminar, 15-29 o Título II.
+**Propósito**: Flujo del procedimiento agravado: revisión total o afectación de Preliminar, 15-29 o Título II.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Flujo del procedimiento agravado de reforma constitucional">
@@ -343,7 +343,7 @@
 ## D6 · Timeline de reformas constitucionales
 
 **Sección**: § 8
-**Proposito**: Línea de tiempo con las 3 reformas históricas: 1992, 2011, 2024.
+**Propósito**: Línea de tiempo con las 3 reformas históricas: 1992, 2011, 2024.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Timeline de reformas de la Constitución Española">
@@ -393,7 +393,7 @@
 ## D7 · Suspensión de derechos (art. 55) — colectiva vs individual
 
 **Sección**: § 5.6 / § 10
-**Proposito**: Tabla comparativa de los derechos suspendibles según modalidad.
+**Propósito**: Tabla comparativa de los derechos suspendibles según modalidad.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" role="img" aria-label="Derechos suspendibles según el artículo 55 de la CE">
@@ -458,7 +458,7 @@
 ## D8 · Jerarquía normativa
 
 **Sección**: § 11
-**Proposito**: Posición de la CE como norma suprema y cascada del ordenamiento.
+**Propósito**: Posición de la CE como norma suprema y cascada del ordenamiento.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" role="img" aria-label="Jerarquía normativa del ordenamiento jurídico español">
@@ -476,7 +476,7 @@
   </style>
   <text x="320" y="24" class="d8-head">JERARQUÍA NORMATIVA — art. 9.3 CE</text>
   <polygon points="260,50 380,50 420,100 220,100" class="d8-ce"/>
-  <text x="320" y="82" class="d8-title">CONSTITUCION 1978</text>
+  <text x="320" y="82" class="d8-title">CONSTITUCIÓN 1978</text>
   <rect x="200" y="105" width="240" height="38" class="d8-tr"/>
   <text x="320" y="128" class="d8-title">Tratados Internacionales (art. 96)</text>
   <rect x="180" y="148" width="280" height="38" class="d8-lo"/>
@@ -502,7 +502,7 @@
 ## D9 · Tipos de mayoría parlamentaria
 
 **Sección**: § 7.3
-**Proposito**: Comparar los tipos de mayoría exigidos en la CE y ubicar las de reforma.
+**Propósito**: Comparar los tipos de mayoría exigidos en la CE y ubicar las de reforma.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 340" role="img" aria-label="Tipos de mayoría parlamentaria">
@@ -552,7 +552,7 @@
 ## D10 · Niveles de protección de los derechos (art. 53)
 
 **Sección**: § 5.5 / § 9
-**Proposito**: Pirámide de protección: 14-29 (máxima) · 30-38 (media) · 39-52 (mínima).
+**Propósito**: Pirámide de protección: 14-29 (máxima) · 30-38 (media) · 39-52 (mínima).
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 380" role="img" aria-label="Niveles de protección de los derechos constitucionales">
@@ -608,7 +608,7 @@
 ## D11 · Flujo del recurso de amparo
 
 **Sección**: § 9.2
-**Proposito**: Itinerario del recurso de amparo desde la vulneración al Tribunal Constitucional.
+**Propósito**: Itinerario del recurso de amparo desde la vulneración al Tribunal Constitucional.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" role="img" aria-label="Flujo del recurso de amparo constitucional">
@@ -656,7 +656,7 @@
   <text x="120" y="210" class="d11-note" style="font-weight:700;fill:#d13c3c">NO cabe amparo:</text>
   <text x="120" y="226" class="d11-note" style="fill:#d13c3c">principios rectores (39-52)</text>
   <rect x="480" y="100" width="200" height="120" rx="8" fill="#fff" stroke="#0055a0"/>
-  <text x="580" y="122" class="d11-note" style="font-weight:700">LEGITIMACION</text>
+  <text x="580" y="122" class="d11-note" style="font-weight:700">LEGITIMACIÓN</text>
   <text x="580" y="142" class="d11-note">· Toda persona natural o jurídica</text>
   <text x="580" y="158" class="d11-note">  con interés legitimo</text>
   <text x="580" y="174" class="d11-note">· Defensor del Pueblo (art. 54)</text>
@@ -670,7 +670,7 @@
 ## D12 · Organización territorial del Estado (Título VIII)
 
 **Sección**: § 12
-**Proposito**: Estructura territorial: Estado · CCAA · Provincia · Municipio. Introducción al Título VIII.
+**Propósito**: Estructura territorial: Estado · CCAA · Provincia · Municipio. Introducción al Título VIII.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" role="img" aria-label="Organización territorial del Estado — Título VIII">
@@ -722,7 +722,7 @@
 ## Notas de implementación
 
 - Todos los SVG son **inline**, sin dependencias externas, escalables y copiables a cualquier contenedor HTML.
-- Paleta principal: **Ayuntamiento de Madrid** (#0055a0) mas auxiliares para alertas (#d13c3c), confirmación (#2d8659) y callouts (#e89822).
+- Paleta principal: **Ayuntamiento de Madrid** (#0055a0) más auxiliares para alertas (#d13c3c), confirmación (#2d8659) y callouts (#e89822).
 - Tipografía por defecto del navegador (`system-ui, sans-serif`) — no requiere cargar fuentes.
 - Dimensiones entre 640-720 px de ancho para integrarse bien en columnas de lectura y en la impresión A4.
 - `role="img"` + `aria-label` en cada raíz `<svg>` para accesibilidad.
