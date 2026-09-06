@@ -132,6 +132,16 @@ tr:hover td{background:var(--azul-05)}
   table{font-size:12px}
   th,td{padding:6px 8px}
 }
+
+/* ficha-estudio */
+.ficha-estudio{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.ficha-estudio .fe-item{flex:1 1 260px;border:1px solid rgba(127,127,127,.28);
+  border-left:3px solid #c77a1b;border-radius:6px;padding:10px 14px}
+.ficha-estudio .fe-k{display:block;font-size:11px;letter-spacing:.09em;
+  text-transform:uppercase;opacity:.72;margin-bottom:3px}
+.ficha-estudio .fe-v{display:block;font-size:15px;font-weight:600;line-height:1.4}
+.ficha-estudio .fe-n{font-weight:400;font-size:13px;opacity:.75}
+@media print{.ficha-estudio .fe-item{break-inside:avoid}}
 </style>
 </head>
 <body>
@@ -157,7 +167,7 @@ tr:hover td{background:var(--azul-05)}
     <h1>Tema 1 — La Constitución Española (I)</h1>
     <p class="subtitle">Estructura y contenido. Derechos y deberes fundamentales. Su garantía y suspensión.</p>
     <p class="subtitle" style="margin-top:8px;font-size:13px">Piloto V2.1 · 2026-06-11 · Validado por María + Ana · Corrección ortográfica integral</p>
-  </div>
+  </div><!-- ficha-estudio:ini --><div class="ficha-estudio"><div class="fe-item"><span class="fe-k">Extensi&oacute;n</span><span class="fe-v">~7.800 palabras &middot; 12 diagramas &middot; 222 preguntas de test</span></div><div class="fe-item"><span class="fe-k">Tiempo estimado de estudio</span><span class="fe-v">15-17 horas <span class="fe-n">(primera vuelta completa, sin contar repasos)</span></span></div></div><!-- ficha-estudio:fin -->
   <div class="version-banner">
     <span class="badge badge-v1">v2.1</span>
     <div>
@@ -172,7 +182,7 @@ tr:hover td{background:var(--azul-05)}
       <thead><tr><th>Entregable</th><th>Cantidad</th><th>Formato</th></tr></thead>
       <tbody>
         <tr><td>Índice del tema</td><td>1 fichero</td><td>Markdown + HTML</td></tr>
-        <tr><td>Contenido teórico</td><td>13 secciones · ~11K palabras</td><td>Ampliado v2.0 con redacción cuasi-literal BOE arts. 14-52 + doctrina TC</td></tr>
+        <tr><td>Contenido teórico</td><td>13 secciones · ~7.800 palabras</td><td>Ampliado v2.0 con redacción cuasi-literal BOE arts. 14-52 + doctrina TC</td></tr>
         <tr><td>Diagramas SVG inline</td><td>12 diagramas</td><td>Autosuficientes, imprimibles</td></tr>
         <tr><td>Banco de preguntas tipo test</td><td>150 preguntas</td><td>90 validadas + 60 nuevas</td></tr>
         <tr><td>Preguntas pedagógicas</td><td>20 preguntas</td><td>Con explicación + referencia artículo</td></tr>
@@ -220,7 +230,7 @@ tr:hover td{background:var(--azul-05)}
 
 <!-- TAB CONTENIDO -->
 <section id="contenido" class="tab-content">
-  <div class="card-header"><h1>Contenido teórico</h1><p class="subtitle">~11.000 palabras · 13 secciones · derechos fundamentales arts. 14-29 con redacción cuasi-literal BOE · doctrina TC · leyes orgánicas de desarrollo</p></div>
+  <div class="card-header"><h1>Contenido teórico</h1><p class="subtitle">~7.800 palabras · 13 secciones · derechos fundamentales arts. 14-29 con redacción cuasi-literal BOE · doctrina TC · leyes orgánicas de desarrollo</p></div>
   <div id="contenido-body">
 <h2>Convenciones del documento</h2>
 <p>Este tema incluye cuatro tipos de <strong>cajas callout</strong> para facilitar el estudio:</p>
