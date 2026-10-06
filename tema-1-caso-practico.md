@@ -12,7 +12,7 @@
 
 - Cada caso plantea un supuesto del Ayuntamiento de Madrid o entorno municipal.
 - Cada pregunta tiene **3 opciones** (a, b, c). Solo una es correcta.
-- Casos 1-3: aportados y validados por el cliente (Tier 2).
+- Casos 1-3: casos validados.
 - Casos 4-6: redacción nueva siguiendo idéntico patrón.
 - Las plantillas de respuestas están al final de cada caso.
 
@@ -251,9 +251,9 @@ Como Técnico/a Auxiliar TIC, te encomiendan analizar los limites constitucional
 
 | Caso | Escenario | Preguntas | Fuentes principales | Origen |
 |---|---|---|---|---|
-| 1 | Plataforma de participación ciudadana | 10 | arts. 20, 21, 53, 55 | Cliente (validado) |
-| 2 | Ordenanza de plataforma digital municipal | 10 | arts. 20, 53, 43, 47, 55 | Cliente (validado) |
-| 3 | Infraestructura digital con IA y videovigilancia | 15 | arts. 18, 20, 53, 54, 55 | Cliente (validado) |
+| 1 | Plataforma de participación ciudadana | 10 | arts. 20, 21, 53, 55 | Validado |
+| 2 | Ordenanza de plataforma digital municipal | 10 | arts. 20, 53, 43, 47, 55 | Validado |
+| 3 | Infraestructura digital con IA y videovigilancia | 15 | arts. 18, 20, 53, 54, 55 | Validado |
 | 4 | Identidad digital municipal y videovigilancia | 12 | arts. 18, 24, 53, 54 | Nuevo v1.0 |
 | 5 | Elecciones municipales y participación | 12 | arts. 13.2, 22, 23, 29, 49 | Nuevo v1.0 |
 | 6 | Emergencia climática y estados de crisis | 13 | arts. 45, 55, 106, 116, 169 | Nuevo v1.0 |

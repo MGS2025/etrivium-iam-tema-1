@@ -18,7 +18,7 @@
 | D3  | Parte dogmática vs parte orgánica                     | § 4     | Comparativa   | 680×360 |
 | D4  | Procedimiento ordinario de reforma (art. 167)         | § 7.2   | Flowchart     | 720×420 |
 | D5  | Procedimiento agravado de reforma (art. 168)          | § 7.3   | Flowchart     | 720×440 |
-| D6  | Timeline de reformas (1992-2011-2024)                 | § 8     | Timeline      | 720×300 |
+| D6  | Timeline de reformas (1992-2011-2024-2026)            | § 8     | Timeline      | 720×300 |
 | D7  | Suspensión de derechos (art. 55) — colectiva vs individual | § 5.6 / § 10 | Tabla comparativa | 700×400 |
 | D8  | Jerarquía normativa                                   | § 11    | Pirámide      | 640×380 |
 | D9  | Tipos de mayoría parlamentaria                        | § 7.3   | Comparativa barras | 680×340 |
@@ -219,8 +219,8 @@
   <text x="366" y="245" class="d3-ítem">• Organización territorial (VIII)</text>
   <text x="366" y="261" class="d3-ítem">• Tribunal Constitucional (IX)</text>
   <text x="366" y="277" class="d3-ítem">• Reforma constitucional (X)</text>
-  <text x="366" y="311" class="d3-sub">Foco</text>
-  <text x="366" y="329" class="d3-ítem" style="font-weight:600">Estado · Poderes · Instituciones</text>
+  <text x="366" y="299" class="d3-sub">Foco</text>
+  <text x="366" y="317" class="d3-ítem" style="font-weight:600">Estado · Poderes · Instituciones</text>
 </svg>
 ```
 
@@ -343,7 +343,7 @@
 ## D6 · Timeline de reformas constitucionales
 
 **Sección**: § 8
-**Propósito**: Línea de tiempo con las 3 reformas históricas: 1992, 2011, 2024.
+**Propósito**: Línea de tiempo con las 4 reformas: 1992, 2011, 2024 y 2026.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Timeline de reformas de la Constitución Española">
@@ -356,35 +356,43 @@
     .d6-card{fill:#fff;stroke:#0055a0;stroke-width:1.5}
     .d6-badge{fill:#e89822}
   </style>
-  <line x1="60" y1="150" x2="660" y2="150" class="d6-axis"/>
-  <polygon points="660,150 650,143 650,157" fill="#0055a0"/>
-  <circle cx="170" cy="150" r="12" class="d6-dot"/>
-  <text x="170" y="130" class="d6-year">1992</text>
-  <rect x="80" y="170" width="180" height="80" rx="8" class="d6-card"/>
-  <rect x="80" y="170" width="180" height="22" rx="8" class="d6-badge"/>
-  <text x="170" y="186" class="d6-art">Artículo 13.2</text>
-  <text x="170" y="210" class="d6-desc">Integración UE</text>
-  <text x="170" y="226" class="d6-desc">Sufragio UE en municipales</text>
-  <text x="170" y="242" class="d6-desc" style="font-weight:700">ordinario · sin referéndum</text>
-  <circle cx="360" cy="150" r="12" class="d6-dot"/>
-  <text x="360" y="130" class="d6-year">2011</text>
-  <rect x="270" y="170" width="180" height="80" rx="8" class="d6-card"/>
-  <rect x="270" y="170" width="180" height="22" rx="8" class="d6-badge"/>
-  <text x="360" y="186" class="d6-art">Artículo 135</text>
-  <text x="360" y="210" class="d6-desc">Estabilidad presupuestaria</text>
-  <text x="360" y="226" class="d6-desc">Prioridad deuda pública</text>
-  <text x="360" y="242" class="d6-desc" style="font-weight:700">ordinario · sin referéndum</text>
-  <circle cx="550" cy="150" r="12" class="d6-dot"/>
-  <text x="550" y="130" class="d6-year">2024</text>
-  <rect x="460" y="170" width="180" height="80" rx="8" class="d6-card"/>
-  <rect x="460" y="170" width="180" height="22" rx="8" class="d6-badge"/>
-  <text x="550" y="186" class="d6-art">Artículo 49</text>
-  <text x="550" y="210" class="d6-desc">Personas con discapacidad</text>
-  <text x="550" y="226" class="d6-desc">sustituye "disminuidos"</text>
-  <text x="550" y="242" class="d6-desc" style="font-weight:700">ordinario · sin referéndum</text>
-  <text x="360" y="30" class="d6-year" style="font-size:14px">Reformas históricas de la CE 1978</text>
-  <text x="360" y="50" class="d6-desc">Las tres han seguido el procedimiento ordinario (art. 167)</text>
-  <text x="360" y="285" class="d6-desc" style="font-style:italic">[REF-1992] [REF-2011] [REF-2024]</text>
+  <line x1="40" y1="150" x2="690" y2="150" class="d6-axis"/>
+  <polygon points="690,150 680,143 680,157" fill="#0055a0"/>
+  <circle cx="120" cy="150" r="12" class="d6-dot"/>
+  <text x="120" y="130" class="d6-year">1992</text>
+  <rect x="50" y="170" width="140" height="80" rx="8" class="d6-card"/>
+  <rect x="50" y="170" width="140" height="22" rx="8" class="d6-badge"/>
+  <text x="120" y="186" class="d6-art">Artículo 13.2</text>
+  <text x="120" y="210" class="d6-desc">Sufragio pasivo UE</text>
+  <text x="120" y="226" class="d6-desc">en municipales</text>
+  <text x="120" y="242" class="d6-desc" style="font-weight:700">art. 167</text>
+  <circle cx="280" cy="150" r="12" class="d6-dot"/>
+  <text x="280" y="130" class="d6-year">2011</text>
+  <rect x="210" y="170" width="140" height="80" rx="8" class="d6-card"/>
+  <rect x="210" y="170" width="140" height="22" rx="8" class="d6-badge"/>
+  <text x="280" y="186" class="d6-art">Artículo 135</text>
+  <text x="280" y="210" class="d6-desc">Estabilidad</text>
+  <text x="280" y="226" class="d6-desc">presupuestaria</text>
+  <text x="280" y="242" class="d6-desc" style="font-weight:700">art. 167</text>
+  <circle cx="440" cy="150" r="12" class="d6-dot"/>
+  <text x="440" y="130" class="d6-year">2024</text>
+  <rect x="370" y="170" width="140" height="80" rx="8" class="d6-card"/>
+  <rect x="370" y="170" width="140" height="22" rx="8" class="d6-badge"/>
+  <text x="440" y="186" class="d6-art">Artículo 49</text>
+  <text x="440" y="210" class="d6-desc">Personas con</text>
+  <text x="440" y="226" class="d6-desc">discapacidad</text>
+  <text x="440" y="242" class="d6-desc" style="font-weight:700">art. 167</text>
+  <circle cx="600" cy="150" r="12" class="d6-dot"/>
+  <text x="600" y="130" class="d6-year">2026</text>
+  <rect x="530" y="170" width="140" height="80" rx="8" class="d6-card"/>
+  <rect x="530" y="170" width="140" height="22" rx="8" class="d6-badge"/>
+  <text x="600" y="186" class="d6-art">Artículo 69.3</text>
+  <text x="600" y="210" class="d6-desc">Senador propio</text>
+  <text x="600" y="226" class="d6-desc">de Formentera</text>
+  <text x="600" y="242" class="d6-desc" style="font-weight:700">art. 167</text>
+  <text x="360" y="30" class="d6-year" style="font-size:14px">Reformas de la CE 1978</text>
+  <text x="360" y="50" class="d6-desc">Las cuatro se tramitaron por el procedimiento del art. 167</text>
+  <text x="360" y="285" class="d6-desc" style="font-style:italic">[REF-1992] [REF-2011] [REF-2024] [REF-2026]</text>
 </svg>
 ```
 
@@ -482,7 +490,7 @@
   <rect x="180" y="148" width="280" height="38" class="d8-lo"/>
   <text x="320" y="171" class="d8-title">Leyes orgánicas (art. 81)</text>
   <rect x="160" y="191" width="320" height="38" class="d8-lord"/>
-  <text x="320" y="214" class="d8-title">Leyes ordinarias · Decretos-ley · Decretos legislativos</text>
+  <text x="320" y="214" class="d8-title" style="font-size:11px">Leyes ordinarias · Decretos-ley · Decretos legislativos</text>
   <rect x="140" y="234" width="360" height="38" class="d8-reg"/>
   <text x="320" y="256" class="d8-label" style="text-anchor:middle">Reglamentos (Real Decreto · Orden Ministerial · Ordenanza)</text>
   <rect x="120" y="277" width="400" height="38" class="d8-cost"/>
@@ -493,7 +501,7 @@
   <text x="450" y="214" class="d8-right">Materias ordinarias</text>
   <text x="510" y="256" class="d8-right">Desarrollo ley</text>
   <text x="530" y="300" class="d8-right">Fuentes supletorias</text>
-  <text x="320" y="360" class="d8-right" style="text-anchor:middle;font-style:italic">Supremacía constitucional: TC intérprete supremo (art. 161)</text>
+  <text x="320" y="360" class="d8-right" style="text-anchor:middle;font-style:italic">Supremacía constitucional: TC intérprete supremo (art. 1 LOTC)</text>
 </svg>
 ```
 
@@ -570,7 +578,7 @@
   </style>
   <text x="340" y="24" class="d10-head">PROTECCIÓN DE LOS DERECHOS — art. 53 CE</text>
   <polygon points="290,40 390,40 410,90 270,90" class="d10-top"/>
-  <text x="340" y="60" class="d10-label">Máxima protección</text>
+  <text x="340" y="60" class="d10-label" style="font-size:10.5px">Máxima protección</text>
   <text x="340" y="78" class="d10-range">arts. 14-29</text>
   <polygon points="270,90 410,90 430,150 250,150" class="d10-mid"/>
   <text x="340" y="110" class="d10-label">Protección media</text>
@@ -582,22 +590,22 @@
   <text x="30" y="68" class="d10-detail" style="font-weight:700">Derechos fundamentales</text>
   <text x="30" y="84" class="d10-detail">· Ley orgánica (art. 81)</text>
   <text x="30" y="100" class="d10-detail">· Amparo + preferencia y sumariedad</text>
-  <rect x="440" y="110" width="220" height="50" rx="6" fill="#fff" stroke="#3378b9"/>
+  <rect x="440" y="110" width="220" height="58" rx="6" fill="#fff" stroke="#3378b9"/>
   <text x="450" y="128" class="d10-detail" style="font-weight:700">Derechos y deberes</text>
   <text x="450" y="144" class="d10-detail">· Ley ordinaria</text>
   <text x="450" y="158" class="d10-detail">· Jurisdicción ordinaria</text>
-  <rect x="20" y="170" width="210" height="50" rx="6" fill="#fff" stroke="#88b2d9"/>
+  <rect x="20" y="170" width="210" height="58" rx="6" fill="#fff" stroke="#88b2d9"/>
   <text x="30" y="188" class="d10-detail" style="font-weight:700">Principios rectores</text>
   <text x="30" y="204" class="d10-detail">· Informan legislación/práctica</text>
   <text x="30" y="218" class="d10-detail">· Solo alegables conforme a ley</text>
   <rect x="160" y="250" width="360" height="110" rx="8" fill="#f5f5f5" stroke="#0055a0"/>
   <text x="340" y="272" class="d10-head" style="font-size:12px">COMPARATIVA</text>
-  <rect x="175" y="285" width="80" height="22" rx="4" class="d10-badge-ok"/>
-  <text x="215" y="301" class="d10-bdg-text">14-29: Amparo</text>
-  <rect x="265" y="285" width="100" height="22" rx="4" class="d10-badge-no"/>
-  <text x="315" y="301" class="d10-bdg-text">30-38: NO amparo</text>
-  <rect x="375" y="285" width="130" height="22" rx="4" class="d10-badge-no"/>
-  <text x="440" y="301" class="d10-bdg-text">39-52: NO amparo</text>
+  <rect x="170" y="285" width="100" height="22" rx="4" class="d10-badge-ok"/>
+  <text x="220" y="301" class="d10-bdg-text" style="font-size:10.5px">14-29: Amparo</text>
+  <rect x="276" y="285" width="117" height="22" rx="4" class="d10-badge-no"/>
+  <text x="334.5" y="301" class="d10-bdg-text" style="font-size:10.5px">30-38: NO amparo</text>
+  <rect x="399" y="285" width="117" height="22" rx="4" class="d10-badge-no"/>
+  <text x="457.5" y="301" class="d10-bdg-text" style="font-size:10.5px">39-52: NO amparo</text>
   <text x="340" y="328" class="d10-detail" style="text-anchor:middle">La objeción de conciencia (art. 30) TAMBIÉN tiene amparo</text>
   <text x="340" y="348" class="d10-detail" style="text-anchor:middle;font-style:italic">Todos vinculan a los poderes públicos (53.1) — respeto del contenido esencial</text>
 </svg>
@@ -708,7 +716,7 @@
   <line x1="560" y1="194" x2="560" y2="220" class="d12-line"/>
   <rect x="440" y="220" width="240" height="58" rx="8" fill="#fff7eb" stroke="#e89822" stroke-width="1.5"/>
   <text x="560" y="240" class="d12-mun-label" style="font-weight:700;fill:#a66410">AYUNTAMIENTO DE MADRID</text>
-  <text x="560" y="258" class="d12-note">Municipio capital del Estado (DA 4.ª)</text>
+  <text x="560" y="258" class="d12-note">Capital del Estado (art. 5 CE)</text>
   <text x="560" y="273" class="d12-note">Pleno · Alcalde · Junta de Gobierno</text>
   <rect x="60" y="290" width="600" height="56" rx="8" fill="#f5f5f5" stroke="#0055a0"/>
   <text x="360" y="310" class="d12-mun-label" style="font-weight:700">PRINCIPIOS DEL TÍTULO VIII</text>

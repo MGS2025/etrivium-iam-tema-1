@@ -4,6 +4,26 @@
 
 ---
 
+## v2.3 — 2026-10-01 — Revisión jurídica (temas 1-10)
+
+**Estado**: pendiente de validación.
+
+**Motivo**: aplicación de las reglas generales de la revisión jurídica de los temas 1 a 10. El enfoque es jurídico: fuera de las cajas el texto se ciñe a lo que dice la norma, y las preguntas del test salen del texto literal.
+
+### Cambios
+
+- **Cajas**: «Dato clave examen» → «Dato clave»; «Cita constitucional» → «Cita normativa»; «Ejemplo Ayto Madrid» → «Ejemplo de aplicación en el Ayto»; «Referencia cruzada» → «Relación con otros temas». La leyenda ya no promete que algo aparecerá en el test oficial. La caja de §4 (parte dogmática/orgánica), que no era una relación con otros temas, pasa a «Dato clave».
+- **Reflexiones y doctrina fuera de las cajas**: se retiran las valoraciones y la doctrina del Tribunal Constitucional (las líneas «Doctrina TC» y las sentencias citadas), los rasgos doctrinales de §1.1 (quedan solo los que se reconducen a un precepto, con una caja que menciona los demás), la jerarquía doctrinal de §11.2 y frases como «Bien jurídico de mayor jerarquía» o «Esta es una diferencia examinable con frecuencia».
+- **Citas corregidas contra el BOE**: art. 53.1 (remite al art. 161.1.a, no al art. 81); art. 55.1 (la excepción del 17.3 solo opera en el estado de excepción); art. 49 (dos apartados y frase omitida «Se regulará por ley la protección especial…»); arts. 25.2-25.3, 40.1 (pleno empleo), 50 («atenderán»), 51.2 y 39.3 al literal; «intérprete supremo» se atribuye al art. 1.1 LOTC, no al art. 161 CE; el art. 139.1 sustituye a una frase inexistente («por razón de su origen o vecindad»); Título Preliminar sin rúbrica; Sección 1.ª = arts. 15-29.
+- **Reforma de 2026**: se incorpora la Reforma del art. 69.3 CE de 19 de mayo de 2026 (senador propio de Formentera, BOE núm. 123 de 20-5-2026). La CE pasa de «tres» a «cuatro» reformas en contenido, índice, diagrama D6, fuentes y validación.
+- **Leyes de desarrollo**: LO 6/2001 (Universidades, derogada) → LO 2/2023 del Sistema Universitario; LO 4/2000 pasa del art. 19 al art. 13; se retiran LO 4/1988, Ley 17/1999/RD 247/2001 y la mención al Código Penal Militar en el art. 26 (no verificables o incorrectas); se añaden LO 3/1981, LO 4/1981 (art. 1.2), Ley 13/2005 y el art. 1 LOPDGDD; REF-2024 corregida a BOE núm. 43 de 17-2-2024.
+- **Relaciones con otros temas**: se corrigen las remisiones a los Temas 3, 4 y 24 (no coinciden con el temario BOAM 10.032); el art. 18 se relaciona con los Temas 25, 32 y 39.
+- **Correcciones comunes**: fuera las menciones al material aportado por el cliente, la tabla Tier 2 (MAT-*) y las rutas a ficheros internos; fuera las promesas sobre el examen; badge de casos «CLIENTE VALIDADO» → «VALIDADO»; filtro del test «Validadas 1-90» → «Preguntas 1-90».
+- **Test**: 150 preguntas revisadas contra el BOE: 110 se mantienen (solo tildes u orden de opciones), 20 se corrigen al literal y 20 se sustituyen (características doctrinales, aplicación de doctrina, frases que no están en la norma) por preguntas literales del mismo bloque. Respuestas correctas repartidas 50/50/50 entre a, b y c. Las 20 pedagógicas se rehacen sobre el banco nuevo con explicaciones ceñidas al precepto.
+- **Diagramas**: D6 con las cuatro reformas; D8 «intérprete supremo (art. 1 LOTC)»; D12 «Capital del Estado (art. 5 CE)» en lugar de «DA 4.ª».
+
+---
+
 ## v2.2 — 2026-09-06 — Ficha de extensión y tiempo de estudio
 
 **Estado**: sin cambios de contenido. Solo se añade información sobre el propio tema.

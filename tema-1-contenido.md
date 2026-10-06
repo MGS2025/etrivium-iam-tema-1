@@ -4,11 +4,11 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 2.0 — Pendiente validación
-> **Fecha**: 2026-04-28
+> **Versión**: 2.3 — Revisión jurídica aplicada
+> **Fecha**: 2026-10-01
 > **Fuentes**: Ver `tema-1-fuentes.md` · **Diagramas**: Ver `tema-1-diagramas.md` · **Cambios**: Ver `tema-1-changelog.md`
 >
-> *Cambios v2.0: ampliación en profundidad de §5.2 (derechos fundamentales arts. 14-29 con redacción cuasi-literal del BOE, doctrina TC y ley orgánica de desarrollo), §5.3 (derechos ciudadanos arts. 30-38 con desarrollo legislativo) y §5.4 (principios rectores arts. 39-52 con leyes de desarrollo y conexión Ayto Madrid).*
+> *Cambios v2.3: el texto fuera de las cajas se ciñe a lo que dicen la Constitución y sus leyes de desarrollo (se retiran las valoraciones y la doctrina del Tribunal Constitucional), se corrigen las citas que no coincidían con el BOE y se incorpora la reforma del artículo 69.3 de 19 de mayo de 2026.*
 
 ---
 
@@ -16,66 +16,64 @@
 
 Este tema incluye cuatro tipos de **cajas callout** para facilitar el estudio:
 
-> **[DATO CLAVE EXAMEN]** Información de alta densidad memorística: fechas, número de artículo, mayorías exigidas. Alta probabilidad de aparecer en el test oficial.
+> **[DATO CLAVE]** Información de alta densidad memorística: fechas, número de artículo, mayorías exigidas.
 
-> **[CITA CONSTITUCIONAL]** Reproducción literal o paráfrasis cercana de un precepto de la Constitución Española, con referencia al artículo.
+> **[CITA NORMATIVA]** Reproducción literal de un precepto de la Constitución Española, con referencia al artículo.
 
-> **[EJEMPLO AYTO MADRID]** Aplicación real de la norma al entorno municipal (participación ciudadana, sede electrónica, ordenanzas, Policía Municipal).
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Aplicación de la norma al entorno municipal (participación ciudadana, sede electrónica, ordenanzas, Policía Municipal).
 
-> **[REFERENCIA CRUZADA]** Enlace conceptual a otros temas o a bloques distintos del propio Tema 1.
+> **[RELACIÓN CON OTROS TEMAS]** Enlace con otros temas del temario o con bloques distintos del propio Tema 1.
 
-Las citas a artículos de la Constitución se expresan como `[CE, art. X]` o `[CE, art. X.Y]`. Las reformas se identifican como `[REF-1992]`, `[REF-2011]` o `[REF-2024]`. El registro completo de fuentes está en `tema-1-fuentes.md`.
+Las citas a artículos de la Constitución se expresan como `[CE, art. X]` o `[CE, art. X.Y]`. Las reformas se identifican como `[REF-1992]`, `[REF-2011]`, `[REF-2024]` o `[REF-2026]`. El registro completo de fuentes está en `tema-1-fuentes.md`.
 
 ---
 
 ## 1. Introducción y características de la Constitución
 
-La **Constitución Española** (en adelante, CE) es la **norma suprema** del ordenamiento jurídico español. Fue ratificada por referéndum el **6 de diciembre de 1978** y sancionada por el Rey el **27 de diciembre del mismo año**. Su texto establece el marco legal y político del país, organiza los poderes del Estado y garantiza los derechos y deberes fundamentales de los ciudadanos. [CE-1978]
+La **Constitución Española** (en adelante, CE) es la **norma fundamental del Estado** (fórmula de promulgación). Fue ratificada por el pueblo español en referéndum el **6 de diciembre de 1978** y sancionada por el Rey el **27 de diciembre del mismo año**. Su texto organiza los poderes del Estado y regula los derechos y deberes fundamentales. [CE-1978]
 
 ### 1.1. Características esenciales
 
-La Constitución Española presenta, entre sus rasgos definitorios, los siguientes:
+Rasgos que se desprenden del propio texto constitucional:
 
-- **Pactada o de consenso**: fruto del acuerdo entre todas las fuerzas políticas representadas en la Asamblea constituyente.
-- **Rígida**: su reforma requiere procedimientos complejos y mayorías cualificadas. En ciertos supuestos, la reforma exige además referéndum. [CE, art. 167-168]
-- **Ideológica**: proclama unos valores superiores del ordenamiento jurídico (libertad, justicia, igualdad y pluralismo político). [CE, art. 1.1]
-- **Derivada**: recibió múltiples influencias de otras constituciones europeas contemporáneas.
-- **Escrita y codificada**: un único texto sistematizado, a diferencia del modelo británico.
-- **Extensa**: 169 artículos más disposiciones adicionales, transitorias, derogatoria y final.
-- **Aplicación directa e inmediata**: vincula a todos los poderes públicos y a los ciudadanos sin necesidad de desarrollo legal previo en la mayoría de sus preceptos.
-- **Abierta/ambigua en algunos aspectos**: deja fórmulas abiertas que amplían el margen de interpretación constitucional.
-- **Origen popular**: elaborada por representantes del pueblo y ratificada en referéndum constitucional.
-- **Define un Estado democrático**, de régimen parlamentario clásico y forma política **monarquía parlamentaria**. [CE, art. 1.3]
+- **Escrita**: un único texto de 169 artículos, con Preámbulo, Título Preliminar, diez Títulos y disposiciones adicionales, transitorias, derogatoria y final.
+- **Rígida**: su reforma exige los procedimientos y las mayorías cualificadas de los artículos 167 y 168; en el procedimiento del artículo 168 la reforma se somete en todo caso a referéndum. [CE, arts. 167-168]
+- **Ratificada por el pueblo español**: «las Cortes aprueban y el pueblo español ratifica la siguiente Constitución». [CE, Preámbulo]
+- **Proclama valores superiores** del ordenamiento jurídico: la libertad, la justicia, la igualdad y el pluralismo político. [CE, art. 1.1]
+- **Vinculante**: los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico. [CE, art. 9.1]
+- **Forma política**: la Monarquía parlamentaria. [CE, art. 1.3]
 
-> **[DATO CLAVE EXAMEN]** Memorizar: rígida, escrita, codificada, extensa, aplicación directa, consensuada, derivada, ideológica, origen popular. Estas ocho características son preguntadas con frecuencia.
+> **[DATO CLAVE]** Los manuales suelen añadir otras calificaciones doctrinales (pactada o de consenso, derivada, extensa, abierta). No figuran en el texto constitucional; los rasgos de la lista anterior sí pueden reconducirse a un precepto.
 
 ### 1.2. Valores superiores y principios del Título Preliminar
 
 El artículo 1 define el modelo de Estado:
 
-> **[CITA CONSTITUCIONAL]** *"España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político"* [CE, art. 1.1]
+> **[CITA NORMATIVA]** *"España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político"* [CE, art. 1.1]
 
-El mismo artículo establece dos principios estructurales:
+El mismo artículo establece:
 
 - **Soberanía nacional**: reside en el pueblo español, del que emanan los poderes del Estado. [CE, art. 1.2]
-- **Forma política**: monarquía parlamentaria. [CE, art. 1.3]
+- **Forma política**: Monarquía parlamentaria. [CE, art. 1.3]
 
-Del Título Preliminar derivan además la **unidad de la Nación** y el **reconocimiento de las nacionalidades y regiones** que la integran [CE, art. 2], el **principio de legalidad** y la **jerarquía normativa** [CE, art. 9], y la **publicidad de las normas** y la **seguridad jurídica** [CE, art. 9.3].
+El Título Preliminar recoge además la **indisoluble unidad de la Nación española** y el **derecho a la autonomía de las nacionalidades y regiones** que la integran y la solidaridad entre todas ellas [CE, art. 2], y el artículo 9.3 garantiza el **principio de legalidad**, la **jerarquía normativa**, la **publicidad de las normas**, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la **seguridad jurídica**, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. [CE, art. 9.3]
+
+El artículo 10.1, con el que se abre el Título I, dispone que *"la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social"*. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España. [CE, art. 10.2]
 
 ---
 
 ## 2. Datos clave de aprobación y promulgación
 
-Las cuatro fechas hito de 1978 son preguntadas con alta frecuencia:
+Las cuatro fechas de 1978:
 
 | Fecha | Acto |
 |---|---|
-| 31 octubre 1978 | Aprobación por las Cortes Generales en sesiones plenarias del Congreso y del Senado |
+| 31 octubre 1978 | Aprobación por las Cortes en sesiones plenarias del Congreso de los Diputados y del Senado |
 | 6 diciembre 1978 | Ratificación por el pueblo español en referéndum |
 | 27 diciembre 1978 | Sanción por S.M. el Rey ante las Cortes |
 | 29 diciembre 1978 | Publicación en el BOE — entrada en vigor el mismo día de su publicación |
 
-> **[DATO CLAVE EXAMEN]** Regla mnemotécnica "31-6-27-29": aprobación 31 octubre, referéndum 6 diciembre, sanción 27 diciembre, publicación 29 diciembre. La entrada en vigor coincide con la publicación — esto lo diferencia de muchas leyes ordinarias que prevén vacatio legis.
+> **[DATO CLAVE]** Regla mnemotécnica "31-6-27-29": aprobación 31 octubre, referéndum 6 diciembre, sanción 27 diciembre, publicación 29 diciembre. La entrada en vigor coincide con la publicación: "Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado" (disposición final).
 
 ---
 
@@ -83,7 +81,7 @@ Las cuatro fechas hito de 1978 son preguntadas con alta frecuencia:
 
 La Constitución consta de:
 
-- **Preámbulo** (declarativo, sin valor normativo directo pero si interpretativo).
+- **Preámbulo**.
 - **Título Preliminar** (arts. 1 a 9).
 - **Diez Títulos numerados** (arts. 10 a 169).
 - **4 Disposiciones Adicionales**.
@@ -97,7 +95,7 @@ Total: **169 artículos**.
 
 | Título | Materia | Artículos |
 |---|---|---|
-| Preliminar | Principios generales del Estado | 1-9 |
+| Preliminar | (sin rúbrica) | 1-9 |
 | I | De los derechos y deberes fundamentales | 10-55 |
 | II | De la Corona | 56-65 |
 | III | De las Cortes Generales | 66-96 |
@@ -107,9 +105,9 @@ Total: **169 artículos**.
 | VII | Economía y Hacienda | 128-136 |
 | VIII | De la Organización Territorial del Estado | 137-158 |
 | IX | Del Tribunal Constitucional | 159-165 |
-| X | De la Reforma Constitucional | 166-169 |
+| X | De la reforma constitucional | 166-169 |
 
-> **[DATO CLAVE EXAMEN]** El orden de los Títulos y sus artículos iniciales son memorizables con reglas mnemotécnicas. Pista: del Título II al V (56-116) se regulan los **poderes** (Corona, Cortes, Gobierno, relaciones Gobierno-Cortes). El VI es el Poder Judicial. Los Títulos VII-X son materias transversales y de cierre.
+> **[DATO CLAVE]** El orden de los Títulos y sus artículos iniciales son memorizables con reglas mnemotécnicas. Pista: del Título II al V (56-116) se regulan la Corona, las Cortes, el Gobierno y las relaciones Gobierno-Cortes. El VI es el Poder Judicial. Los Títulos VII-X regulan la economía y hacienda, la organización territorial, el Tribunal Constitucional y la reforma.
 
 ### 3.2. Estructura interna del Título I
 
@@ -119,317 +117,300 @@ El Título I se subdivide en cinco Capítulos:
 |---|---|---|
 | I | De los españoles y los extranjeros | 11-13 |
 | II | Derechos y libertades | 14-38 |
-| — Sec. 1.ª | De los derechos fundamentales y de las libertades públicas | 14-29 |
+| — Sec. 1.ª | De los derechos fundamentales y de las libertades públicas | 15-29 |
 | — Sec. 2.ª | De los derechos y deberes de los ciudadanos | 30-38 |
 | III | De los principios rectores de la política social y económica | 39-52 |
 | IV | De las garantías de las libertades y derechos fundamentales | 53-54 |
 | V | De la suspensión de los derechos y libertades | 55 |
 
+El artículo 10 precede al Capítulo I y el artículo 14 precede a la Sección 1.ª del Capítulo II.
+
 ---
 
 ## 4. Parte dogmática y parte orgánica
 
-La doctrina constitucional clasifica el texto en dos grandes bloques:
-
-- **Parte dogmática**: Título Preliminar + Título I. Proclama los principios y valores del Estado y reconoce los derechos y deberes fundamentales.
-- **Parte orgánica**: Títulos II a X. Regula la organización, competencias y relaciones entre los poderes del Estado.
-
-> **[REFERENCIA CRUZADA]** Esta separación NO aparece literalmente en el articulado, es una clasificación doctrinal. Aun así, las preguntas del banco la dan por sentada y exigen ubicar correctamente cada Título en su bloque.
+> **[DATO CLAVE]** La distinción entre **parte dogmática** (Título Preliminar y Título I: principios, valores y derechos y deberes fundamentales) y **parte orgánica** (Títulos II a X: organización, competencias y relaciones entre los poderes del Estado) es una clasificación doctrinal: no aparece en el articulado. Sirve para ubicar cada Título en su bloque.
 
 ---
 
 ## 5. Título I — De los derechos y deberes fundamentales
 
-El Título I desarrolla el núcleo central del bloque dogmático. La Constitución, en este Título, regula los derechos y deberes de los ciudadanos agrupados por niveles de protección.
+El Título I agrupa los derechos y deberes en capítulos y secciones a los que el artículo 53 asigna distintas garantías.
 
 ### 5.1. Capítulo I — De los españoles y los extranjeros (arts. 11-13)
 
-- **Nacionalidad española** (art. 11): se adquiere, conserva y pierde conforme a la ley. Ningún español de origen puede ser privado de su nacionalidad.
-- **Mayoría de edad** (art. 12): 18 años.
-- **Régimen de extranjería y sufragio UE** (art. 13): los extranjeros gozan en España de las libertades públicas que garantice el Título I, en los términos que establezcan los tratados y la ley.
+- **Nacionalidad española** (art. 11): se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley. Ningún español de origen podrá ser privado de su nacionalidad.
+- **Mayoría de edad** (art. 12): los españoles son mayores de edad a los dieciocho años.
+- **Extranjeros** (art. 13.1): gozarán en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley. **Desarrollo**: Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social.
+- **Derechos del artículo 23** (art. 13.2): solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
 
-> **[DATO CLAVE EXAMEN]** La **Reforma de 1992** modificó el artículo 13.2 para permitir que ciudadanos de otros Estados miembros de la UE puedan ser **electores y elegibles** en elecciones municipales. [REF-1992]
+> **[DATO CLAVE]** La **Reforma de 1992** modificó el artículo 13.2 para añadir el sufragio **pasivo** en las elecciones municipales: los ciudadanos de otros Estados miembros de la UE pueden ser **electores y elegibles** en ellas. [REF-1992]
 
 ### 5.2. Capítulo II, Sección 1.ª — Derechos fundamentales y libertades públicas (arts. 14-29)
 
-Este bloque concentra los derechos de **máxima protección**. Su desarrollo se reserva a la **ley orgánica** (art. 81 CE), todos vinculan directamente a los poderes públicos (eficacia inmediata sin necesidad de desarrollo legal previo) y son los únicos susceptibles de **recurso de amparo** ante el Tribunal Constitucional. La doctrina constitucional los ha consolidado como **derechos subjetivos de aplicación directa**.
+Conforme al artículo 81.1, son leyes orgánicas las relativas al desarrollo de los derechos fundamentales y de las libertades públicas. Los derechos y libertades del Capítulo II vinculan a todos los poderes públicos (art. 53.1), y el artículo 53.2 reserva para el artículo 14 y la Sección 1.ª la tutela por un procedimiento preferente y sumario y, en su caso, el **recurso de amparo** ante el Tribunal Constitucional.
 
 #### Artículo 14 — Igualdad ante la ley
 
 > *"Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social."* [CE, art. 14]
 
-- **Doble dimensión**: igualdad **ante la ley** (aplicación uniforme a todos los ciudadanos) e igualdad **en la ley** (la propia norma no puede establecer diferencias arbitrarias).
-- **Prohibición de discriminación**: lista no cerrada (clausula abierta "o cualquier otra condición o circunstancia").
-- **Doctrina TC**: STC 22/1981 admite la **discriminación positiva** o acción afirmativa cuando persigue compensar desigualdades históricas (ej.: cuotas paritarias en listas electorales).
-- **Particularidad**: aunque ubicado en la Sección 1.ª y susceptible de amparo, no se desarrolla por LO sino por ley ordinaria.
+- **Causas de discriminación**: el precepto enumera nacimiento, raza, sexo, religión y opinión, y cierra la lista con "cualquier otra condición o circunstancia personal o social".
+- **Ubicación**: el artículo 14 precede a la Sección 1.ª, pero el artículo 53.2 le extiende la tutela preferente y sumaria y el recurso de amparo.
 
 #### Artículo 15 — Derecho a la vida e integridad física y moral
 
 > *"Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra."* [CE, art. 15]
 
-- **Bien jurídico de mayor jerarquía**: presupuesto de todos los demás derechos.
-- **Pena de muerte**: la salvedad para tiempo de guerra fue eliminada por la **Ley Orgánica 11/1995**, que abolió totalmente la pena capital también en el ámbito militar.
-- **Doctrina TC**: STC 53/1985 (despenalización del aborto), STC 154/2002 (consentimiento informado y rechazo de tratamiento médico).
-- **Conexión europea**: el Convenio Europeo de Derechos Humanos (CEDH, art. 2 y 3) y la jurisprudencia del TEDH refuerzan estas garantías.
+- **Pena de muerte en tiempo de guerra**: la Ley Orgánica 11/1995, de 27 de noviembre, abolió la pena de muerte en tiempo de guerra.
 
 #### Artículo 16 — Libertad ideológica, religiosa y de culto
 
 > *"Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley."* [CE, art. 16.1]
 
-- **Tres dimensiones**: libertad de pensamiento (foro interno, absoluta), libertad de conciencia (decisiones morales) y libertad religiosa (foro externo, sometida a orden público).
-- **Aconfesionalidad del Estado**: art. 16.3 — *"Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones."*
 - **Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias** (art. 16.2).
+- **Aconfesionalidad del Estado**: art. 16.3 — *"Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones."*
 - **Desarrollo**: Ley Orgánica 7/1980, de Libertad Religiosa.
 
 #### Artículo 17 — Derecho a la libertad y seguridad
 
 > *"Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley."* [CE, art. 17.1]
 
-- **Detención preventiva**: máximo **72 horas** (art. 17.2). Plazo prorrogable solo en investigaciones por bandas armadas o terrorismo (art. 55.2 + LO 4/1988).
-- **Garantías del detenido** (art. 17.3): información inmediata de los hechos imputados y derechos, asistencia letrada, no declarar contra sí mismo.
-- **Hábeas corpus** (art. 17.4): procedimiento sumario para la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Desarrollado por la **Ley Orgánica 6/1984**.
-- **Doctrina TC**: STC 31/1985 (alcance del hábeas corpus), STC 341/1993 (contenido esencial de la libertad personal).
+- **Detención preventiva** (art. 17.2): no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de **setenta y dos horas**, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial. Conforme al artículo 55.2, una ley orgánica puede suspender este derecho de forma individual en relación con las investigaciones sobre bandas armadas o elementos terroristas.
+- **Derechos del detenido** (art. 17.3): ser informado de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención; no puede ser obligado a declarar; se garantiza la asistencia de abogado en las diligencias policiales y judiciales.
+- **Habeas corpus** (art. 17.4): la ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Por ley se determinará el plazo máximo de duración de la prisión provisional. **Desarrollo**: Ley Orgánica 6/1984, reguladora del procedimiento de «Habeas Corpus».
 
 #### Artículo 18 — Honor, intimidad, imagen, domicilio y comunicaciones
 
 > *"Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen."* [CE, art. 18.1]
 
-- **18.2 Inviolabilidad del domicilio**: ninguna entrada o registro sin **consentimiento del titular**, **resolución judicial** o **flagrante delito**.
-- **18.3 Secreto de las comunicaciones**: especialmente postales, telegráficas y telefónicas. Solo cabe limitación mediante **resolución judicial**.
-- **18.4 Protección de datos**: *"La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos."* — base constitucional del **derecho fundamental a la protección de datos**, hoy desarrollado por la **LO 3/2018 (LOPDGDD)** en consonancia con el **Reglamento (UE) 2016/679 (RGPD)**.
-- **Doctrina TC**: STC 254/1993 reconoció el derecho a la protección de datos como derecho fundamental autónomo. STC 207/1996 sobre intervenciones corporales.
+- **18.2 Inviolabilidad del domicilio**: ninguna entrada o registro podrá hacerse en él sin **consentimiento del titular** o **resolución judicial**, salvo en caso de **flagrante delito**.
+- **18.3 Secreto de las comunicaciones**: se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo **resolución judicial**.
+- **18.4 Uso de la informática**: *"La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos."* La Ley Orgánica 3/2018 (LOPDGDD) se refiere al derecho fundamental de las personas físicas a la protección de datos personales, "amparado por el artículo 18.4 de la Constitución", que se ejercerá con arreglo al Reglamento (UE) 2016/679 (RGPD) y a esa ley orgánica (art. 1 LOPDGDD).
 
 #### Artículo 19 — Libertad de residencia y circulación
 
 > *"Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional. Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos."* [CE, art. 19]
 
-- **Desarrollo**: Ley Orgánica 4/2000 sobre derechos y libertades de los extranjeros (LO 8/2000, 14/2003, 2/2009).
-- **Limites**: solo por causas legales (orden judicial, sanitarias, seguridad). Nunca por motivos políticos o ideológicos.
-
 #### Artículo 20 — Libertad de expresión e información
 
 > *"Se reconocen y protegen los derechos: a) A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción; b) A la producción y creación literaria, artística, científica y técnica; c) A la libertad de cátedra; d) A comunicar o recibir libremente información veraz por cualquier medio de difusión."* [CE, art. 20.1]
 
-- **Prohibición expresa de la censura previa** (art. 20.2): solo cabe el control ex post.
-- **Solo el secuestro judicial** de publicaciones (art. 20.5).
-- **Limites** (art. 20.4): respeto a los demás derechos del Título I, especialmente honor, intimidad, propia imagen y protección de la juventud y de la infancia.
-- **Doctrina TC**: STC 6/1981 (libertad de información como pieza básica del Estado democrático), STC 105/1990 (criterios de veracidad y diligencia).
+- **Cláusula de conciencia y secreto profesional** (art. 20.1.d): la ley los regulará en el ejercicio de estas libertades.
+- **Censura previa** (art. 20.2): el ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
+- **Límites** (art. 20.4): el respeto a los derechos reconocidos en el Título I, los preceptos de las leyes que lo desarrollen y, especialmente, el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
+- **Secuestro** (art. 20.5): sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
 
 #### Artículo 21 — Derecho de reunión
 
-> *"Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitara autorización previa."* [CE, art. 21.1]
+> *"Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa."* [CE, art. 21.1]
 
-- **Reuniones en lugares de tránsito público y manifestaciones**: **comunicación previa** a la autoridad (no autorización). La autoridad solo puede prohibirlas cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes.
+- **Reuniones en lugares de tránsito público y manifestaciones** (art. 21.2): se dará **comunicación previa** a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.
 - **Desarrollo**: Ley Orgánica 9/1983, reguladora del derecho de reunión.
 
 #### Artículo 22 — Derecho de asociación
 
 > *"Se reconoce el derecho de asociación."* [CE, art. 22.1]
 
-- **Sin autorización previa**: las asociaciones se inscriben en un registro a los solos efectos de publicidad (art. 22.3).
-- **Asociaciones ilegales** (art. 22.2 y 5): las que persigan fines o utilicen medios tipificados como delito; las secretas y las paramilitares.
-- **Disolución**: solo por **resolución judicial motivada** (art. 22.4).
-- **Desarrollo**: Ley Orgánica 1/2002, reguladora del derecho de asociación.
+- **Asociaciones ilegales** (art. 22.2): las que persigan fines o utilicen medios tipificados como delito.
+- **Registro** (art. 22.3): las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro a los solos efectos de publicidad.
+- **Disolución o suspensión** (art. 22.4): sólo en virtud de **resolución judicial motivada**.
+- **Prohibición** (art. 22.5): se prohíben las asociaciones secretas y las de carácter paramilitar.
+- **Desarrollo**: Ley Orgánica 1/2002, reguladora del Derecho de Asociación.
 
 #### Artículo 23 — Derecho de participación política
 
 > *"Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal."* [CE, art. 23.1]
 
 - **23.2** Derecho a acceder en condiciones de igualdad a las **funciones y cargos públicos**, con los requisitos que señalen las leyes.
-- **Desarrollo**: Ley Orgánica 5/1985 del Régimen Electoral General (LOREG).
+- **Desarrollo**: Ley Orgánica 5/1985, del Régimen Electoral General (LOREG).
 
 #### Artículo 24 — Tutela judicial efectiva
 
 > *"Todas las personas tienen derecho a obtener la tutela efectiva de los jueces y tribunales en el ejercicio de sus derechos e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión."* [CE, art. 24.1]
 
-- **24.2 Derechos en el proceso**: juez ordinario predeterminado por la ley, defensa y asistencia de letrado, ser informado de la acusación, proceso público sin dilaciones indebidas y con todas las garantías, utilizar los medios de prueba pertinentes, no declarar contra sí mismo, no confesarse culpable y **presunción de inocencia**.
-- **Secreto profesional** del artículo 24.2 (parentesco y secreto profesional como excepciones a la obligación de declarar).
-- **Doctrina TC**: STC 162/1999 (derecho a un proceso sin dilaciones), STC 167/2002 (derecho a la prueba).
+- **24.2 Derechos en el proceso**: al Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado, a ser informados de la acusación formulada contra ellos, a un proceso público sin dilaciones indebidas y con todas las garantías, a utilizar los medios de prueba pertinentes para su defensa, a no declarar contra sí mismos, a no confesarse culpables y a la **presunción de inocencia**.
+- **Parentesco y secreto profesional** (art. 24.2, párrafo segundo): la ley regulará los casos en que, por razón de parentesco o de secreto profesional, no se estará obligado a declarar sobre hechos presuntamente delictivos.
 
-#### Artículo 25 — Principio de legalidad penal
+#### Artículo 25 — Principio de legalidad penal y sancionadora
 
 > *"Nadie puede ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito, falta o infracción administrativa, según la legislación vigente en aquel momento."* [CE, art. 25.1]
 
-- **25.2** Las penas privativas de libertad y las medidas de seguridad estarán orientadas a la **reeducación y reinserción social**. El condenado conservara los derechos fundamentales no afectados por el contenido del fallo, la pena o la ley penitenciaria.
-- **Aplicación al derecho administrativo sancionador**: la jurisprudencia constitucional ha extendido los principios penales (legalidad, tipicidad, irretroactividad, proporcionalidad) al ejercicio de la potestad sancionadora administrativa. STC 18/1981.
+- **25.2** Las penas privativas de libertad y las medidas de seguridad estarán orientadas hacia la **reeducación y reinserción social** y no podrán consistir en trabajos forzados. El condenado a pena de prisión que estuviere cumpliendo la misma gozará de los derechos fundamentales de este Capítulo, a excepción de los que se vean expresamente limitados por el contenido del fallo condenatorio, el sentido de la pena y la ley penitenciaria. En todo caso, tendrá derecho a un trabajo remunerado y a los beneficios correspondientes de la Seguridad Social, así como al acceso a la cultura y al desarrollo integral de su personalidad.
+- **25.3** La Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.
+- **Infracción administrativa**: el artículo 25.1 incluye expresamente la infracción administrativa junto al delito y la falta.
 
 #### Artículo 26 — Prohibición de Tribunales de Honor
 
 > *"Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales."* [CE, art. 26]
 
-- Subsiste su admisión excepcional en el ámbito militar (LO 13/1985, Código Penal Militar).
-
 #### Artículo 27 — Derecho a la educación y libertad de enseñanza
 
 > *"Todos tienen el derecho a la educación. Se reconoce la libertad de enseñanza."* [CE, art. 27.1]
 
-- **27.2 a 27.10** detallan: pleno desarrollo de la personalidad, formación religiosa y moral conforme a las propias convicciones, **enseñanza básica obligatoria y gratuita**, autonomía de las Universidades, participación de profesores, padres y alumnos, intervención de los poderes públicos en la programación general.
-- **Desarrollo**: Ley Orgánica 2/2006 (LOE), Ley Orgánica 3/2020 (LOMLOE), Ley Orgánica 6/2001 de Universidades.
+- **27.2 a 27.10** regulan: el objeto de la educación (pleno desarrollo de la personalidad humana en el respeto a los principios democráticos de convivencia y a los derechos y libertades fundamentales), el derecho de los padres a que sus hijos reciban la formación religiosa y moral que esté de acuerdo con sus propias convicciones, la **enseñanza básica obligatoria y gratuita**, la programación general de la enseñanza, la libertad de creación de centros docentes, la intervención de profesores, padres y, en su caso, alumnos en el control y gestión de los centros sostenidos con fondos públicos, la inspección y homologación del sistema educativo, la ayuda a los centros docentes y la **autonomía de las Universidades**.
+- **Desarrollo**: Ley Orgánica 2/2006, de Educación (LOE), modificada por la Ley Orgánica 3/2020 (LOMLOE); Ley Orgánica 2/2023, del Sistema Universitario.
 
 #### Artículo 28 — Libertad sindical y derecho de huelga
 
 > *"Todos tienen derecho a sindicarse libremente."* [CE, art. 28.1]
 
-- **Limitaciones específicas** del artículo 28.1: las Fuerzas Armadas o Institutos armados, los demás Cuerpos sometidos a disciplina militar, los Magistrados, Jueces y Fiscales en activo (art. 127.1).
-- **28.2** Reconoce el **derecho de huelga** de los trabajadores para la defensa de sus intereses. La ley regulará su ejercicio garantizando los **servicios esenciales** de la comunidad.
-- **Desarrollo**: Ley Orgánica 11/1985 de Libertad Sindical (LOLS); Real Decreto-ley 17/1977 (vigente en lo no derogado).
+- **Limitaciones** (art. 28.1): la ley podrá limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar y regulará las peculiaridades de su ejercicio para los funcionarios públicos. Los Jueces, Magistrados y Fiscales, mientras se hallen en activo, no podrán pertenecer a partidos políticos o sindicatos (art. 127.1).
+- **Contenido** (art. 28.1): la libertad sindical comprende el derecho a fundar sindicatos y a afiliarse al de su elección, así como el derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales o a afiliarse a las mismas. Nadie podrá ser obligado a afiliarse a un sindicato.
+- **28.2** Se reconoce el **derecho a la huelga** de los trabajadores para la defensa de sus intereses. La ley que regule el ejercicio de este derecho establecerá las garantías precisas para asegurar el mantenimiento de los **servicios esenciales** de la comunidad.
+- **Desarrollo**: Ley Orgánica 11/1985, de Libertad Sindical (LOLS); Real Decreto-ley 17/1977, sobre relaciones de trabajo.
 
 #### Artículo 29 — Derecho de petición
 
 > *"Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley."* [CE, art. 29.1]
 
-- **29.2** Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar **solo podrán ejercer este derecho individualmente** y con arreglo a su legislación específica.
-- **Desarrollo**: Ley Orgánica 4/2001, reguladora del derecho de petición.
+- **29.2** Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho **sólo individualmente** y con arreglo a lo dispuesto en su legislación específica.
+- **Desarrollo**: Ley Orgánica 4/2001, reguladora del Derecho de Petición.
 
-> **[DATO CLAVE EXAMEN]** Los artículos 14 a 29 (Sección 1.ª del Capítulo II) son los únicos derechos amparables ante el TC y los únicos susceptibles de tutela judicial **preferente y sumaria**. Su desarrollo exige **ley orgánica** (art. 81). El art. 14 se desarrolla por **ley ordinaria** pero conserva la garantía del amparo. La objeción de conciencia del art. 30.2 también es amparable, por remisión expresa del art. 53.2.
+> **[DATO CLAVE]** El artículo 14 y los artículos 15 a 29 (Sección 1.ª del Capítulo II) tienen tutela ante los tribunales ordinarios por un procedimiento **preferente y sumario** y, en su caso, **recurso de amparo** ante el TC (art. 53.2). El desarrollo de los derechos fundamentales y de las libertades públicas exige **ley orgánica** (art. 81.1). La objeción de conciencia del artículo 30 también es amparable, por remisión expresa del artículo 53.2.
 
-> **[REFERENCIA CRUZADA]** Los derechos del art. 18 (intimidad, comunicaciones, protección de datos) son la base constitucional del Tema 24 (RGPD y LOPDGDD) y el Tema 26 (seguridad informática), conectando con la triada CIA del Esquema Nacional de Seguridad.
+> **[RELACIÓN CON OTROS TEMAS]** Los derechos del artículo 18 (intimidad, secreto de las comunicaciones, uso de la informática) se relacionan con el Tema 25 (confidencialidad y disponibilidad en puestos de usuario final), el Tema 32 (seguridad de los sistemas de información) y el Tema 39 (Esquema Nacional de Seguridad).
 
 ### 5.3. Capítulo II, Sección 2.ª — Derechos y deberes de los ciudadanos (arts. 30-38)
 
-Segundo nivel de protección. Su desarrollo se hace por **ley ordinaria** que en todo caso debe respetar su **contenido esencial** (art. 53.1). Vinculan a todos los poderes públicos pero **no son susceptibles de recurso de amparo** (excepción: la objeción de conciencia del art. 30.2 si lo es por remisión del art. 53.2). Se distingue derecho subjetivo (exigible) frente a deber.
+Estos derechos y deberes, como todos los del Capítulo II, vinculan a todos los poderes públicos, y sólo por ley, que en todo caso deberá respetar su **contenido esencial**, podrá regularse su ejercicio (art. 53.1). El artículo 53.2 no les extiende el recurso de amparo, salvo a la objeción de conciencia reconocida en el artículo 30.
 
 #### Artículo 30 — Defensa y deberes militares
 
 > *"Los españoles tienen el derecho y el deber de defender a España."* [CE, art. 30.1]
 
-- **30.2** La ley fijará las **obligaciones militares** y regulará, con las debidas garantías, la **objeción de conciencia**, así como las demás causas de exención del servicio militar obligatorio. Podrá imponer una **prestación social sustitutoria**.
+- **30.2** La ley fijará las **obligaciones militares** de los españoles y regulará, con las debidas garantías, la **objeción de conciencia**, así como las demás causas de exención del servicio militar obligatorio, pudiendo imponer, en su caso, una **prestación social sustitutoria**.
 - **30.3** Podrá establecerse un **servicio civil** para el cumplimiento de fines de interés general.
-- **30.4** Los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.
-- **Particularidad**: aunque ubicado en la Sección 2.ª, la **objeción de conciencia** (art. 30.2) es el único derecho fuera de los arts. 14-29 amparable ante el TC, por remisión expresa del art. 53.2.
-- **Desarrollo**: Ley 17/1999 del Régimen del Personal de las Fuerzas Armadas (la prestación social sustitutoria quedo suspendida con la profesionalización de las FAS por Ley 17/1999, RD 247/2001).
+- **30.4** Mediante ley podrán regularse los deberes de los ciudadanos en los casos de grave riesgo, catástrofe o calamidad pública.
+- **Amparo**: la objeción de conciencia es el único derecho fuera del artículo 14 y de la Sección 1.ª al que el artículo 53.2 extiende el recurso de amparo.
 
 #### Artículo 31 — Deberes tributarios y gasto público
 
 > *"Todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio."* [CE, art. 31.1]
 
-- **31.2** El gasto público realizara una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de **eficiencia y economía**.
-- **31.3** Solo podrán establecerse prestaciones personales o patrimoniales de carácter público **con arreglo a la ley** (reserva de ley tributaria).
-- **Principios constitucionales tributarios**: generalidad, capacidad económica, igualdad, progresividad, no confiscatoriedad, legalidad.
-- **Desarrollo**: Ley 58/2003 General Tributaria; Ley 47/2003 General Presupuestaria.
-- **Conexión Ayto Madrid**: el sistema tributario local (IBI, IAE, IVTM, ICIO, plusvalía, tasas) se rige por estos principios. La **Ley Reguladora de las Haciendas Locales** (RDL 2/2004) los desarrolla para municipios.
+- **31.2** El gasto público realizará una asignación equitativa de los recursos públicos, y su programación y ejecución responderán a los criterios de **eficiencia y economía**.
+- **31.3** Sólo podrán establecerse prestaciones personales o patrimoniales de carácter público **con arreglo a la ley**.
+- **Desarrollo**: Ley 58/2003, General Tributaria; Ley 47/2003, General Presupuestaria.
+
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Los tributos municipales (IBI, IAE, IVTM, ICIO, plusvalía, tasas) se rigen por el texto refundido de la Ley Reguladora de las Haciendas Locales (Real Decreto Legislativo 2/2004), dentro de los principios del artículo 31 CE.
 
 #### Artículo 32 — Matrimonio
 
 > *"El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica."* [CE, art. 32.1]
 
 - **32.2** La ley regulará las formas de matrimonio, la edad y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos.
-- **Reforma 2005**: Ley 13/2005 modifica el Código Civil para permitir el matrimonio entre personas del mismo sexo. Avalada por **STC 198/2012**.
+- **Desarrollo**: Código Civil, modificado por la Ley 13/2005, de 1 de julio, en materia de derecho a contraer matrimonio.
 
 #### Artículo 33 — Propiedad privada y herencia
 
 > *"Se reconoce el derecho a la propiedad privada y a la herencia."* [CE, art. 33.1]
 
-- **33.2** La **función social** de estos derechos delimitara su contenido, de acuerdo con las leyes.
-- **33.3** Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de **utilidad pública o interés social**, mediante la correspondiente **indemnización** y de conformidad con lo dispuesto por las leyes (expropiación forzosa).
-- **Desarrollo**: Ley de Expropiación Forzosa de 1954 (vigente con modificaciones); Código Civil.
+- **33.2** La **función social** de estos derechos delimitará su contenido, de acuerdo con las leyes.
+- **33.3** Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de **utilidad pública o interés social**, mediante la correspondiente **indemnización** y de conformidad con lo dispuesto por las leyes.
+- **Desarrollo**: Ley de Expropiación Forzosa de 1954; Código Civil.
 
 #### Artículo 34 — Derecho de fundación
 
 > *"Se reconoce el derecho de fundación para fines de interés general, con arreglo a la ley."* [CE, art. 34.1]
 
-- **34.2** Regirá también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22 (objeto licito y disolución solo por resolución judicial motivada).
-- **Desarrollo**: Ley 50/2002 de Fundaciones.
+- **34.2** Regirá también para las fundaciones lo dispuesto en los apartados 2 y 4 del artículo 22 (ilegalidad de las que persigan fines o utilicen medios tipificados como delito; disolución o suspensión sólo en virtud de resolución judicial motivada).
+- **Desarrollo**: Ley 50/2002, de Fundaciones.
 
 #### Artículo 35 — Derecho y deber del trabajo
 
 > *"Todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia, sin que en ningún caso pueda hacerse discriminación por razón de sexo."* [CE, art. 35.1]
 
 - **35.2** La ley regulará un **estatuto de los trabajadores**.
-- **Desarrollo**: Real Decreto Legislativo 2/2015, Texto Refundido de la **Ley del Estatuto de los Trabajadores**.
+- **Desarrollo**: Real Decreto Legislativo 2/2015, texto refundido de la **Ley del Estatuto de los Trabajadores**.
 
 #### Artículo 36 — Colegios profesionales
 
 > *"La ley regulará las peculiaridades propias del régimen jurídico de los Colegios Profesionales y el ejercicio de las profesiones tituladas. La estructura interna y el funcionamiento de los Colegios deberán ser democráticos."* [CE, art. 36]
 
-- **Desarrollo**: Ley 2/1974 sobre Colegios Profesionales (preconstitucional, vigente con modificaciones).
+- **Desarrollo**: Ley 2/1974, sobre Colegios Profesionales.
 
 #### Artículo 37 — Negociación colectiva y conflicto colectivo
 
 > *"La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios."* [CE, art. 37.1]
 
-- **37.2** Se reconoce el derecho de los trabajadores y empresarios a adoptar **medidas de conflicto colectivo**. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluirá las garantías precisas para asegurar el funcionamiento de los **servicios esenciales** de la comunidad.
+- **37.2** Se reconoce el derecho de los trabajadores y empresarios a adoptar **medidas de conflicto colectivo**. La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que puedan establecer, incluirá las garantías precisas para asegurar el funcionamiento de los **servicios esenciales** de la comunidad.
 
 #### Artículo 38 — Libertad de empresa
 
 > *"Se reconoce la libertad de empresa en el marco de la economía de mercado. Los poderes públicos garantizan y protegen su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación."* [CE, art. 38]
 
-- **Limites**: economía de mercado pero con intervención pública para garantizar productividad y planificación.
-- **Doctrina TC**: STC 37/1981, STC 88/1986 sobre el alcance de la libertad de empresa.
-
-> **[DATO CLAVE EXAMEN]** Los artículos 30-38 se desarrollan por **ley ordinaria** (no ley orgánica) y **no son susceptibles de recurso de amparo**, salvo la **objeción de conciencia del art. 30.2**, que es la única excepción fuera del catálogo arts. 14-29.
+> **[DATO CLAVE]** Los artículos 30-38 vinculan a todos los poderes públicos y su ejercicio sólo puede regularse por **ley** que respete su contenido esencial (art. 53.1), pero **no tienen recurso de amparo**, salvo la **objeción de conciencia del artículo 30**, a la que el artículo 53.2 lo extiende expresamente.
 
 ### 5.4. Capítulo III — Principios rectores de la política social y económica (arts. 39-52)
 
-Tercer nivel de protección: **no son derechos subjetivos directamente exigibles**. El art. 53.3 establece que su reconocimiento, respeto y protección **informarán**:
-- La legislación positiva (orientan al legislador).
-- La práctica judicial (sirven como criterio interpretativo).
+Conforme al artículo 53.3, el reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo III **informarán**:
+
+- La legislación positiva.
+- La práctica judicial.
 - La actuación de los poderes públicos.
 
-**Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.** No tienen eficacia directa y no son susceptibles de recurso de amparo. La doctrina constitucional los califica como **mandatos al legislador** y como **criterios hermenéuticos** del resto del ordenamiento.
+**Sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.** El recurso de amparo del artículo 53.2 no los alcanza.
 
 #### Artículo 39 — Protección de la familia y la infancia
 
 > *"Los poderes públicos aseguran la protección social, económica y jurídica de la familia."* [CE, art. 39.1]
 
-- **39.2** Protección integral de los hijos, iguales estos ante la ley con independencia de su filiación. Posibilidad de investigación de la paternidad.
-- **39.3** Deberes de asistencia de los padres a los hijos durante su minoría de edad y en los demás casos en que legalmente proceda.
-- **39.4** Los niños gozaran de la protección prevista en los acuerdos internacionales que velan por sus derechos (Convención ONU Derechos del Niño, 1989).
-- **Desarrollo**: Código Civil (filiación, patria potestad); LO 1/1996 de Protección Jurídica del Menor; LO 8/2021 de Protección Integral a la Infancia y la Adolescencia frente a la Violencia.
+- **39.2** Los poderes públicos aseguran, asimismo, la protección integral de los hijos, iguales éstos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil. La ley posibilitará la investigación de la paternidad.
+- **39.3** Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda.
+- **39.4** Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.
+- **Desarrollo**: Código Civil (filiación, patria potestad); Ley Orgánica 1/1996, de Protección Jurídica del Menor; Ley Orgánica 8/2021, de protección integral a la infancia y la adolescencia frente a la violencia.
 
 #### Artículo 40 — Progreso social y económico
 
-> *"Los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica."* [CE, art. 40.1]
+> *"Los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa, en el marco de una política de estabilidad económica. De manera especial realizarán una política orientada al pleno empleo."* [CE, art. 40.1]
 
-- **40.2** Política orientada al **pleno empleo**. Formación y readaptación profesionales. Velaran por la **seguridad e higiene en el trabajo**. **Descanso necesario** mediante limitación de la jornada laboral, vacaciones periódicas retribuidas y promoción de centros adecuados.
-- **Desarrollo**: Ley 31/1995 de Prevención de Riesgos Laborales; Estatuto de los Trabajadores.
+- **40.2** Los poderes públicos fomentarán una política que garantice la formación y readaptación profesionales; velarán por la **seguridad e higiene en el trabajo** y garantizarán el **descanso necesario**, mediante la limitación de la jornada laboral, las vacaciones periódicas retribuidas y la promoción de centros adecuados.
+- **Desarrollo**: Ley 31/1995, de Prevención de Riesgos Laborales; Estatuto de los Trabajadores.
 
 #### Artículo 41 — Seguridad Social
 
 > *"Los poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres."* [CE, art. 41]
 
-- **Desarrollo**: Real Decreto Legislativo 8/2015, Texto Refundido de la Ley General de la Seguridad Social.
+- **Desarrollo**: Real Decreto Legislativo 8/2015, texto refundido de la Ley General de la Seguridad Social.
 
 #### Artículo 42 — Trabajadores en el extranjero
 
-> *"El Estado velara especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientara su política hacia su retorno."* [CE, art. 42]
+> *"El Estado velará especialmente por la salvaguardia de los derechos económicos y sociales de los trabajadores españoles en el extranjero y orientará su política hacia su retorno."* [CE, art. 42]
 
-- **Desarrollo**: Ley 40/2006 del Estatuto de la Ciudadanía Española en el Exterior.
+- **Desarrollo**: Ley 40/2006, del Estatuto de la ciudadanía española en el exterior.
 
 #### Artículo 43 — Protección de la salud
 
 > *"Se reconoce el derecho a la protección de la salud."* [CE, art. 43.1]
 
 - **43.2** Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los **derechos y deberes** de todos al respecto.
-- **43.3** Los poderes públicos fomentarán la **educación sanitaria, la educación física y el deporte**. Asimismo facilitaran la adecuada utilización del ocio.
-- **Desarrollo**: Ley 14/1986 General de Sanidad; Ley 16/2003 de Cohesión y Calidad del Sistema Nacional de Salud; Ley 33/2011 General de Salud Pública.
+- **43.3** Los poderes públicos fomentarán la **educación sanitaria, la educación física y el deporte**. Asimismo facilitarán la adecuada utilización del ocio.
+- **Desarrollo**: Ley 14/1986, General de Sanidad; Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud; Ley 33/2011, General de Salud Pública.
 
 #### Artículo 44 — Cultura, ciencia e investigación
 
-> *"Los poderes públicos promoverán y tutelaran el acceso a la cultura, a la que todos tienen derecho."* [CE, art. 44.1]
+> *"Los poderes públicos promoverán y tutelarán el acceso a la cultura, a la que todos tienen derecho."* [CE, art. 44.1]
 
-- **44.2** Promoción de la **ciencia y la investigación científica y técnica** en beneficio del interés general.
-- **Desarrollo**: Ley 14/2011 de la Ciencia, la Tecnología y la Innovación (modificada por Ley 17/2022).
+- **44.2** Los poderes públicos promoverán la **ciencia y la investigación científica y técnica** en beneficio del interés general.
+- **Desarrollo**: Ley 14/2011, de la Ciencia, la Tecnología y la Innovación (modificada por la Ley 17/2022).
 
 #### Artículo 45 — Medio ambiente
 
 > *"Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo."* [CE, art. 45.1]
 
-- **45.2** Los poderes públicos velaran por la utilización **racional** de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
-- **45.3** Sanciones penales o administrativas y obligación de reparar el daño causado para quienes violen lo dispuesto en el apartado anterior.
-- **Doctrina TC**: STC 102/1995 sobre competencias ambientales.
+- **45.2** Los poderes públicos velarán por la utilización **racional** de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
+- **45.3** Para quienes violen lo dispuesto en el apartado anterior, en los términos que la ley fije se establecerán sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.
 
 #### Artículo 46 — Patrimonio histórico, cultural y artístico
 
 > *"Los poderes públicos garantizarán la conservación y promoverán el enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España y de los bienes que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley penal sancionará los atentados contra este patrimonio."* [CE, art. 46]
 
-- **Desarrollo**: Ley 16/1985 del Patrimonio Histórico Español.
+- **Desarrollo**: Ley 16/1985, del Patrimonio Histórico Español.
 
 #### Artículo 47 — Vivienda
 
-> *"Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participara en las plusvalías que genere la acción urbanística de los entes públicos."* [CE, art. 47]
+> *"Todos los españoles tienen derecho a disfrutar de una vivienda digna y adecuada. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos."* [CE, art. 47]
 
-- **Desarrollo**: Ley 12/2023 por el Derecho a la Vivienda; Real Decreto Legislativo 7/2015 (Texto Refundido de la Ley del Suelo).
+- **Desarrollo**: Ley 12/2023, por el derecho a la vivienda; Real Decreto Legislativo 7/2015, texto refundido de la Ley de Suelo y Rehabilitación Urbana.
 
 #### Artículo 48 — Juventud
 
@@ -437,45 +418,42 @@ Tercer nivel de protección: **no son derechos subjetivos directamente exigibles
 
 #### Artículo 49 — Personas con discapacidad (reformado en 2024)
 
-> *"Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas. Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad, en entornos universalmente accesibles. Asimismo, fomentarán la participación de sus organizaciones, en los términos que la ley establezca. Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."* [CE, art. 49, redacción vigente desde la reforma de 15 febrero 2024]
+> *"1. Las personas con discapacidad ejercen los derechos previstos en este Título en condiciones de libertad e igualdad reales y efectivas. Se regulará por ley la protección especial que sea necesaria para dicho ejercicio. 2. Los poderes públicos impulsarán las políticas que garanticen la plena autonomía personal y la inclusión social de las personas con discapacidad, en entornos universalmente accesibles. Asimismo, fomentarán la participación de sus organizaciones, en los términos que la ley establezca. Se atenderán particularmente las necesidades específicas de las mujeres y los menores con discapacidad."* [CE, art. 49, en la redacción dada por la Reforma de 15 de febrero de 2024]
 
-- **Reforma 2024**: la redacción original (de 1978) hablaba de *"disminuidos físicos, sensoriales y psíquicos"* — se sustituyó por **"personas con discapacidad"**, alineando el texto constitucional con la Convención ONU sobre los Derechos de las Personas con Discapacidad (2006).
-- **Desarrollo**: Real Decreto Legislativo 1/2013 (Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social).
-- **Conexión Ayto Madrid**: la **Oficina Municipal de Accesibilidad** y los planes de accesibilidad universal cumplen el mandato del art. 49 a nivel local.
+- **Reforma 2024**: la redacción original (de 1978) se refería a los *"disminuidos físicos, sensoriales y psíquicos"*. El preámbulo de la reforma cita como eje central la Convención sobre los derechos de las personas con discapacidad, hecha en Nueva York el 13 de diciembre de 2006.
+- **Desarrollo**: Real Decreto Legislativo 1/2013, texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
 
 #### Artículo 50 — Tercera edad
 
-> *"Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderá sus problemas específicos de salud, vivienda, cultura y ocio."* [CE, art. 50]
+> *"Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio."* [CE, art. 50]
 
-- **Desarrollo**: Ley 39/2006 de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia (Ley de Dependencia).
+- **Desarrollo**: Ley 39/2006, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
 
 #### Artículo 51 — Defensa de consumidores y usuarios
 
 > *"Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos."* [CE, art. 51.1]
 
-- **51.2** Promoverán la **información y educación** de los consumidores y usuarios, fomentarán sus organizaciones y oirán a estas en las cuestiones que puedan afectarles.
+- **51.2** Los poderes públicos promoverán la **información y la educación** de los consumidores y usuarios, fomentarán sus organizaciones y oirán a éstas en las cuestiones que puedan afectar a aquéllos, en los términos que la ley establezca.
 - **51.3** En el marco de lo dispuesto por los apartados anteriores, la ley regulará el comercio interior y el régimen de autorización de productos comerciales.
-- **Desarrollo**: Real Decreto Legislativo 1/2007, Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios.
+- **Desarrollo**: Real Decreto Legislativo 1/2007, texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios.
 
 #### Artículo 52 — Organizaciones profesionales
 
 > *"La ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos que les sean propios. Su estructura interna y funcionamiento deberán ser democráticos."* [CE, art. 52]
 
-- Distinto de los Colegios Profesionales (art. 36): aquí se refiere a cámaras agrarias, organizaciones empresariales, sindicales no laborales, etc.
+> **[DATO CLAVE]** Los principios rectores (arts. 39-52) **informarán** la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y **sólo podrán ser alegados ante la Jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen** (art. 53.3). No tienen recurso de amparo (art. 53.2).
 
-> **[DATO CLAVE EXAMEN]** Los principios rectores (arts. 39-52) **no son derechos subjetivos exigibles directamente**: solo pueden ser alegados ante la jurisdicción ordinaria conforme a las leyes que los desarrollen (art. 53.3 CE). Su función es triple: **mandato al legislador**, **criterio interpretativo** y **vinculación** de los poderes públicos.
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** El Ayuntamiento de Madrid actúa en el ámbito de los principios rectores mediante, por ejemplo, la red municipal de bibliotecas y centros culturales (art. 44), la protección de los bienes catalogados del patrimonio histórico (art. 46), la Empresa Municipal de la Vivienda y Suelo (art. 47), los servicios sociales municipales (arts. 39, 49 y 50) y la información y defensa de las personas consumidoras (art. 51).
 
-> **[EJEMPLO AYTO MADRID]** El Ayuntamiento de Madrid materializa los principios rectores mediante: la **Red Municipal de Bibliotecas** y centros culturales (art. 44), la **protección de bienes inmuebles catalogados** del patrimonio histórico (art. 46), las **Empresas Municipales de la Vivienda y Suelo (EMVS)** (art. 47), la **Concejalía de Familias, Igualdad y Bienestar Social** (arts. 39, 49 y 50) y la **Dirección General de Comercio y Hostelería** en defensa del consumidor (art. 51).
+### 5.5. Capítulo IV — Garantías de las libertades y derechos fundamentales (arts. 53-54)
 
-### 5.5. Capítulo IV — Garantías de las libertades y derechos fundamentales (art. 53)
+El artículo 53 establece tres niveles de garantía:
 
-El artículo 53 establece un sistema **escalonado de protección**:
-
-- **Art. 53.1**. Los derechos y libertades reconocidos en el Capítulo II (arts. 14 a 38) **vinculan a todos los poderes públicos**. Solo **por ley** (que respete su contenido esencial) puede regularse su ejercicio, y tal regulación se hará conforme al artículo 81 (ley orgánica para el desarrollo de derechos fundamentales y libertades públicas).
+- **Art. 53.1**. Los derechos y libertades reconocidos en el Capítulo II (arts. 14 a 38) **vinculan a todos los poderes públicos**. Sólo **por ley**, que en todo caso deberá respetar su **contenido esencial**, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161.1.a) (recurso de inconstitucionalidad).
 - **Art. 53.2**. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos **reconocidos en el artículo 14 y la Sección 1.ª del Capítulo II** (arts. 15-29) ante los tribunales ordinarios por un procedimiento basado en los principios de **preferencia y sumariedad** y, en su caso, a través del **recurso de amparo** ante el Tribunal Constitucional. Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30.
-- **Art. 53.3**. El reconocimiento, el respeto y la protección de los **principios rectores del Capítulo III** informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Solo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
+- **Art. 53.3**. El reconocimiento, el respeto y la protección de los **principios rectores del Capítulo III** informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. Sólo podrán ser alegados ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
 
-> **[CITA CONSTITUCIONAL]** Artículo 53.1: *"Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos. Solo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades..."* [CE, art. 53.1]
+> **[CITA NORMATIVA]** Artículo 53.1: *"Los derechos y libertades reconocidos en el Capítulo segundo del presente Título vinculan a todos los poderes públicos. Sólo por ley, que en todo caso deberá respetar su contenido esencial, podrá regularse el ejercicio de tales derechos y libertades, que se tutelarán de acuerdo con lo previsto en el artículo 161, 1, a)."* [CE, art. 53.1]
 
 ### 5.6. Capítulo V — Suspensión de los derechos y libertades (art. 55)
 
@@ -483,121 +461,129 @@ El artículo 55 distingue dos regímenes de suspensión:
 
 #### 5.6.1. Suspensión general (art. 55.1) — estados de excepción y de sitio
 
-Durante la declaración de **estado de excepción** o **estado de sitio** (no durante el estado de alarma), pueden suspenderse los siguientes derechos:
+Cuando se acuerde la declaración del **estado de excepción** o de **sitio** en los términos previstos en la Constitución, podrán ser suspendidos los siguientes derechos:
 
-- Libertad y seguridad (art. 17), salvo el apartado 3 (derechos del detenido).
+- Libertad y seguridad (art. 17). En el estado de excepción se exceptúa el apartado 3 (derechos del detenido).
 - Inviolabilidad del domicilio (art. 18.2).
 - Secreto de las comunicaciones (art. 18.3).
 - Libertad de residencia y circulación (art. 19).
-- Libertad de expresión y de difusión de información (art. 20, apartados 1.a y 1.d, y apartado 5).
+- Libertad de expresión y de información (art. 20, apartados 1.a y 1.d, y apartado 5).
 - Derecho de reunión (art. 21).
 - Derecho de huelga (art. 28.2).
-- Derecho de adopción de medidas de conflicto colectivo (art. 37.2).
+- Derecho a adoptar medidas de conflicto colectivo (art. 37.2).
 
-> **[DATO CLAVE EXAMEN]** Nemotécnico para los derechos suspendibles en estado de excepción o sitio: **17-18.2-18.3-19-20-21-28.2-37.2**. En estado de **alarma** NO se suspende ningún derecho fundamental, solo se puede limitar su ejercicio.
+> **[DATO CLAVE]** Nemotécnico para los derechos suspendibles en estado de excepción o sitio: **17-18.2-18.3-19-20-21-28.2-37.2**. El artículo 55.1 no incluye el estado de **alarma** entre los supuestos de suspensión.
 
 #### 5.6.2. Suspensión individual (art. 55.2) — bandas armadas y terrorismo
 
-Una ley orgánica podrá determinar la forma y los casos en los que, de manera **individual y con la necesaria intervención judicial y el adecuado control parlamentario**, podrán ser suspendidos los derechos reconocidos en:
+Una ley orgánica podrá determinar la forma y los casos en los que, **de forma individual y con la necesaria intervención judicial y el adecuado control parlamentario**, pueden ser suspendidos para personas determinadas los derechos reconocidos en:
 
-- Plazos de detención preventiva (art. 17.2).
+- Plazo máximo de la detención preventiva (art. 17.2).
 - Inviolabilidad del domicilio (art. 18.2).
 - Secreto de las comunicaciones (art. 18.3).
 
-Todo ello en relación con las investigaciones correspondientes a la actuación de **bandas armadas o elementos terroristas**. La utilización injustificada o abusiva de estas facultades producirá **responsabilidad penal**, como violación de los derechos y libertades reconocidos por las leyes. [CE, art. 55.2]
+Todo ello en relación con las investigaciones correspondientes a la actuación de **bandas armadas o elementos terroristas**. La utilización injustificada o abusiva de las facultades reconocidas en dicha ley orgánica producirá **responsabilidad penal**, como violación de los derechos y libertades reconocidos por las leyes. [CE, art. 55.2]
 
-> **[EJEMPLO AYTO MADRID]** Si la Policía Municipal de Madrid identifica en colaboración con cuerpos y fuerzas de seguridad del Estado indicios de actividad terrorista en un domicilio, el acceso al domicilio sin consentimiento del titular requiere **siempre resolución judicial** salvo flagrante delito. La suspensión individual del artículo 55.2 no habilita a la Administración local para practicar registros sin cobertura judicial.
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si la Policía Municipal de Madrid, en colaboración con las Fuerzas y Cuerpos de Seguridad del Estado, identifica indicios de actividad terrorista en un domicilio, la entrada sin consentimiento del titular requiere **resolución judicial**, salvo flagrante delito (art. 18.2). La suspensión individual del artículo 55.2 exige ley orgánica, intervención judicial y control parlamentario.
 
 ---
 
 ## 6. Títulos II a X — Parte orgánica (síntesis)
 
-La parte orgánica diseña la arquitectura institucional del Estado. A los efectos del Tema 1, basta con ubicar correctamente cada materia:
+A los efectos del Tema 1, basta con ubicar correctamente cada materia:
 
-- **Título II — De la Corona** (arts. 56-65): regula la institución monárquica, las funciones del Rey como Jefe del Estado, la sucesión y la regencia.
+- **Título II — De la Corona** (arts. 56-65): el Rey como Jefe del Estado, la sucesión y la regencia.
 - **Título III — De las Cortes Generales** (arts. 66-96): Congreso de los Diputados y Senado. Elaboración de las leyes. Tratados internacionales.
-- **Título IV — Del Gobierno y de la Administración** (arts. 97-107): funciones del Gobierno, composición, responsabilidad, órganos consultivos.
+- **Título IV — Del Gobierno y de la Administración** (arts. 97-107): funciones del Gobierno, composición, responsabilidad, Consejo de Estado.
 - **Título V — De las relaciones entre el Gobierno y las Cortes Generales** (arts. 108-116): control parlamentario, cuestión de confianza, moción de censura, estados de alarma, excepción y sitio (art. 116).
-- **Título VI — Del Poder Judicial** (arts. 117-127): independencia judicial, CGPJ, Ministerio Fiscal.
+- **Título VI — Del Poder Judicial** (arts. 117-127): Jueces y Magistrados, Consejo General del Poder Judicial, Ministerio Fiscal.
 - **Título VII — Economía y Hacienda** (arts. 128-136): planificación económica, Hacienda Pública, Presupuestos, Tribunal de Cuentas.
-- **Título VIII — De la Organización Territorial del Estado** (arts. 137-158): Cap. I Principios generales, Cap. II Administración local, Cap. III Comunidades Autónomas.
+- **Título VIII — De la Organización Territorial del Estado** (arts. 137-158): Cap. I Principios generales, Cap. II De la Administración Local, Cap. III De las Comunidades Autónomas.
 - **Título IX — Del Tribunal Constitucional** (arts. 159-165): composición y competencias.
-- **Título X — De la Reforma Constitucional** (arts. 166-169).
+- **Título X — De la reforma constitucional** (arts. 166-169).
 
-> **[REFERENCIA CRUZADA]** El Título VIII será objeto principal del **Tema 2**. El Título VI y el Título IX serán desarrollados en el **Tema 4**. El Título II y el Título III, en el **Tema 3**.
+> **[RELACIÓN CON OTROS TEMAS]** El Título VIII es objeto del **Tema 2** (La Constitución Española (II): la Organización territorial del Estado).
 
 ---
 
 ## 7. Reforma constitucional (Título X)
 
-El Título X regula los procedimientos y los limites de la reforma de la Constitución.
+El Título X regula los procedimientos y los límites de la reforma de la Constitución.
 
 ### 7.1. Iniciativa (art. 166)
 
-La iniciativa de reforma corresponde a los mismos sujetos que la iniciativa legislativa (art. 87.1 y 87.2): Gobierno, Congreso, Senado y Asambleas de las Comunidades Autónomas. **Se excluye la iniciativa popular** para la reforma constitucional [CE, art. 166 en relación con art. 87.3].
+La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87: Gobierno, Congreso y Senado, y las Asambleas de las Comunidades Autónomas, que pueden solicitar del Gobierno la adopción de un proyecto o remitir a la Mesa del Congreso una proposición. El artículo 166 no remite al apartado 3 del artículo 87, que regula la **iniciativa popular**. [CE, art. 166]
 
 ### 7.2. Procedimiento ordinario (art. 167)
 
-Se aplica a toda reforma parcial que **no afecte** a los núcleos duros del artículo 168.
+Se aplica a toda reforma que **no** esté comprendida en el artículo 168.
 
-- Aprobación por mayoría de **tres quintos** de cada Cámara.
-- Si no hay acuerdo, se intenta mediante una **Comisión Mixta paritaria** Congreso-Senado, que presenta un texto que se somete de nuevo a ambas Cámaras.
-- Si aun así no se alcanza la aprobación mediante el procedimiento del apartado anterior y el texto ha obtenido la mayoría absoluta del Senado, el Congreso puede aprobar la reforma por **mayoría de dos tercios**.
-- **Referéndum facultativo**: se convoca si lo solicitan, dentro de los quince días siguientes a su aprobación, **una décima parte** de los miembros de cualquiera de las Cámaras.
+- Aprobación por mayoría de **tres quintos** de cada una de las Cámaras.
+- Si no hubiera acuerdo entre ambas, se intentará obtenerlo mediante la creación de una **Comisión de composición paritaria** de Diputados y Senadores, que presentará un texto que será votado por el Congreso y el Senado.
+- De no lograrse la aprobación mediante ese procedimiento, y siempre que el texto hubiere obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso, por mayoría de **dos tercios**, podrá aprobar la reforma.
+- **Referéndum facultativo**: la reforma será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, **una décima parte** de los miembros de cualquiera de las Cámaras.
 
 ### 7.3. Procedimiento agravado (art. 168)
 
-Se aplica cuando se propone la **revisión total** de la Constitución o una **revisión parcial** que afecte a:
+Se aplica cuando se propusiere la **revisión total** de la Constitución o una **parcial** que afecte a:
 
-- El **Título Preliminar**.
-- El **Capítulo II, Sección 1.ª, del Título I** (arts. 15-29 — derechos fundamentales y libertades públicas).
+- El **Título preliminar**.
+- El **Capítulo segundo, Sección primera, del Título I** (arts. 15-29 — derechos fundamentales y libertades públicas).
 - El **Título II** (De la Corona).
 
 Fases:
 
 1. Aprobación del **principio** por mayoría de **dos tercios** de cada Cámara.
 2. **Disolución inmediata** de las Cortes.
-3. Las **nuevas Cámaras** elegidas deben **ratificar la decisión** y proceder al estudio del nuevo texto constitucional.
+3. Las **Cámaras elegidas** deberán **ratificar la decisión** y proceder al estudio del nuevo texto constitucional.
 4. Aprobación del texto por mayoría de **dos tercios** de ambas Cámaras.
-5. **Referéndum obligatorio** de ratificación.
+5. **Referéndum** para su ratificación (en todo caso).
 
-### 7.4. Limite temporal — Artículo 169
+### 7.4. Límite temporal — Artículo 169
 
-No podrá iniciarse la reforma constitucional en tiempo de guerra ni durante la vigencia de los estados de alarma, excepción o sitio.
+No podrá iniciarse la reforma constitucional en tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116 (alarma, excepción y sitio).
 
-> **[DATO CLAVE EXAMEN]** Tres números a memorizar absolutamente: **3/5** (ordinario), **2/3 + 2/3** (agravado), **1/10** (petición de referéndum facultativo). Una reforma agravada requiere disolución de Cortes y referéndum obligatorio.
+> **[DATO CLAVE]** Tres números a memorizar: **3/5** (ordinario), **2/3 + 2/3** (agravado), **1/10** (petición de referéndum en el ordinario). La reforma agravada requiere disolución de las Cortes y referéndum en todo caso.
 
 ---
 
-## 8. Reformas históricas de la Constitución
+## 8. Reformas de la Constitución
 
-Hasta la fecha, la Constitución Española ha sido reformada **tres veces**. Las tres siguieron el **procedimiento ordinario**.
+Hasta la fecha, la Constitución Española ha sido reformada **cuatro veces**. Ninguna afecta a las materias del artículo 168.1, por lo que las cuatro se tramitaron por el procedimiento del **artículo 167**; la exposición de motivos de la reforma de 1992 lo cita expresamente.
 
 ### 8.1. Reforma de 1992 — Artículo 13.2
 
-- **Motivo**: adaptación al Tratado de la Unión Europea (Maastricht).
-- **Contenido**: modificación del artículo 13.2 para permitir que ciudadanos de otros Estados miembros de la UE puedan ser **electores y elegibles** en elecciones municipales.
-- **Procedimiento**: ordinario. Aprobada por las Cortes Generales. No requirió referéndum.
+- **Motivo** (exposición de motivos): el Tratado de la Unión Europea reconocía a todo ciudadano de la Unión el derecho a ser elector y elegible en las elecciones municipales del Estado miembro en que resida, y el artículo 13.2 no mencionaba el sufragio pasivo.
+- **Contenido**: el artículo 13.2 pasa a referirse al derecho de sufragio **activo y pasivo** en las elecciones municipales.
+- **Norma**: Reforma del artículo 13, apartado 2, de la Constitución Española, de 27 de agosto de 1992.
 - [REF-1992]
 
 ### 8.2. Reforma de 2011 — Artículo 135
 
-- **Motivo**: crisis económica y financiera; compromisos con la UE en materia de estabilidad presupuestaria.
-- **Contenido**: modificación del artículo 135 para:
-    - Consagrar el principio de **estabilidad presupuestaria** como criterio vinculante de la actuación de todas las Administraciones Públicas.
-    - Establecer que el Estado y las Comunidades Autónomas no podrán incurrir en un **déficit estructural** que supere los margenes establecidos por la Unión Europea.
-    - Fijar la **prioridad absoluta del pago de la deuda pública** frente a otros gastos.
-- **Procedimiento**: ordinario. Aprobada por amplia mayoría. No se convocó referéndum.
+- **Motivo** (exposición de motivos): garantizar el principio de estabilidad presupuestaria, vinculando a todas las Administraciones Públicas en su consecución, reforzar el compromiso de España con la Unión Europea y garantizar la sostenibilidad económica y social del país.
+- **Contenido**: nueva redacción del artículo 135, que dispone, entre otras cosas, que:
+    - Todas las Administraciones Públicas adecuarán sus actuaciones al principio de **estabilidad presupuestaria**.
+    - El Estado y las Comunidades Autónomas no podrán incurrir en un **déficit estructural** que supere los márgenes establecidos, en su caso, por la Unión Europea para sus Estados Miembros. Las Entidades Locales deberán presentar equilibrio presupuestario.
+    - El pago de los créditos para satisfacer los intereses y el capital de la deuda pública de las Administraciones **gozará de prioridad absoluta**.
+- **Norma**: Reforma del artículo 135 de la Constitución Española, de 27 de septiembre de 2011.
 - [REF-2011]
 
 ### 8.3. Reforma de 2024 — Artículo 49
 
-- **Motivo**: adaptación terminologica y superación de discriminaciones a las personas con discapacidad.
-- **Contenido**: modificación del artículo 49 para sustituir el término "disminuidos" por **"personas con discapacidad"** y asegurar su plena participación en la vida política y pública.
-- **Procedimiento**: ordinario. Aprobada por amplia mayoría en ambas Cámaras.
+- **Motivo** (preámbulo): actualizar el lenguaje y el contenido del artículo 49 para reflejar los valores que inspiran la protección de las personas con discapacidad, tanto en el ámbito nacional como internacional.
+- **Contenido**: nueva redacción del artículo 49, que sustituye la referencia a los "disminuidos físicos, sensoriales y psíquicos" por **"personas con discapacidad"**, se estructura en dos apartados y menciona las necesidades específicas de las mujeres y los menores con discapacidad.
+- **Norma**: Reforma del artículo 49 de la Constitución Española, de 15 de febrero de 2024.
 - [REF-2024]
 
-> **[DATO CLAVE EXAMEN]** Nemotécnico "92-UE · 11-euros · 24-dignidad": 1992 arregla el voto UE (art. 13.2), 2011 arregla las finanzas (art. 135), 2024 arregla el lenguaje sobre discapacidad (art. 49). Las tres siguieron el **procedimiento ordinario**, ninguna el agravado.
+### 8.4. Reforma de 2026 — Artículo 69.3
+
+- **Motivo** (título de la reforma): que la isla de Formentera elija un senador propio.
+- **Contenido**: nueva redacción del artículo 69.3: en las provincias insulares, cada isla con Cabildo o Consejo Insular constituye una circunscripción a efectos de elección de Senadores, correspondiendo tres a cada una de las islas mayores (Gran Canaria, Mallorca y Tenerife) y uno a cada una de las siguientes islas: **Ibiza, Formentera**, Menorca, Fuerteventura, La Gomera, El Hierro, Lanzarote y La Palma. Antes, Ibiza-Formentera formaba una sola agrupación.
+- **Eficacia**: la creación de las circunscripciones de Ibiza y Formentera queda pospuesta hasta la convocatoria de las primeras elecciones al Senado que se celebren tras la entrada en vigor de la reforma (disposición transitoria única).
+- **Norma**: Reforma del apartado 3 del artículo 69 de la Constitución Española, a los efectos de que la isla de Formentera elija un senador propio, de 19 de mayo de 2026 (BOE núm. 123, de 20 de mayo de 2026).
+- [REF-2026]
+
+> **[DATO CLAVE]** Nemotécnico "92-UE · 11-euros · 24-discapacidad · 26-Formentera": 1992 (art. 13.2, sufragio pasivo en municipales), 2011 (art. 135, estabilidad presupuestaria), 2024 (art. 49, personas con discapacidad), 2026 (art. 69.3, senador de Formentera). Las cuatro por el **artículo 167**, ninguna por el agravado.
 
 ---
 
@@ -608,18 +594,18 @@ Hasta la fecha, la Constitución Española ha sido reformada **tres veces**. Las
 El artículo 53.1 impone una **doble regla**:
 
 1. **Vinculación** de todos los poderes públicos a los derechos del Capítulo II (arts. 14-38).
-2. **Reserva de ley** para su regulación, que en todo caso deberá respetar **el contenido esencial** del derecho.
+2. **Reserva de ley** para la regulación de su ejercicio, que en todo caso deberá respetar **el contenido esencial** del derecho.
 
-La ley orgánica (art. 81) es la vía exigida para el **desarrollo de los derechos fundamentales y las libertades públicas** (arts. 15-29). Los demás derechos del Capítulo II (arts. 30-38) pueden regularse por ley ordinaria.
+Conforme al artículo 81.1, son leyes orgánicas las relativas al **desarrollo de los derechos fundamentales y de las libertades públicas**, rúbrica de la Sección 1.ª del Capítulo II (arts. 15-29). Su aprobación, modificación o derogación exige mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto (art. 81.2).
 
 ### 9.2. Tutela judicial preferente y sumaria
 
-El artículo 53.2 establece dos vías de protección **reforzada** para los derechos del artículo 14 y de la Sección 1.ª del Capítulo II (arts. 15-29):
+El artículo 53.2 establece dos vías de protección para los derechos del artículo 14 y de la Sección 1.ª del Capítulo II (arts. 15-29):
 
-- **Jurisdicción ordinaria**: procedimiento basado en los principios de **preferencia y sumariedad**.
-- **Jurisdicción constitucional**: **recurso de amparo** ante el Tribunal Constitucional.
+- **Tribunales ordinarios**: procedimiento basado en los principios de **preferencia y sumariedad**.
+- **Tribunal Constitucional**: **recurso de amparo**, en su caso.
 
-El amparo se extiende además a la **objeción de conciencia** del artículo 30. Fuera de ese catálogo, no cabe amparo.
+El amparo se extiende además a la **objeción de conciencia** reconocida en el artículo 30. El Tribunal Constitucional es competente para conocer del recurso de amparo por violación de los derechos y libertades referidos en el artículo 53.2 (art. 161.1.b), y están legitimados para interponerlo toda persona natural o jurídica que invoque un interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal (art. 162.1.b).
 
 ### 9.3. Eficacia de los principios rectores
 
@@ -629,13 +615,13 @@ El artículo 53.3 establece que los principios rectores del Capítulo III (arts.
 - La práctica judicial.
 - La actuación de los poderes públicos.
 
-Solo podrán ser alegados ante la jurisdicción ordinaria **de acuerdo con lo que dispongan las leyes que los desarrollen**. No tienen eficacia directa y no son susceptibles de recurso de amparo.
+Sólo podrán ser alegados ante la jurisdicción ordinaria **de acuerdo con lo que dispongan las leyes que los desarrollen**. El recurso de amparo del artículo 53.2 no los alcanza.
 
 ### 9.4. Defensor del Pueblo (art. 54)
 
-El artículo 54 crea la figura del **Defensor del Pueblo** como alto comisionado de las Cortes Generales, designado por estas para la defensa de los derechos comprendidos en el Título I. A tal efecto, puede supervisar la actividad de la Administración, dando cuenta a las Cortes Generales. Una **ley orgánica** regula su estatuto.
+Una **ley orgánica** regulará la institución del **Defensor del Pueblo**, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en el Título I, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales. [CE, art. 54] **Desarrollo**: Ley Orgánica 3/1981, del Defensor del Pueblo.
 
-> **[EJEMPLO AYTO MADRID]** Un ciudadano que considere vulnerado su derecho a la intimidad por el uso excesivo de cámaras de videovigilancia municipal en una plaza pública puede: (1) recurrir ante la jurisdicción ordinaria por el procedimiento preferente y sumario, (2) acudir al Defensor del Pueblo con competencia estatal o al Defensor del Pueblo de la Comunidad de Madrid si existe, (3) interponer, en su caso y una vez agotada la vía judicial ordinaria, recurso de amparo ante el Tribunal Constitucional.
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Un ciudadano que considere vulnerado su derecho a la intimidad por el uso de cámaras de videovigilancia municipal en una plaza pública puede: (1) recabar la tutela de los tribunales ordinarios por el procedimiento preferente y sumario (art. 53.2), (2) acudir al Defensor del Pueblo, que puede supervisar la actividad de la Administración (art. 54), y (3) interponer, en su caso, recurso de amparo ante el Tribunal Constitucional una vez agotada la vía judicial.
 
 ---
 
@@ -643,56 +629,59 @@ El artículo 54 crea la figura del **Defensor del Pueblo** como alto comisionado
 
 ### 10.1. Estados de excepción y de sitio
 
-El artículo 116 regula la declaración de los tres estados de emergencia constitucional (alarma, excepción y sitio). La **Ley Orgánica 4/1981** desarrolla los aspectos procedimentales. Durante los estados de **excepción** y **sitio** puede suspenderse el catálogo del artículo 55.1 ya enumerado en la sección 5.6.1.
+El artículo 116 dispone que una ley orgánica regulará los estados de alarma, de excepción y de sitio, y las competencias y limitaciones correspondientes; esa ley es la **Ley Orgánica 4/1981**, de los estados de alarma, excepción y sitio. Durante los estados de **excepción** y **sitio** puede suspenderse el catálogo del artículo 55.1 ya enumerado en la sección 5.6.1.
 
-### 10.2. Alarma sin suspensión
+- **Alarma** (art. 116.2): declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados, sin cuya autorización no podrá ser prorrogado.
+- **Excepción** (art. 116.3): declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados; su duración no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos.
+- **Sitio** (art. 116.4): declarado por la mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno.
 
-Durante el **estado de alarma** no cabe suspender derechos fundamentales, solo **limitarlos** en la medida estrictamente necesaria para afrontar la situación. Esta es una diferencia examinable con frecuencia.
+### 10.2. Estado de alarma
+
+El artículo 55.1 sólo prevé la suspensión de derechos cuando se declara el estado de **excepción** o de **sitio**; el estado de **alarma** no figura en él. La Ley Orgánica 4/1981 dispone que las medidas a adoptar en los estados de alarma, excepción y sitio serán en cualquier caso las estrictamente indispensables para asegurar el restablecimiento de la normalidad, y que su aplicación se realizará de forma proporcionada a las circunstancias (art. 1.2 LO 4/1981).
 
 ### 10.3. Suspensión individual y control judicial
 
 La suspensión individual del artículo 55.2 debe reunir tres requisitos acumulativos:
 
-1. **Cobertura legal expresa** (ley orgánica).
+1. **Ley orgánica** que determine la forma y los casos.
 2. **Intervención judicial necesaria**.
 3. **Control parlamentario adecuado**.
 
-La utilización injustificada o abusiva genera **responsabilidad penal** como violación de derechos y libertades.
+La utilización injustificada o abusiva de las facultades reconocidas en esa ley orgánica genera **responsabilidad penal** como violación de los derechos y libertades reconocidos por las leyes.
 
 ---
 
 ## 11. Posición de la Constitución en el ordenamiento jurídico
 
-### 11.1. Supremacía constitucional
+### 11.1. Sujeción a la Constitución
 
-La Constitución es la **norma suprema** del ordenamiento. Todas las normas inferiores deben ajustarse a ella. El Tribunal Constitucional es el intérprete supremo [CE, art. 161].
+Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico (art. 9.1). La disposición derogatoria deja sin efecto cuantas disposiciones se opongan a lo establecido en la Constitución (apartado 3). El Tribunal Constitucional, "como intérprete supremo de la Constitución", es independiente de los demás órganos constitucionales y está sometido sólo a la Constitución y a su Ley Orgánica (art. 1.1 de la Ley Orgánica 2/1979, del Tribunal Constitucional).
 
-### 11.2. Jerarquía normativa
+### 11.2. Jerarquía normativa y fuentes que regula la Constitución
 
-La jerarquía normativa básica [CE, art. 9.3]:
+El artículo 9.3 garantiza el principio de **jerarquía normativa**. La propia Constitución regula, entre otras, estas fuentes:
 
-1. **Constitución** (superior a cualquier otra norma interna).
-2. **Tratados internacionales** válidamente celebrados y publicados en el BOE (art. 96.1).
-3. **Leyes orgánicas** (art. 81) — reserva material para derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas en la Constitución.
-4. **Leyes ordinarias**, decretos-leyes (art. 86) y decretos legislativos (arts. 82-85).
-5. **Reglamentos**.
-6. **Costumbre** y **principios generales del derecho** (con carácter supletorio en defecto de ley).
+1. **Tratados internacionales**: los válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno (art. 96.1).
+2. **Leyes orgánicas**: las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución (art. 81).
+3. **Leyes ordinarias**, **decretos legislativos** (arts. 82-85) y **decretos-leyes** (art. 86).
+4. **Reglamentos**: el Gobierno ejerce la potestad reglamentaria de acuerdo con la Constitución y las leyes (art. 97).
 
-### 11.3. Aplicación directa e inmediata
+### 11.3. Vinculación de los poderes públicos
 
-La Constitución es **directamente aplicable**: cualquier operador jurídico puede y debe invocarla, sin perjuicio de su desarrollo legal en los puntos en que así lo exija.
+Los derechos y libertades del Capítulo II del Título I vinculan a todos los poderes públicos (art. 53.1), y la declaración de los estados de alarma, de excepción y de sitio no modifica el principio de responsabilidad del Gobierno y de sus agentes reconocidos en la Constitución y en las leyes (art. 116.6).
 
 ---
 
 ## 12. Organización territorial — introducción al Título VIII
 
-El Título VIII asienta tres principios generales relevantes para el Tema 1:
+El Título VIII asienta los principios generales de la organización territorial:
 
-- **Autonomía**: el Estado se organiza territorialmente en **municipios, provincias y Comunidades Autónomas** que se constituyan. Todas gozan de autonomía para la gestión de sus respectivos intereses. [CE, art. 137]
-- **Solidaridad e igualdad**: se reconoce el derecho a la autonomía de las nacionalidades y regiones, en el marco de la solidaridad entre todas ellas [CE, art. 2]. Ningún español podrá ser privado de sus derechos en cualquier parte del territorio del Estado por razón de su origen o vecindad.
-- **No privilegio**: las diferencias entre los Estatutos no podrán implicar privilegios económicos o sociales [CE, art. 138.2].
+- **Autonomía**: el Estado se organiza territorialmente en **municipios, en provincias y en las Comunidades Autónomas** que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses. [CE, art. 137]
+- **Solidaridad**: el Estado garantiza la realización efectiva del principio de solidaridad consagrado en el artículo 2, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular. [CE, art. 138.1]
+- **No privilegio**: las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar, en ningún caso, privilegios económicos o sociales. [CE, art. 138.2]
+- **Igualdad**: todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado. [CE, art. 139.1]
 
-> **[REFERENCIA CRUZADA]** El desarrollo completo de la organización territorial se aborda en el **Tema 2** del temario.
+> **[RELACIÓN CON OTROS TEMAS]** El desarrollo completo de la organización territorial se aborda en el **Tema 2** del temario.
 
 ---
 
@@ -700,7 +689,7 @@ El Título VIII asienta tres principios generales relevantes para el Tema 1:
 
 **CONSTITUCIÓN ESPAÑOLA 1978**
 
-Datos clave (pregunta típica examen):
+Datos clave:
 - Aprobada: 31 octubre 1978
 - Referéndum: 6 diciembre 1978
 - Sanción: 27 diciembre 1978
@@ -716,27 +705,28 @@ Datos clave (pregunta típica examen):
 - Preliminar (1-9) · I Derechos (10-55) · II Corona · III Cortes · IV Gobierno · V Relaciones · VI Judicial · VII Economía · VIII Territorial · IX TC · X Reforma.
 
 **DERECHOS FUNDAMENTALES**
-- Arts. 14-29 — **Amparo + preferencia y sumariedad** (máxima protección)
-- Arts. 30-38 — Ley ordinaria
-- Arts. 39-52 — Principios rectores, informan; solo alegables según leyes de desarrollo
+- Arts. 14-29 — **Amparo + preferencia y sumariedad** (art. 53.2)
+- Arts. 30-38 — Regulación por ley que respete el contenido esencial (art. 53.1)
+- Arts. 39-52 — Principios rectores, informan; solo alegables según leyes de desarrollo (art. 53.3)
 
 **GARANTÍAS (art. 53)**
 - Vinculan a todos los poderes públicos
-- Reserva de ley (orgánica para 15-29)
+- Reserva de ley (orgánica para el desarrollo de los derechos fundamentales y libertades públicas, art. 81.1)
 - Recurso de amparo solo para 14-29 y objeción de conciencia del 30
 
 **SUSPENSIÓN (art. 55)**
-- Colectiva (excepción/sitio): 17 · 18.2 · 18.3 · 19 · 20 · 21 · 28.2 · 37.2
+- Colectiva (excepción/sitio): 17 · 18.2 · 18.3 · 19 · 20 · 21 · 28.2 · 37.2 (el 17.3 se exceptúa en el estado de excepción)
 - Individual (terrorismo/bandas armadas): 17.2 · 18.2 · 18.3
 
 **REFORMA**
-- Ordinaria (art. 167): 3/5 (fallback 2/3 Congreso)
+- Ordinaria (art. 167): 3/5 (o 2/3 del Congreso con mayoría absoluta del Senado)
 - Agravada (art. 168): 2/3 + disolución + 2/3 nuevas Cortes + referéndum obligatorio
 
-**REFORMAS HISTÓRICAS**
+**REFORMAS**
 - 1992 -> art. 13.2 (UE)
 - 2011 -> art. 135 (estabilidad presupuestaria)
 - 2024 -> art. 49 (personas con discapacidad)
+- 2026 -> art. 69.3 (senador de Formentera)
 
 ---
 
