@@ -256,19 +256,19 @@
   <text x="360" y="122" class="d4-title">2. APROBACIÓN: 3/5 de CADA Cámara</text>
   <text x="360" y="138" class="d4-sub">Congreso + Senado</text>
   <line x1="360" y1="150" x2="360" y2="180" class="d4-arrow"/>
-  <line x1="360" y1="150" x2="150" y2="215" class="d4-arrow"/>
+  <line x1="230" y1="125" x2="115" y2="180" class="d4-arrow"/>
   <rect x="230" y="180" width="260" height="50" rx="8" class="d4-ok"/>
   <text x="360" y="202" class="d4-title">3a. ACUERDO -> APROBADO</text>
   <text x="360" y="218" class="d4-sub">texto final</text>
-  <rect x="20" y="215" width="260" height="60" rx="8" class="d4-alt"/>
-  <text x="150" y="235" class="d4-title">3b. SIN ACUERDO</text>
-  <text x="150" y="251" class="d4-sub">Comisión Mixta paritaria</text>
-  <text x="150" y="267" class="d4-sub">nueva votación en ambas Cámaras</text>
-  <line x1="150" y1="275" x2="150" y2="305" class="d4-arrow"/>
-  <rect x="20" y="305" width="260" height="60" rx="8" class="d4-alt"/>
-  <text x="150" y="325" class="d4-title">4. FALLBACK</text>
-  <text x="150" y="343" class="d4-sub">Senado: mayoría absoluta</text>
-  <text x="150" y="358" class="d4-sub">Congreso: 2/3 del pleno</text>
+  <rect x="15" y="180" width="200" height="60" rx="8" class="d4-alt"/>
+  <text x="115" y="200" class="d4-title">3b. SIN ACUERDO</text>
+  <text x="115" y="216" class="d4-sub">Comisión Mixta paritaria</text>
+  <text x="115" y="232" class="d4-sub">nueva votación en ambas Cámaras</text>
+  <line x1="115" y1="240" x2="115" y2="270" class="d4-arrow"/>
+  <rect x="15" y="270" width="200" height="60" rx="8" class="d4-alt"/>
+  <text x="115" y="290" class="d4-title">4. FALLBACK</text>
+  <text x="115" y="308" class="d4-sub">Senado: mayoría absoluta</text>
+  <text x="115" y="323" class="d4-sub">Congreso: 2/3 del pleno</text>
   <line x1="360" y1="230" x2="360" y2="270" class="d4-arrow"/>
   <rect x="260" y="270" width="200" height="50" rx="8" class="d4-ref"/>
   <text x="360" y="292" class="d4-title">5. REFERÉNDUM</text>
@@ -291,7 +291,7 @@
 **Propósito**: Flujo del procedimiento agravado: revisión total o afectación de Preliminar, 15-29 o Título II.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Flujo del procedimiento agravado de reforma constitucional">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" role="img" aria-label="Flujo del procedimiento agravado de reforma constitucional">
   <style>
     .d5-box{fill:#d13c3c;stroke:#8a2828;stroke-width:1.5}
     .d5-step{fill:#0055a0;stroke:#003d73;stroke-width:1.5}
@@ -328,13 +328,13 @@
   <text x="360" y="352" class="d5-title">4. APROBACIÓN DEL TEXTO</text>
   <text x="360" y="368" class="d5-sub">2/3 de cada Cámara (nuevas)</text>
   <line x1="360" y1="380" x2="360" y2="410" class="d5-arrow"/>
-  <rect x="240" y="410" width="240" height="24" rx="6" class="d5-ok"/>
-  <text x="360" y="427" class="d5-title">5. REFERÉNDUM OBLIGATORIO</text>
+  <rect x="240" y="410" width="240" height="44" rx="8" class="d5-ok"/>
+  <text x="360" y="437" class="d5-title">5. REFERÉNDUM OBLIGATORIO</text>
   <text x="630" y="105" class="d5-note">2/3</text>
   <text x="630" y="195" class="d5-note">obligatoria</text>
   <text x="630" y="280" class="d5-note">nuevo estudio</text>
   <text x="630" y="360" class="d5-note">2/3 de nuevo</text>
-  <text x="630" y="422" class="d5-note" style="fill:#2d8659">OBLIGATORIO</text>
+  <text x="630" y="437" class="d5-note" style="fill:#2d8659">OBLIGATORIO</text>
 </svg>
 ```
 
@@ -490,7 +490,7 @@
   <rect x="180" y="148" width="280" height="38" class="d8-lo"/>
   <text x="320" y="171" class="d8-title">Leyes orgánicas (art. 81)</text>
   <rect x="160" y="191" width="320" height="38" class="d8-lord"/>
-  <text x="320" y="214" class="d8-title" style="font-size:11px">Leyes ordinarias · Decretos-ley · Decretos legislativos</text>
+  <text x="320" y="214" class="d8-title" style="font-size:11px;fill:#1a1a1a">Leyes ordinarias · Decretos-ley · Decretos legislativos</text>
   <rect x="140" y="234" width="360" height="38" class="d8-reg"/>
   <text x="320" y="256" class="d8-label" style="text-anchor:middle">Reglamentos (Real Decreto · Orden Ministerial · Ordenanza)</text>
   <rect x="120" y="277" width="400" height="38" class="d8-cost"/>
@@ -584,8 +584,8 @@
   <text x="340" y="110" class="d10-label">Protección media</text>
   <text x="340" y="128" class="d10-range">arts. 30-38</text>
   <polygon points="250,150 430,150 450,220 230,220" class="d10-bot"/>
-  <text x="340" y="170" class="d10-label">Protección mínima</text>
-  <text x="340" y="188" class="d10-range">arts. 39-52</text>
+  <text x="340" y="170" class="d10-label" style="fill:#1a1a1a">Protección mínima</text>
+  <text x="340" y="188" class="d10-range" style="fill:#1a1a1a">arts. 39-52</text>
   <rect x="20" y="50" width="230" height="60" rx="6" fill="#fff" stroke="#0055a0"/>
   <text x="30" y="68" class="d10-detail" style="font-weight:700">Derechos fundamentales</text>
   <text x="30" y="84" class="d10-detail">· Ley orgánica (art. 81)</text>
@@ -594,7 +594,7 @@
   <text x="450" y="128" class="d10-detail" style="font-weight:700">Derechos y deberes</text>
   <text x="450" y="144" class="d10-detail">· Ley ordinaria</text>
   <text x="450" y="158" class="d10-detail">· Jurisdicción ordinaria</text>
-  <rect x="20" y="170" width="210" height="58" rx="6" fill="#fff" stroke="#88b2d9"/>
+  <rect x="20" y="170" width="200" height="58" rx="6" fill="#fff" stroke="#88b2d9"/>
   <text x="30" y="188" class="d10-detail" style="font-weight:700">Principios rectores</text>
   <text x="30" y="204" class="d10-detail">· Informan legislación/práctica</text>
   <text x="30" y="218" class="d10-detail">· Solo alegables conforme a ley</text>
@@ -619,7 +619,7 @@
 **Propósito**: Itinerario del recurso de amparo desde la vulneración al Tribunal Constitucional.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400" role="img" aria-label="Flujo del recurso de amparo constitucional">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" role="img" aria-label="Flujo del recurso de amparo constitucional">
   <style>
     .d11-start{fill:#e89822}
     .d11-ord{fill:#0055a0}
@@ -653,8 +653,8 @@
   <text x="350" y="328" class="d11-sub">Tribunal Constitucional</text>
   <text x="350" y="342" class="d11-sub">plazo 30 días</text>
   <line x1="350" y1="350" x2="350" y2="380" class="d11-arrow"/>
-  <rect x="240" y="380" width="220" height="18" rx="4" class="d11-ok"/>
-  <text x="350" y="394" class="d11-title" style="font-size:11px">AMPARO / DENEGACIÓN</text>
+  <rect x="240" y="380" width="220" height="44" rx="8" class="d11-ok"/>
+  <text x="350" y="407" class="d11-title">AMPARO / DENEGACIÓN</text>
   <rect x="20" y="100" width="200" height="120" rx="8" fill="#fff" stroke="#0055a0"/>
   <text x="120" y="122" class="d11-note" style="font-weight:700">ÁMBITO DEL AMPARO</text>
   <text x="120" y="142" class="d11-note">Art. 14 (igualdad)</text>
@@ -704,13 +704,13 @@
   <line x1="160" y1="130" x2="160" y2="150" class="d12-line"/>
   <line x1="360" y1="130" x2="360" y2="150" class="d12-line"/>
   <line x1="560" y1="130" x2="560" y2="150" class="d12-line"/>
-  <rect x="60" y="150" width="200" height="44" rx="8" class="d12-ccaa"/>
-  <text x="160" y="172" class="d12-label">COMUNIDADES AUTÓNOMAS</text>
+  <rect x="64" y="150" width="192" height="44" rx="8" class="d12-ccaa"/>
+  <text x="160" y="172" class="d12-label" style="font-size:12px">COMUNIDADES AUTÓNOMAS</text>
   <text x="160" y="188" class="d12-art">arts. 143-158 · Estatutos</text>
-  <rect x="260" y="150" width="200" height="44" rx="8" class="d12-prov"/>
-  <text x="360" y="172" class="d12-label">PROVINCIAS</text>
-  <text x="360" y="188" class="d12-art">art. 141 · Diputaciones</text>
-  <rect x="460" y="150" width="200" height="44" rx="8" class="d12-mun" stroke="#0055a0" stroke-width="1.5"/>
+  <rect x="264" y="150" width="192" height="44" rx="8" class="d12-prov"/>
+  <text x="360" y="172" class="d12-label" style="fill:#0b2f57">PROVINCIAS</text>
+  <text x="360" y="188" class="d12-art" style="fill:#0b2f57">art. 141 · Diputaciones</text>
+  <rect x="464" y="150" width="192" height="44" rx="8" class="d12-mun" stroke="#0055a0" stroke-width="1.5"/>
   <text x="560" y="172" class="d12-mun-label">MUNICIPIOS</text>
   <text x="560" y="188" class="d12-mun-art">art. 140 · Ayuntamientos</text>
   <line x1="560" y1="194" x2="560" y2="220" class="d12-line"/>
