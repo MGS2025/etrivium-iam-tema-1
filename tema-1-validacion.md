@@ -23,7 +23,7 @@ Al final hay un **apartado de observaciones generales** para feedback abierto.
 
 - [ ] Las fuentes Tier 1 listadas en `tema-1-fuentes.md` son correctas (BOE CE 1978 + 4 reformas).
 - [ ] No se han introducido fuentes doctrinales: el texto fuera de las cajas se ciñe a lo que dice la norma.
-- [ ] Cada afirmación del contenido que reproduce texto constitucional esta marcada con `[CE, art. X]`.
+- [ ] Cada afirmación del contenido que reproduce texto constitucional esta marcada con `(art. X CE)`.
 - [ ] Las cuatro reformas (1992, 2011, 2024 y 2026) están correctamente identificadas con año + artículo afectado.
 - [ ] Cada pregunta del banco y de los casos prácticos puede reconducirse a un artículo de la CE o de la norma citada.
 
@@ -96,7 +96,7 @@ Al final hay un **apartado de observaciones generales** para feedback abierto.
 - [ ] Los ficheros `.md` usan encabezados coherentes (H1, H2, H3, etc.).
 - [ ] Las tablas están correctamente formateadas.
 - [ ] Los callouts siguen los 4 tipos establecidos (DATO CLAVE / CITA NORMATIVA / EJEMPLO DE APLICACIÓN EN EL AYTO / RELACIÓN CON OTROS TEMAS).
-- [ ] La nomenclatura de artículos es consistente (`[CE, art. X]`).
+- [ ] La nomenclatura de artículos es consistente (`(art. X CE)`).
 - [ ] Las referencias a otros ficheros del tema son correctas (links relativos).
 - [ ] Se respeta el castellano sin errores ortográficos manifiestos.
 

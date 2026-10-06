@@ -14,7 +14,7 @@
 A diferencia de los temas técnicos (11-40), los temas del bloque administrativo trabajan con **corpus cerrado**: el texto literal de la Constitución Española publicado en el BOE y sus reformas.
 
 - **No se busca doctrina externa ni bibliografía académica** para el contenido del tema.
-- Las citas se expresan como referencias a **artículos** (`[CE, art. 14]`) o al **BOE oficial de cada reforma**.
+- Las citas se expresan como referencias a **artículos** (`(art. 14 CE)`) o al **BOE oficial de cada reforma**.
 - Fuera de las cajas, el contenido se ciñe a lo que dicen la Constitución y las leyes que se citan como desarrollo.
 
 ---
@@ -59,10 +59,10 @@ A diferencia de los temas técnicos (11-40), los temas del bloque administrativo
 
 ### Esquema de referencia para el contenido
 
-- **Articulado**: `[CE, art. X]` o `[CE, art. X.Y]` — p.ej. `[CE, art. 20.2]`
+- **Articulado**: `(art. X CE)` o `(art. X.Y CE)` — p.ej. `(art. 20.2 CE)`
 - **Títulos y Capítulos**: `[CE, Titulo I, Cap. II, Seccion 1.ª]`
 - **Reformas**: `[REF-1992]`, `[REF-2011]`, `[REF-2024]`
-- **Disposiciones**: `[CE, DA 1.ª]`, `[CE, DT 4.ª]`, `[CE, DD]`, `[CE, DF]`
+- **Disposiciones**: `(DA 1.ª CE)`, `(DT 4.ª CE)`, `[CE, DD]`, `[CE, DF]`
 
 ---
 
@@ -76,7 +76,7 @@ A diferencia de los temas técnicos (11-40), los temas del bloque administrativo
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca texto constitucional va acompañada de `[CE, art. X]`.
+1. Toda afirmación que reproduzca texto constitucional va acompañada de `(art. X CE)`.
 2. Las cuatro reformas se identifican siempre con año + número de artículo afectado.
 3. Los datos memorísticos (fechas, número de artículos, mayorías exigidas) se marcan con el callout `[DATO CLAVE]`.
 4. Las diferencias entre "derechos fundamentales" (arts. 14-29), "derechos y deberes" (arts. 30-38) y "principios rectores" (arts. 39-52) se recuerdan en cajas `[DATO CLAVE]`; los enlaces con otros temas se marcan con `[RELACIÓN CON OTROS TEMAS]`.

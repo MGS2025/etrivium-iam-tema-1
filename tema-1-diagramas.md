@@ -277,7 +277,7 @@
   <rect x="260" y="360" width="200" height="50" rx="8" class="d4-ok"/>
   <text x="360" y="382" class="d4-title">ENTRADA EN VIGOR</text>
   <text x="360" y="398" class="d4-sub">publicación en BOE</text>
-  <text x="570" y="32" class="d4-label" style="font-weight:700;fill:#d13c3c">[CE, art. 167]</text>
+  <text x="570" y="32" class="d4-label" style="font-weight:700;fill:#d13c3c">(art. 167 CE)</text>
   <text x="570" y="52" class="d4-label">Para reformas que</text>
   <text x="570" y="68" class="d4-label">NO afectan al 168</text>
 </svg>
